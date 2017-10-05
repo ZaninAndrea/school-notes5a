@@ -1,0 +1,34 @@
+# I post kantiani
+
+## G. Fichte
+Il principio di tutta la realtà è Io (il pensiero).
+Principi assoluti
+- Il primo principio assoluto della scienza è che l’Io pone se stesso. Perfino le leggi della logica devono essere accettate dall’Io. 
+- Il secondo principio assoluto della scienza è che l’Io pone il non-Io.
+- Il terzo principio assoluto della scienza è che l’Io oppone all’Io divisibile un non-Io divisibile. Ossia la materia viene compresa e trasformata in ragione in un processo infinito.
+
+Piace molto ai Romantici, perché l’uomo non è suddito della materia, ma è lui che la forgia.
+Scrive un discorso alla nazione tedesca in cui li incita a liberarsi dal giogo francese.
+Scrive “La Missione del Dotto” in cui scrive che lo scopo dei saggi è porre al servizio del popolo il loro sapere.
+
+L'Io-penso è centrale, è esso che fonda la logica e la realtà. Esso pone l'esistenza di se stesso e del non-Io, infatti è il pensiero a riconoscere l'esistenza di un non-Io.
+Quindi c'è un qualcosa che è pensato, ma è materiale. Le categorie sono il modo in cui l'Io trasforma in pensiero il non-Io: all'inizio la natura è incomprensiile, poi viene man mano compresa attraverso le categorie.
+Ficthe quindi qui rappresenta lo sforzo infinito attraverso cui l'uomo tende a comprendere la natura.
+In un tempo infinito l'Io riuscirà a rimuovere tutto il non-Io.
+
+Ficthe ha anche delle implicazioni politiche: il pensiero deve affermare ogni concetto egli stesso, questo viene interpretato come un compito per l'individuo di affermare i propri ideali indipendentemente dalla sua situazione (magari di oppressione).
+
+
+## F. Schelling
+La base della realtà è un’unità indistinta di spirito e natura. La natura in vari gradi diventa spirito (e.g. l’elettricità)
+
+Schelling rifiuta la prevalenza del pensiero e ritiene invece che sia l'insieme di pensiero e materia ad essere l'Assoluto, ossia la realtà originaria.
+¡ Questo va contro Kant !
+
+La natura ha vari gradi di complessità, dal sasso all'uomo, che riesce addirittura a concepire lo spirito.
+Attraverso il pensiero lo spirito riesce a comprendere la materia.
+L'elettricità è una manifestazione dello spirito.
+Inizialmente materia e pensiero erano unite, ma nel mondo si presentano distinte.
+
+L'arte è il mezzo attraverso cui comprendiamo l'unità tra pensiero e materia, perchè l'artista deve avere l'idea, ma anche realizzarla concretamente.
+
