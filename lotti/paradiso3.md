@@ -80,3 +80,141 @@ Le anime sono state costrette a rompere il voto, altrimenti non sarebbero in Par
 
 Ma parla con loro e ascolta e credi, perché tutte le anime sono appagate dalla luce della verità che non le lascia dire altro che la verità
 
+torcer li piedi --> si nota l'innaturalezza del movimento di allontanamento
+Volontà didattica di beatrice
+
+> E io a l’ombra che parea più vaga		 
+> di ragionar, drizza’mi, e cominciai,
+> quasi com’ uom cui troppa voglia smaga:	36
+
+E io all'ombra che sembrava più desiderosa [vaga] di ragionare, mi rivolsi e comicia, con quell'atteggiamento di colui che vuole fare quacosa così tanto che quasi non riesce a farlo.
+
+> «O ben creato spirito, che a’ rai	
+> di vita etterna la dolcezza senti
+> che, non gustata, non s’intende mai,	39
+> grazïoso mi fia se mi contenti	
+> del nome tuo e de la vostra sorte».
+> Ond’ ella, pronta e con occhi ridenti:	42
+
+Oh spirito ben creato [perché ha raggiunto la selvezza], che senti la dolcezza 
+dei raggi della vita eterna, che se non la provi non puoi capire. A cui lei pronta e con occhi ridenti
+
+sinestesia: rai (vista), dolcezza (gusto), senti (udito)
+
+Prima terzina: captatio benevolentia, poi vv40-41 richiesta.
+del nome tuo e de la vostra sorte --> come vi chiamate e perche siete qui
+
+occhi ridenti è una metonimia per tutto il volto
+
+> «La nostra carità non serra porte		 
+> a giusta voglia, se non come quella
+> che vuol simile a sé tutta sua corte.	45
+
+La carità che ci viene da Dio non può dire no ad un desiderio giusto, come non lo fa quella che vuole simile a se tutta la corte (la carità e quindi Dio)
+
+nostra --> idea di comunità
+
+> I’ fui nel mondo vergine sorella;	
+> e se la mente tua ben sé riguarda,
+> non mi ti celerà l’esser più bella,	48
+
+Io fui una suora e se guardi con attenzione mi riconoscerai nonostante io sia in una condizione più bella [trasumanata].
+
+> ma riconoscerai ch’i’ son Piccarda,	
+> che, posta qui con questi altri beati,
+> beata sono in la spera più tarda.	51
+
+ma riconoscerai che sono Piccarda, sono posta qui con questi altri beati nell'ultima sfera [del Paradiso].
+
+tarda --> più lenta, dato che è più piccola la sfera deve girare meno velocemente
+
+Dante evidenzia che sebbene sia la condizione meno fortunata del Paradiso è pur sempre Paradiso.
+
+> Li nostri affetti, che solo infiammati	
+> son nel piacer de lo Spirito Santo,
+> letizian del suo ordine formati.	54
+
+I nostri affetti, che sono infiammati solo dal piacere dello Spirito Santo, gioiscono di esere parte di un ordine universale.
+
+Rappresentazione della beatitutidine
+
+> E questa sorte che par giù cotanto,	
+> però n’è data, perché fuor negletti
+> li nostri voti, e vòti in alcun canto».	57
+
+E questa sorte che appare/sembra così in basso, per questo [*per*, per hoc] ci è stata data, perché siamo stati costretti a rinunciare ai nostri voti e a renderli vuoti.
+
+Siamo entusiasti di essere in questa posizione
+
+> Ond’ io a lei: «Ne’ mirabili aspetti		 
+> vostri risplende non so che divino
+> che vi trasmuta da’ primi concetti:	60
+
+E io a lei: Nei vostri mirabili aspetti risplende un qualcosa di divino, che vi trasmuta dal primo vostro aspetto
+
+> però non fui a rimembrar festino;	
+> ma or m’aiuta ciò che tu mi dici,
+> sì che raffigurar m’è più latino.	63
+
+per ciò [però, per hoc] non ti ho riconosciuta subita, ma ciò che mi dici adesso
+mi aiuta sicchè raffigurare il tuo viso mi è più chiaro [latino =chiaro]
+
+> Ma dimmi: voi che siete qui felici,	
+> disiderate voi più alto loco
+> per più vedere e per più farvi amici?».	66
+
+Ma dimmi: voi che siete qui felici, non desiderate di salire, per vedere di più e farvi amici.
+
+> Con quelle altr’ ombre pria sorrise un poco;		 
+> da indi mi rispuose tanto lieta,
+> ch’arder parea d’amor nel primo foco:	69
+
+Con le altre anime prima mi sorrise un po' e poi mi risposecon tanta gioia, che pareva bruciare d'amore nello Spirito Santo.
+
+Tema del calore: sorrise, lieta, arder, amor, primo foco
+
+> «Frate, la nostra volontà quïeta	
+> virtù di carità, che fa volerne
+> sol quel ch’avemo, e d’altro non ci asseta.	72
+
+Fratello, la virtù di carità quieta la nostra volontà [costrutto alla latina], che ci fa volere ciò che abbiamo e non ci fa volere altro.
+
+Il tema della volontà è molto importante in tutta la risposta di Piccarda, partendo dalla volontà personale, che poi si perde nella volontà di Dio
+
+> Se disïassimo esser più superne,	
+foran discordi li nostri disiri
+dal voler di colui che qui ne cerne;	75
+
+Se desiderassimo di essere più in alto, questo sarebbe discorde con la volontà di Dio
+
+> che vedrai non capere in questi giri,	
+s’essere in carità è qui necesse,
+e se la sua natura ben rimiri.	78
+
+> Anzi è formale ad esto beato esse	
+tenersi dentro a la divina voglia,
+per ch’una fansi nostre voglie stesse;	81
+
+Anzi è costitutivo di questa beatitudine e di tenersi all'interno della volontà divina, per cui tutte le nostre volontà si uniscono
+
+> sì che, come noi sem di soglia in soglia	
+per questo regno, a tutto il regno piace
+com’ a lo re che ’n suo voler ne ’nvoglia.	84
+
+Sicchè noi siamo ..., a tutto il regno piace come al loro re che nel suo vole e nella sua volontà
+
+¡ Gerarchia !
+
+> E ’n la sua volontade è nostra pace:	
+ell’ è quel mare al qual tutto si move
+ciò ch’ella crïa o che natura face».	87
+
+E nella sua volontà è la nostra pace: è quel mare verso cui tutto si muove, sia ciò che egli crea o che la natura fa.
+
+Una logica di abbandono alla volontà divina
+
+> Chiaro mi fu allor come ogne dove		 
+in cielo è paradiso, etsi la grazia
+del sommo ben d’un modo non vi piove.	90
+
+Mi fu chiaro allora che ovunque in cielo è paradiso, anche se la grazia di Dio non piove allo stesso modo in ogni cielo

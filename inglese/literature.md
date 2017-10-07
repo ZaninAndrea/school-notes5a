@@ -86,6 +86,10 @@ The poet and the Lamb are the same, because the poet is a boy and so is the Lamb
 
 Christ refers to himself as a Lamb. The 3 subjects of the poem in the end are only 1
 
+#### The Tyger
+There is a clear connection witht the poem "The Lamb": "did he who made the lamb make thee".
+The only difference between he first and the last stanza is the change from "could" to "dare", meaning the opinion of the poet: the one who createdthe tiger "dared" to do that.
+
 ## Second Generation
 It starts with Lord Byron, he writes adventurous stories, his main character is a hero that rebels against social hypocrisy.
 
