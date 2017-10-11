@@ -218,3 +218,66 @@ in cielo è paradiso, etsi la grazia
 del sommo ben d’un modo non vi piove.	90
 
 Mi fu chiaro allora che ovunque in cielo è paradiso, anche se la grazia di Dio non piove allo stesso modo in ogni cielo
+
+Tutti sono beati, ma alcuni sono più beati degli altri.
+Grazia rappresentata dalla pioggia
+
+> Ma sì com’ elli avvien, s’un cibo sazia		 
+e d’un altro rimane ancor la gola,
+che quel si chere e di quel si ringrazia,	93
+così fec’ io con atto e con parola,	
+per apprender da lei qual fu la tela
+onde non trasse infino a co la spuola.	96
+
+Ma come avviene quando un cibo sazia e l'altro rimane in gola, che uno si chiede e l'altro si ringrazia. Così feci io con atto e con le parole per sapere quale fu la tela che non ha completato.
+
+Similitudine prima terzina
+chiasmo --> sazia-rimane-chere-ringrazia
+Quel che ho avuto- quel che chiedo - quel che chiedo - quel che ho avuto
+
+La metafora della tela si rifersice a quale voto non è riuscita a mantenere.
+
+> «Perfetta vita e alto merto inciela		 
+donna più sù», mi disse, «a la cui norma
+nel vostro mondo giù si veste e vela,	99
+
+"C'è una donna che per la sua perfetta vita e alto merito è stata messa nel cielo più in alto" mi disse "alla cui regola nel vostro mondo giù si veste e mette il velo
+
+La donna è Santa Chiara
+
+> perché fino al morir si vegghi e dorma	
+con quello sposo ch’ogne voto accetta
+che caritate a suo piacer conforma.	102
+
+perché fino a morir si vegli e dorma con quello sposo che accetta ogni voto e che conforma la carità al suo piacere [Cristo]
+
+> Dal mondo, per seguirla, giovinetta	
+fuggi’mi, e nel suo abito mi chiusi
+e promisi la via de la sua setta.	105
+Uomini poi, a mal più ch’a bene usi,	
+fuor mi rapiron de la dolce chiostra:
+Iddio si sa qual poi mia vita fusi.	108
+
+Da giovane fuggii dal mondo per seguirla, mi chiusi nell'abito monacale e promisi di seguire la sua regola. Poi uomini con cattive intenzioni mi rapirono dal conventoL Dio sa poi quale fu la mia vita.
+
+la prima terzina è la tela e la seconda è il motivo per cui non è finita.
+
+Sembra quasi scusare i suoi rapitori.
+
+#sindromedistoccolma: piccarda difende i suoi rapitori
+
+> E quest’ altro splendor che ti si mostra		 
+da la mia destra parte e che s’accende
+di tutto il lume de la spera nostra,	111
+ciò ch’io dico di me, di sé intende;	
+sorella fu, e così le fu tolta
+di capo l’ombra de le sacre bende.	114
+
+E quest'altro splendore che c`è alla mia destra e si accende ti tutta la luce della nostra speranza, quello che dico di me vale anche per lei; fu suora e così le furono tolte dal capo le sacre bende
+
+La nuova è Costanza d'Altavilla
+
+> Ma poi che pur al mondo fu rivolta	
+contra suo grado e contra buona usanza,
+non fu dal vel del cor già mai disciolta.	117
+

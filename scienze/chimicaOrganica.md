@@ -83,4 +83,10 @@ E.g. **1,4**-esa**di**ene
 
 Negli *-enini* per la numerazione della catena hanno la priorità i doppi legami
 
-### Reazioni
+### Regola di Markovnikov
+L'idrogeno si unisce all'atomo di Carbonio con più atomi di H.
+
+### Polimerizzazione
+L'iniziatore radicalico è una molecola di qualsiasi tipo, che si divida in radicali. Il radicale poi rompe un doppio legame e si attacca alla catena.
+
+La nuova molecole è essa stessa un radicale e ripete la reazione, finchè non si legano 2 radicali (reazione di terminazione)

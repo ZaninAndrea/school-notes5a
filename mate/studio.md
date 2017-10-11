@@ -44,3 +44,39 @@ $f(0)=4$ e $f(2)=40$, quindi non possiamo affermarlo con certezza.
 
 Provo con l'intervallo $[-2,-1]$
 $f(-1)=1$ e $f(-2)=-32$, quindi in questo interallo è presente uno zero.
+
+## Limiti delle successioni
+Una successione è una sequenza infinita di valori che rispettino una determinata regola.
+E.g.
+$$
+a_n=\frac{3n}{n-1} \qquad n \in \mathbb{N}/\{0,1\}
+$$
+La successione è $6$, $\frac{9}{2}$, ...
+
+Le regole per i limiti sono come al solito.
+
+### Classificazione
+#### Diergente positivamente
+$$
+\lim_{n\to+\infty} a_n = = \infty
+$$
+
+#### Divergente negativamente
+$$
+\lim_{n\to+\infty} a_n = - \infty
+$$
+
+#### Convergente
+$$
+\lim_{n\to+\infty} a_n = l
+$$
+
+#### Indeterminata
+$$
+\lim_{n\to+\infty} a_n = \nexists
+$$
+
+E.g.
+$$
+a_n=\frac{n}{2n+1}(-1)^n
+$$

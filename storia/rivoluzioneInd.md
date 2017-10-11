@@ -1,0 +1,23 @@
+# Rivoluzione Industriale
+C'è un riassestamento dei settori produttivi.
+Inurbamento: tanti disperati se ne vanno dalle campagne e si spostano in città.
+Nel 1870 c'è una crisi agricola, perché nel nuovo mondo si producono cereali a basso costo. I paesi europei reagiscoo imponendo dei dazi, Gran Bretagna a parte.
+
+Si sviluppano testi stampati e anche il popolo inizia a leggere di più (anche se magari solo fumetti).
+
+In una prima fase emigrano principalmente tedeschi ed iralnadesi, poi europei mediterranei, russi e slavi.
+Anche gli Stati Uniti iniziano a limitare i flussi migratori.
+
+In un secolo dal 1815 emigrano 48 milioni di persone.
+
+Molte famiglie europee dipendono dai soldi mandati dai parenti all'estero.
+È il periodo in cui si forma il *melting pot* americano.
+
+Iniziano a emergere i sindacati
+
+Marx pubblica il manifesto del partito comunista
+Marx e Hengels ritengono che non si possa pi``u trattenere la forza dei lavoratori.
+
+Iniziano anche ad emergere i primi partiti politici socialisti.
+
+Si formano trust (più aziende controllate unitariamente) e cartelli (accordi tra aziende) e molte aziende arrivano ad essere semi-monopoli.
