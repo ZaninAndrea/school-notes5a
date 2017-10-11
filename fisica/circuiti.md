@@ -1,4 +1,6 @@
 ## Circuiti RC
+I circuiti RC sono circuiti composti da una resistenza e un condensatore collegati in serie ad una batteria.
+
 ### Carica del condensatore
 $$
 q(t)=C\epsilon(1-e^{-\frac{t}{RC}})
