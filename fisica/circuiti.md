@@ -24,3 +24,5 @@ $$
 $$
 i(t)=\frac{\epsilon}{R}e^{-\frac{t}{RC}}
 $$
+
+Notare che l'intensità decresce alla stessa maniera sia in un circuito di carica che di scarica
