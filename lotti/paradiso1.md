@@ -7,8 +7,52 @@ climax di compagni: Virgilio (ragione), Beatrice (teologia), San Bernardo (misti
 Il Purgatorio termina con Dante e Beatrice in cima al Paradiso terrestre, un giardino. 
 Climax del Dante agens che sale e climax stilistico da parte del Dante auctor.
 
+**vv1-3**: La gloria di Dio pervade l'universo, ma risplende di più in alcune parti.
 
-**Vv 31-33**: la disaffezione verso la carriera poetica è tale, che quando qualcuno dimostra di volerla intraprendere (la fronda peneia), Apollo (lieta delfica deita) dovrebbe essere stracontento (parturir letizia)
+La parola gloria ci introduce immediatamente al tema del paradiso.
+Con questa terzina Dante introduce il tema della meritocrazia
+
+**vv4-6**: Io fui nel cielo più illumiato da lui e vidi cose che chi scende da lassù non riesce a raccontare
+
+introduce la gerarchia dei cieli
+è il dante auctor a parlare
+logica di ineffabilità
+
+**vv7-9**: Perchè avvicinandosi al suo desiderio, il nostro intelletto va così in profondità che la memoria non ci sta dietro.
+
+Spiega perchè non può raccontare
+
+**vv10-12**: Tuttavia, ciò che mi ricordo del Paradiso sarà l'oggetto del mio canto
+
+Protasi --> dichiarazione dell'argomento
+Contraddice in parte l'ineffabilità precedentemente dichiarata
+
+**vv13-15**: O buon Apollo, per quest'ultima impresa dammi la tua forza poetica, come richiedi per dare l'amato alloro
+
+Invocazione ad Apollo. Climax nei 3 canti: le Muse (Inferno), Calliope (Purgatorio), Apollo (Paradiso).
+Apollo è la poesia per antonomasia e dato il periodo storico Dante non ha problemi per questo riferimento ad un dio pagano
+
+Alloro: simbolo di vittoria e rapresenta Dafne
+
+**vv16-18**: fino ad adesso è bastata una vetta del Parnaso, ma adesso devo affrontare l'ultima battaglia con entrambe.
+
+Le vette del Parnaso simboleggiano l'una le Muse e l'altra Apollo, a cui Dante chiede aiuto.
+
+**vv19-21**: Entra nel mio petto ed ispirami come quando scroticasti Marsia
+
+Come nel purgatorio aveva raccontato la storia di Calliope e delle Pierie adesso racconta la storia di Apollo e il Satiro Marsia. L'analogia è evidente: Marsia sfida Apollo, perde e viene punito (scorticato) per questo.
+Dante sceglie solo un momento della storia: la scorticazione
+
+tue --> tu
+
+**vv22-27**: Virtù dviina, se mi ti concedi abbastanza da raccontare un'ombra del Paradiso che mi si è impressa nella mente, mi vedrai venire ai piedi dell'alloro e ad incoronarmi delle sue foglie, di cui l'argomento e tu mi farete degno
+
+Ciò che posso raccontare non è che un'ombra della gloria di Dio
+Dante spiega che se riesce in quest'impresa sarà un vero poeta incoronato con l'alloro. Sottolinea che questo sarà possibile solo grazie all'ispirazione e a ciò che racconta
+
+diletto legno --> alloro --> Dafne
+
+**vv28-33**: la disaffezione verso la carriera poetica è tale, che quando qualcuno dimostra di volerla intraprendere (la fronda peneia), Apollo (lieta delfica deita) dovrebbe essere stracontento (parturir letizia)
 
 Orgoglio del poeta (nel ‘800- ‘900 questo sentimento non sempre è presente)
 
@@ -41,7 +85,9 @@ Nel Medioevo si riteneva che l’aquila riuscisse a guardare il sole più di ogn
 
 Di  nuovo “là” e “qui” sono Dante auctor. 
 
-**vv 58-60** tema della lumniosità
+**vv 58-60** Non riuscii a fissare il Sole per tanto, ma abbastanza da vederlo sfavillare tutto intorno, come ferro bollente che esce dal fuoco
+
+tema della lumniosità
 
 **vv 61-63** L'unico che può rendere il giorno più luminoso è Dio
 
@@ -78,6 +124,8 @@ Ci riporta alla situazione di Dante come studente, che vuole sapere.
 **85-87** A cui lei (Beatrice), che mi vedeva come mi vedevo io, per calmare il mio animo mosso, ancora prima che io domandassi, lei apri bocca
 
 La volontà di anticipare la domanda è un tema ricorrente nel Paradiso, come segno della carità e amore che splende nel paradiso.
+
+**vv 88-90**: Ti stai facendo confusione con un'idea sbagliata e per questo non capisci ciò che capiresti se non avessi questa idea
 
 **VV 89-96** Si entra in una logica di discipolo e maestro. Una risposta genera un nuovo dubbio. L'immagine dell'apprendimento viene concretizzata attraverso *scosso* (scuotere il dubbio), *disvestito* (togliere i preconcetti)  e *inretito*  () 
 
