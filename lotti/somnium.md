@@ -101,7 +101,7 @@ Lettera **Y** come rappresentazione di ancipitem
 
 > Nam cum aetas tua septenos octiens solis anfractus reditusque converterit, duoque hi numeri, quorum uterque plenus alter altera de causa habetur, circuitu naturali summam tibi fatalem confecerint, in te unum atque in tuum nomen se tota convertet civitas, te senatus, te omnes boni, te socii, te Latini in tuebuntur, tu eris unus, in quo nitatur civitatis salus,
 
-![cap3b.jpg](images/cap3b.jpg)
+![cap4b.jpg](images/cap4b.jpg)
 
 Quando infatti la tua età [*aetas tua*] avrà compiuto [*converterit*] otto volte sette [*septenos*, distributivo] circuiti [*anfractus* termine astronomico per dire il percorso tra un tropico e l'altro] e ritorni del sole [*solis*], e questi due numeri, l'uno e l'altro [*uterque*] dei quali sono considerati perfetti [*plenus habetur*] l'uno per un motivo, l'altro per l'altro, avranno prodotto [*confecerint*] con il loro corso naturale [*circuitu naturali*] la somma destinata [*summa tibi fatalem*], verso di te solo [*in te unum*] e verso il tuo nome [*in tuum nomen*] tutta la città si rivolgerà [*converteret*], a e guarderà il Senato, a te gli ottimati, a te i socii, a te i Latini, tu sarai il solo [*tu eris unus*] sul quale potrà poggiare [*nitor*] la salvezza della città [*salus civitatis*],
 
@@ -117,6 +117,28 @@ e per non dire di più [*ne multa*, *dicam* sottinteso] è opportuno [*oportet*]
 
 >  Hic cum exclamavisset Laelius ingemuissentque vehementius ceteri, leniter adridens Scipio: St! quaeso inquit, ne me e somno excitetis, et parumper audite cetera.
 
+![cap4d.jpg](images/cap4d.jpg)
+
 A questo punto avendo esclamato [gridato] Lelio e avendo gli altri espresso i loro lamenti [*ingemuissent*] con maggior forza, Scipio con un lieve sorriso [*leniter adridens*] disse: Shh! silenzio, non [*ne*+congiuntivo esortativo] svegliatemi dal sonno e per un po' [*parumper*] ascoltate il resto.
 
-**Sicuramente in verifica:** Alcune versioni mettono *parumper* altri *parum rebus*, questo indica un'incertezza nei codici che ci sono pervenuti e non è ppossibile raggiungere conclusioni filologiche certe. Affianco a *parum rebus* cè una croce, la ✝ *crux desperationis*, perché non c'è modo di risolvere il problema
+**Sicuramente in verifica:** Alcune versioni mettono *parumper* altri *parum rebus*, questo indica un'incertezza nei codici che ci sono pervenuti e non è ppossibile raggiungere conclusioni filologiche certe. Affianco a *parum rebus* c'è una croce, la ✝ *crux desperationis*, perché non c'è modo di risolvere il problema
+
+## Capitolo 5
+> Sed quo sis, Africane, alacrior ad tutandam rem publicam, sic habeto: omnibus, qui patriam conservarint, adiuverint, auxerint certum esse in caelo definitum locum, ubi beati aevo sempiterno fruantur;
+
+![cap5a.jpg](images/cap5a.jpg)
+
+Perché tu sia, Africano [*sed quo sis*], più risoluto [*alacrior*] per difendere lo stato [*ad tutandam rem publicam*], sappi questo [*sic habeto*, abbi così]: per tutti coloro che hanno conservato, aiutato, accresciuto la patria, certo è che [*certum*] c'è in cielo un luogo definito, dove i beati godano di una vita senza fine
+
+*sic habeto* è una prolettica e regge una esplicativa
+*auxerint* da *augeo*: far crescere
+*conservarint, adiuverint, auxerint* è un omoteleuto (finiscono tutte in -rint) e un climax
+*fruor* --> ablativo strumentale
+
+> nihil est enim illi principi deo, qui omnem mundum regit, quod quidem in terris fiat, acceptius quam concilia coetusque hominum iure sociati, quae civitates appellantur; harum rectores et conservatores hinc profecti huc revertuntur.
+
+![cap5b.jpg](images/cap5b.jpg)
+
+nulla è più gradito [*acceptius*] infatti a quel dio supremo, che regge ogni mondo, e ciò che accade sulla terra [spesso reso come limitazione della frase precedente], che i concili e le aggregazioni degli uomini associati per legge [perifrasi per indicare gli stati], che sono chiamati stati [*civitates* in senso lato]; i rettori e i conservatori di questi partiti di qui e qui ritornano.
+
+*concilia cetusque* è un'endiadi

@@ -281,3 +281,30 @@ La nuova è Costanza d'Altavilla
 contra suo grado e contra buona usanza,
 non fu dal vel del cor già mai disciolta.	117
 
+Nonostante sia stata costretta ad entrare nel mondo contro la sua volontà e le buone usanze, non fu dal voto nel cuore mai sciolta.
+
+> Quest’ è la luce de la gran Costanza	
+che del secondo vento di Soave
+generò ’l terzo e l’ultima possanza».	120
+
+Questa è la luce della grande Costanza, che costretta sposa di Enrico VI (il secondo) generò Federico II (il terzo), che fu anche l'ultimo
+
+> Così parlommi, e poi cominciò “Ave,		 
+Maria” cantando, e cantando vanio
+come per acqua cupa cosa grave.	123
+La vista mia, che tanto lei seguio	
+quanto possibil fu, poi che la perse,
+volsesi al segno di maggior disio,	126
+e a Beatrice tutta si converse;		 
+ma quella folgorò nel mïo sguardo
+sì che da prima il viso non sofferse;	129
+e ciò mi fece a dimandar più tardo.	130
+
+Così mi disse e poi cominciò a cantare "Ave Maria" e svanì come un oggetto pesante in acqua scura.
+La guardai finchè riuscì, poi quando non riuscì più, volse lo sguardo all'oggetto di maggior desiderio (beatrice), ma quella folgorò il mio sguardo al punto che all'inizio non riuscii a sopportarne la vista e questo mi rese più restio a chiedere.
+
+
+Il canto inizia e finisce con delle domande. Nel nucleo centrale abbiamo Piccarda preceduta da Santa Chiara e seguita da Costanza. Il canto inizia con la comparsa dal nulla delle anime e finisce con a scomparsa nel nulla delle stesse.
+
+Si nota quindi la forte simmetria del canto. Un'altra struttura con questa simmetria si trova nei canti 11 e 12.
+
