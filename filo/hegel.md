@@ -45,6 +45,14 @@ Se provo a pensare ad un concetto indipendetemente dagli altri non funziona, que
 
 Essendo Hegel un'idealista non parte dal concetto di spazio per dedurre gli altri, ma dal **concetto di essere**.
 
+Astrazione è l'attività dell'intelletto chee separa un concetto dal suo opposto.
+La sintesi invece mette in connessione i 2 concetti.
+Aufhebung --> togliemento. Nella sintesi la tesi è tolta. Ma significa anche mantenimento. Quindi i 2 concetti vengono tolti per essere mantenuti come uno.
+
+Secondo hegel anche nella storia vediamo la sintesi dialettica: e.g. classicità + medioevo --> modernità
+
+Il vero è l'intero, ossia la sintesi di tutto.
+L'assoluto sono tutti i singoli concetti concepiti nell'unità.
 
 ### Deduzioni
 Essere è puro essere senza altre caratteristiche. Non ha diversità né all'interno né all'esterno. Quando io penso l'essere non posso pensare nulla di preciso. Quindi l'essere è puro nulla.

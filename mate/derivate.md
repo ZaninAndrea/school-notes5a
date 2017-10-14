@@ -22,3 +22,61 @@ La retta tangente ad $f$  in un punto $x_0$ è
 $$
 y-f(x_0)=f'(x_0) \cdot (x-x_0)
 $$
+
+## Derivate fondamentali
+### Derivata di $x^n$
+Esempio con $x^3$
+
+$$
+\begin{aligned}
+&\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}=\\
+&\lim_{h\to 0}\frac{(x+h)^3-f(x)^3}{h}=\\
+&\lim_{h\to 0}\frac{x^3+3x^2h+3xh^2+h^3-x^3}{h}=\\
+&\lim_{h\to 0}3x^2+3xh+h^2&=3x^2\\
+\end{aligned}
+$$
+
+Formula generale
+$$
+(x^n)'=nx^{n-1}\qquad \text{con }n\ne 0
+$$
+
+### Derivata di $\sin{(x)}$
+$$
+\begin{aligned}
+&\lim_{h\to0}\frac{\sin{(x+h)}-\sin{(x)}}{h}\\
+&\lim_{h\to0}\frac{\sin{(x)\cos{(h)}}+\sin{(h)}\cos{(x)}-\sin{(x)}}{h}\\
+&\lim_{h\to0}\frac{\sin{(x)(\cos{(h)}-1})}{h} \cdot \frac{\sin{(h)}\cos{(x)}}{h}&=\cos{x}
+\end{aligned}
+$$
+
+Formula generale
+$$
+\sin{x}=\cos{x}
+$$
+
+### Derivata di $\cos{x}$
+$$
+(\cos{x})'=-\sin{h}
+$$
+
+### Derivata di $a^x$
+$$
+\begin{aligned}
+&\lim_{x\to0}\frac{a^{x+h}-a^x}{h}=\\
+&\lim_{x\to0}\frac{a^{x}(a^h-1)}{h}=\\
+&\lim_{x\to0}\frac{a^x(e^{\ln{a^h}}-1)}{h}\\
+&\lim_{x\to0}\frac{a^x(e^{\ln{a^h}}-1)\ln{a}}{h\ln{a}}&=a^x\ln{a}
+\end{aligned}
+$$
+
+Caso generale
+$$
+(a^x)'=a^x\ln{a}
+$$
+
+Caso particolare
+$$
+(e^x)'=e^x
+$$
+

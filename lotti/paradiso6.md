@@ -10,9 +10,84 @@ Il Canto è composto da 3 parti:
 - riassunto della storia di Roma, il volo dell'aquila, che viene introdoto e concluso da un riferimento a Guelfi e Ghibellini
 - Cielo di Mercurio: chi c'è lì, perché e come stanno, in particolare Romeo
 
+Dante era storicamente un guelfo.
+
 > «Poscia che Costantin l’aquila volse		 
 contr’ al corso del ciel, ch’ella seguio
 dietro a l’antico che Lavina tolse,	3
 
-Il soggetto è l'aquila
+Il soggetto è l'aquila, ossia l'impero romano
 Contro il corso del cielo significa da ovest ad est, ossia lo spostamento della sede dell'impero da Roma a Costantinopoli.
+Ha anche un significato simbolico: l'impero che va contro il volere di Dio.
+
+Aveva invece seguito il corso del sole (e quindi la volontà di Dio) seguendo Enea (*l'antico che Lavinia tolse*)
+
+Ritenevano che la storia di Roma iniziasse con Enea e arrivasse fino al Sacro Romano Impero passando per Ottaviano e la nascita del Papato.
+Nella visione medievale era volontà di Dio che nascesse l'impero.
+
+*che Lavina tolse* --> una sorta di isteron proteron, perché in realtà Enea si sposa con Lavina solo arrivato in Lazio.
+
+> cento e cent’ anni e più l’uccel di Dio	
+ne lo stremo d’Europa si ritenne,
+vicino a’ monti de’ quai prima uscìo;	6
+
+Per più di 200 anni l'aquila nell'estremità dell'Europa si ritenne, vicino ai monti dai quali prima uscì
+
+> e sotto l’ombra de le sacre penne	
+governò ’l mondo lì di mano in mano,
+e, sì cangiando, in su la mia pervenne.	9
+
+E sotto l'ombra delle sacre penne [di Dio] [l'aquila] governò il mondo di mano in mano e così cambiando, alla mia mano arrivò.
+
+Protagonisti: aquila, imperatori, Giustiniano, Dio
+
+> Cesare fui e son Iustinïano,		 
+che, per voler del primo amor ch’i’ sento,
+d’entro le leggi trassi il troppo e ’l vano.	12
+
+Fui imperatore e sono Giustiniano, che per il volere di Dio, dalle leggi tolsi il superfluo e l'inutile
+
+Il fui sottolinea il fatto che la carica di imperatore ha un limite
+Chiasmo nel primo verso
+Cesare è imperatore per antonomasia
+
+Dante sceglie come modello di imperatore colui che ha riformato giuridicamente l'impero, ricordiamo che nel VI canto del purgatorio Dante attacca l'eccesso di leggi in Italia
+
+> E prima ch’io a l’ovra fossi attento,	
+una natura in Cristo esser, non piùe,
+credea, e di tal fede era contento;	15
+ma ’l benedetto Agapito, che fue	
+sommo pastore, a la fede sincera
+mi dirizzò con le parole sue.	18
+
+Prima che io all'opera fossi attento, una natura in Cristo essere, non di più, credeva e di tal fede era contento, ma il benedetto Agapito, che fu papa, e la sua fede sincera mi indirizzarono con le sue parole
+
+Riferimento alle convinzioni monofisite di Giustiniano antecedenti, il monofisismo era la credenza che Cristo avesse solo la natura divina
+
+notiamo come *fede dritta* sia la traduzione letterale di *ortodossia* dal greco.
+
+> Io li credetti; e ciò che ’n sua fede era,	
+vegg’ io or chiaro sì, come tu vedi
+ogne contradizione e falsa e vera.	21
+
+Io gli credetti e ciò che era fede adesso vedo chiiaramente, come tu vedi ogni contraddizione falsa e vera.
+
+> Tosto che con la Chiesa mossi i piedi,	
+a Dio per grazia piacque di spirarmi
+l’alto lavoro, e tutto ’n lui mi diedi;	24
+
+Appena diventai ortodosso (nel senso letterale), Dio per grazia decise di ispirarmi all'alto lavoro e tutto in lui mi diedi
+
+Nella visione di Giustiniano tutto ciò che egli fa deve essere in sintonia con Dio.
+
+> e al mio Belisar commendai l’armi,	
+cui la destra del ciel fu sì congiunta,
+che segno fu ch’i’ dovessi posarmi.	27
+
+E affidai l'esercito al generale Belisario, il cui successo fu grande (ebbe sempre al suo fianco la destra di Dio) al punto che doveva essere la scelta giusta.
+
+> Or qui a la question prima s’appunta		 
+la mia risposta; ma sua condizione
+mi stringe a seguitare alcuna giunta,	30
+
+Dovresti essere soddisfatto della mia risposta, ma la sua condizione mi spinge a continuare senza interruzione
