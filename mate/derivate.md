@@ -80,3 +80,51 @@ $$
 (e^x)'=e^x
 $$
 
+### Derivata di $log_a x$
+Forma generale
+$$
+(\log_a x)'=\frac{1}{\ln{(a)}\cdot x}
+$$
+
+Caso specifico
+$$
+(\ln{x})'=\frac{1}{x}
+$$
+
+## Derivate composte
+### Somma di funzioni
+$$
+(f(x)+g(x))'=f'(x)+g'(x)
+$$
+
+### Prodotto per uno scalare
+$$
+(kf(x))'=kf'(x)
+$$
+
+### Prodotto di funzioni
+Dimostrazione
+$$
+\begin{aligned}
+&\lim_{h\to0}\frac{f(x+h\cdot g(x+h)-f(x\cdot g(x)))}{h}=\\
+&\lim_{h\to0}\frac{f(x+h\cdot g(x+h)-g(x+h)\cdot f(x)+g(x+h)\cdot f(x)-f(x\cdot g(x)))}{h}=\\
+&\lim_{h\to0}g(x+h)\frac{f(x_h)-f(x)}{h} + f(x)\frac{g(x+h)-g(x)}{h}=\\
+&= f'(x)\cdot g(x) + f(x)g'(x)
+\end{aligned}
+$$
+
+Formula generale
+
+$$
+(f(x)\cdot g(x))'=f'(x)\cdot g(x) + f(x)g'(x)
+$$
+
+### Funzione elevata a potenza
+$$
+(f^n(x))'=nf^{n-1}(x)f'(x)
+$$
+
+### Rapporto di funzioni
+$$
+(\frac{f(x)}{g(x)})'=\frac{f'(x)\cdot g(x) - f(x)g'(x)}{g^2(x)}
+$$
