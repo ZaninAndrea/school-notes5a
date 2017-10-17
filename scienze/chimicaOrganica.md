@@ -90,3 +90,17 @@ L'idrogeno si unisce all'atomo di Carbonio con più atomi di H.
 L'iniziatore radicalico è una molecola di qualsiasi tipo, che si divida in radicali. Il radicale poi rompe un doppio legame e si attacca alla catena.
 
 La nuova molecole è essa stessa un radicale e ripete la reazione, finchè non si legano 2 radicali (reazione di terminazione)
+
+## Ciclici
+Gli angoli di legame degli idrocarburi ciclici sono più stretti dei loro corrispondenti non ciclici, quindi soprattutto quelli con catene corte tendono ad aprirsi.
+
+Il ciclo alcano più interessante è il cicloesano, che presenta 2 possibili strutture:
+- a sedia. I legami assiali sono distanti e quindi non c'è tensione
+- a barca. Ci sono legami assiali vicini, che si respingono, rendendo poco stabile la struttura
+
+La struttura a sedia è quindi privilegiata
+
+Un'altra molecola importante è il ciclopentano che con la struttura a busta non ha tensione torsionale
+
+### Nomenclatura
+Prefisso *ciclo-* da inserire dopo le ramificazioni. Se ho un'unica ramificazione non serve numerarla

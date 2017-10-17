@@ -91,3 +91,29 @@ la mia risposta; ma sua condizione
 mi stringe a seguitare alcuna giunta,	30
 
 Dovresti essere soddisfatto della mia risposta, ma la sua condizione mi spinge a continuare senza interruzione
+
+La condizione è l'essere imperatore, la sua vita, ...
+
+> perché tu veggi con quanta ragione	
+si move contr’ al sacrosanto segno
+e chi ’l s’appropria e chi a lui s’oppone.	33
+
+perché tu veda con quanta ragione si muovono contro l'aquila chi si appropria di essa e chi le si oppone.
+
+il sacrosanto segno è l'aquila
+*chi s'appropria e chi si oppone* sono i guelfi e i ghibellini
+*con quanta ragione* è ironico, perché Dante va oltre la logica di guelfi e ghibellini, sono entrambi nel torto: l'aquila è voluta da Dio. 
+Dante è contro la strumentalizzazione dell'impero da parte di entrambi.
+
+> Vedi quanta virtù l’ha fatto degno	
+di reverenza; e cominciò da l’ora
+che Pallante morì per darli regno.	36
+
+Vedi quanta virtù ha reso l'aquila degna di reverenza, questa virtù cominciò da quando Pallante morì per dargli un regno.
+
+Inizia il racconto della storia di Roma (il volo dell'aquila)
+Per rispetto non si sovrappone all'Eneide e parte da dove Virgilio aveva smesso.
+
+> Tu sai ch’el fece in Alba sua dimora		 
+per trecento anni e oltre, infino al fine
+che i tre a’ tre pugnar per lui ancora.	39
