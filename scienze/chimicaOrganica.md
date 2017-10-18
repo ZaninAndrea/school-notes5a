@@ -104,3 +104,6 @@ Un'altra molecola importante è il ciclopentano che con la struttura a busta non
 
 ### Nomenclatura
 Prefisso *ciclo-* da inserire dopo le ramificazioni. Se ho un'unica ramificazione non serve numerarla
+
+## Idrocarburi aromatici
+Gli irdocarburi  aromatici presentano doppi legami $\pi$ delocalizzati nella molecola, che pertanto risulta particolarmente stabile.

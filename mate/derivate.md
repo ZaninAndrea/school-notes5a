@@ -128,3 +128,50 @@ $$
 $$
 (\frac{f(x)}{g(x)})'=\frac{f'(x)\cdot g(x) - f(x)g'(x)}{g^2(x)}
 $$
+
+## Punti stazionari
+Informazioni che otteniamo dalla derivata
+- $f'(x)\gt0$ la funzione è crescente
+- $f'(x)\lt0$ la funzione è decrescente
+- $f'(x)=0$ punto stazionario
+
+### Classificazione dei punti stazionari
+#### Minimi e massimi locali
+![minimo.PNG](images/minimo.png)
+
+#### Flesso a tangente orizzontale
+![flesso.PNG](images/flesso.png)
+
+## Punti di non derivabilità
+### Punti angolosi
+$$
+\begin{aligned}
+f'_+(x)&=l_1\\
+f'_-(x)&=l_2\\
+l_1&\ne l_2
+\end{aligned}
+$$
+
+![angoloso.PNG](images/angoloso.png)
+
+### Cuspidi
+$$
+\begin{aligned}
+f'_+(x)&=+\infty\\
+f'_-(x)&=-\infty\\
+&\lor\\
+f'_+(x)&=-\infty\\
+f'_-(x)&=+\infty\\
+\end{aligned}
+$$
+
+### Flessi a tangente verticale
+
+$$
+\begin{aligned}
+f'_+(x)=f'_-&(x)=-\infty\\
+&\lor\\
+f'_+(x)=f'_-&(x)=+\infty\\
+
+\end{aligned}
+$$
