@@ -142,3 +142,24 @@ Perché tu sia, Africano [*sed quo sis*], più risoluto [*alacrior*] per difende
 nulla è più gradito [*acceptius*] infatti a quel dio supremo, che regge ogni mondo, e ciò che accade sulla terra [spesso reso come limitazione della frase precedente], che i concili e le aggregazioni degli uomini associati per legge [perifrasi per indicare gli stati], che sono chiamati stati [*civitates* in senso lato]; i rettori e i conservatori di questi partiti di qui e qui ritornano.
 
 *concilia cetusque* è un'endiadi
+
+> Hic ego, etsi eram perterritus non tam mortis metu quam insidiarum a meis, quaesivi tamen, viveretne ipse et Paulus pater et alii, quos nos extinctos esse arbitraremur. 
+
+A questo punto, io sebbene fossi spaventato non tanto per la paura della morte, quanto per la paura delle insidie da parte dei miei (parenti), chiesi tuttavia se vivesse lui stesso e se vivesse mio padre Paolo e tutti gli altri che noi riteniamo che siano estinti.
+
+'not tam mortis metu quam insidiarum' --> ellissi del secondo termine di paragone (manca metu)
+
+Comparatio compendiaria --> il genitivo legato al secondo termine di paragone assume il caso del secondo termine di paragone. In questa frase non è così.
+
+viveretne --> ne enclitico --> valore interrogativo disgiuntivo
+
+> Immo vero, inquit, hi vivunt, qui e corporum vinclis tamquam e carcere evolaverunt, vestra vero, quae dicitur vita, mors est. Quin tu aspicis ad te venientem Paulum patrem? Quem ut vidi, equidem vim lacrimarum profudi, ille autem me complexus atque osculans flere prohibebat.
+
+Eccome [*immo vero*], disse, loro vivono, questi che sono volati via dai vincoli dei corpi, come da una prigione, invece la vostra che definite vita è morte. Non vedi padre Paolo che sta avvicinandosi a te. Appena [*ut*] lo [*quem*] vidi lui, scoppiai in lacrime e lui d'altra parte abbracciandomi mi proibiva di piangere.
+
+aspicis --> participio congiunto
+
+chiaro riferimento al fedone di platone
+
+> Atque ...
+Bloccato il pianto non appena cominciai a poter parlare [*coepi loqui posse*], ti prego padre ottimo, visto che questa è la vita, perchè mi attardo in terra
