@@ -129,6 +129,11 @@ $$
 (\frac{f(x)}{g(x)})'=\frac{f'(x)\cdot g(x) - f(x)g'(x)}{g^2(x)}
 $$
 
+### Derivata composta !!
+$$
+(f(g(x)))'= f'(g(x))g'(x)
+$$
+
 ## Punti stazionari
 Informazioni che otteniamo dalla derivata
 - $f'(x)\gt0$ la funzione è crescente
@@ -175,3 +180,4 @@ f'_+(x)=f'_-&(x)=+\infty\\
 
 \end{aligned}
 $$
+
