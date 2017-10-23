@@ -97,6 +97,26 @@ Per capire Hegel possiamo sostitutire *spirito* con *tutte le discipline e le sc
 ## Filosofia dello spirito
 Le discipline umane (psicologia, antropologia, arte, religione, filosofia, ...) sono l'unione dei concetti e della filosofia d
 
+Filosofia dello spirito:
+- assoluto
+- oggettivo
+    - diritto
+        - diritto contro il torto
+        - contratto
+        - proprietà
+    - morale
+    - eiticità
+        - stato
+        - soc. civile
+        - famiglia
+- soggettivo
+    - fenomenologia dello spirito
+    - antropologia
+
+Da un lato il diritto è imposto da una autorità, dall'altro viene dai cittadini.
+
+La famiglia si basa sull'amore.
+
 ## Fenomenologia dello spirito
 > Seguire i vari atteggiamenti della coscienza umana fino a che essa non diventa spirito
 
