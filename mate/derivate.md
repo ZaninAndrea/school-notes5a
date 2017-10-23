@@ -171,7 +171,7 @@ f'_-(x)&=+\infty\\
 $$
 
 ### Flessi a tangente verticale
-
+![flessovert](./images/flessoverticale.png)
 $$
 \begin{aligned}
 f'_+(x)=f'_-&(x)=-\infty\\

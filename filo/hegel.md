@@ -41,6 +41,8 @@ Le categorie non sono semplicemente trovate come in Kant, ma sono **dedotte l'un
 
 **Metodo dialettico**: partiamo da una tesi e ci accorgiamo che essa non è sufficiente e che quindi richiama necessariamente l'antitesi. I 2 sono poi visti come un unico nella sintesi (visione olistica). Poi prendo la sintesi come tesi e ricomincio.
 
+Il passaggio dalla tesi all'antitesi avviene perché esso è pensato in maniera astratta (ossia finita), nella sintesi lo pensiamo sia come contrapposti che come identici.
+
 Tesi e antitesi vengono poste dall'intelletto, mentre l'antitesi viene posta dalla ragione.
 
 Supporta l'affermazione di Spinoza "Omnis determination est negatio". L'essenza di una cosa determinata cade fuori di quel concetto stesso. Ogni concetto finito è contraddittorio.
@@ -84,6 +86,14 @@ Fino al concetto di **idea**, che è il più complesso e non ha un`antitesi
 ## Filosofia della natura
 Come l'essere implica il non essere, ciò che è solo concetto (logica) implica ciò che non è solo concetto (natura: logica realizzata nello spazio e nel tempo).
 
+L'assoluto non può essere soltanto concetti, ma deve anche collocarsi nel tempo e nello spazio.
+
+La biologia in Hegel non è meccanicista, ma è finalista. Nello studio della vita dobbiamo aggiungere il concetto di scopo.
+
+La sintesi tra logica e realizzazione dei concetti nello spazio e nel tempo è lo spirito. I concetti della scienza e della logica che guardano se stessi sono lo spirito.
+
+Per capire Hegel possiamo sostitutire *spirito* con *tutte le discipline e le scienze*.
+
 ## Filosofia dello spirito
 Le discipline umane (psicologia, antropologia, arte, religione, filosofia, ...) sono l'unione dei concetti e della filosofia d
 
@@ -91,7 +101,7 @@ Le discipline umane (psicologia, antropologia, arte, religione, filosofia, ...) 
 > Seguire i vari atteggiamenti della coscienza umana fino a che essa non diventa spirito
 
 La storia dei vari atteggiamenti della coscienza rispetto al sapere è detta itinerario.
-Si mostra come ognuno degli atteggiamenti della coscienza rispetto al sapere sia limitato e vada superato (metodo dialettico).
+Si mostra come ognuno degli atteggiamenti della coscienza rispetto al sapere sia limitato e vada superato (metodo dialettico), ma non dimenticato.
 
 Parto dal più ingenuo, per arrivare al meno ingenuo: lo spirito. A questo punto siamo pronti per la scienza della logica.
 
@@ -121,3 +131,12 @@ Il servo deve imparare a tenere a bada i suoi desideri, mentre il padrone no, il
 Stoicismo e scetticismo. Lo stoicismo dice l'unica cosa importante è ciò che è dentro di me, lo scetticismo dice che ciò che è fuori di me non è nemmeno conoscibile.
 
 Si introduce l'idea della coscienza infelice, ossia la coscienza proietta al di fuori di se la verità in un entità che probabilmente è Dio ed è irraggiungibile.
+
+
+### Come sappiamo che non è un enorme ...
+Hegel sostiene che attraverso la fenomenologia dello spirito, che ripercorre le varie tappe della coscienza che diventa spirito, egli ha dimostrato la verità delle sue tesi.
+
+Hegel dice che l'assoluto non è una cosa da concepire come schelling:
+> La notte in cui tutte le vacche sono nere
+
+ossia quando descriviamo l'assoluto dobbiamo fare la fatica di passare da un concetto all'altro.
