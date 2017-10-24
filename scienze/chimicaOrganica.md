@@ -107,3 +107,12 @@ Prefisso *ciclo-* da inserire dopo le ramificazioni. Se ho un'unica ramificazion
 
 ## Idrocarburi aromatici
 Gli irdocarburi  aromatici presentano doppi legami $\pi$ delocalizzati nella molecola, che pertanto risulta particolarmente stabile.
+
+### Reazioni
+Gli aromatici fanno reazioni elettrofile.
+
+Sostituzione elettrofila aromatica --> **SEA**
+
+Un elettrofilo si lega ad un carbonio nello stadio di transizione e rapidamente l'idrogeno viene "espulso" dalla molecola 
+
+### Acidi di lewis

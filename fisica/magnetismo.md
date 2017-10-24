@@ -20,3 +20,8 @@ $$
 $$
 
 Una carica che si muove perpendicolare al campo magnetico tende ad avere un moto circolare, la forza magnetica agisce come forza centripeta.
+
+## Esperienza di Oersted
+Un filo percorso da corrente genera un campo magnetico le cui linee di campo sono cerchi concentrici.
+
+Questa forza deriva dalla forza di lorenz

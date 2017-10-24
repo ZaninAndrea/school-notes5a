@@ -101,3 +101,15 @@ Then we have Keats, Edgar Allan Poe (he deals with terror and mystery and the ti
 She is one of the most important English novelist. Her most important work is Pride and Prejudice. She sets her novels in the provincial middle class England, the plots are centered on love stories and is very skilled in portraiting female character.
 Her novels are called novels of manner, because her characters are usually well-mannered.
 
+### Wordsworth
+Inspiration from nature. Attended college in Cambridge Did a walking tour through Europe.
+Supported the French Revolution. He couldn't make a living out of his writing
+
+He met Coleridge, the father of English Romanticism. With him he wrote the Lyrical Ballads.
+
+He was appointed poet-lauret after death.
+
+Children are the best example of communion with nature, because they are fundamentally good. He thinks of himself as a man speaking to men.
+
+All these points are contained in the English manifesto.
+Wordsworth expresses his feelings in a spontaneous, but objective and rational way.

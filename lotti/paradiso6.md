@@ -119,5 +119,52 @@ per trecento anni e oltre, infino al fine
 che i tre a’ tre pugnar per lui ancora.	39
 
 Ricordiamo che c'è una lettura strumentlale della storia, incentrata su Dio.
+Il racconto verte su forti ellissi.
+L'ultimo verso è evidentemente la sfida degli Orazi e Curiazi.
 
-> 
+> E sai ch’el fé dal mal de le Sabine	
+al dolor di Lucrezia in sette regi,
+vincendo intorno le genti vicine.	42
+
+Ratto delle sabine, 
+
+Sintesi degli episodi interni ed esterni allo sviluppo dell'aquila
+
+> Sai quel ch’el fé portato da li egregi	
+Romani incontro a Brenno, incontro a Pirro,
+incontro a li altri principi e collegi;	45
+
+Descrizione rapidissima delle varie battaglie contro i primi nemici
+metonimia: principi e collegi per indicare gli eserciti
+anafora di incontro
+
+> onde Torquato e Quinzio, che dal cirro	
+negletto fu nomato, i Deci e ’ Fabi
+ebber la fama che volontier mirro.	48
+
+e per questo Torquato e Quinzio, nominato dal ciuffo trascurato, i Deci e i Fabi ebbero la fama che volentieri onoro.
+
+> Esso atterrò l’orgoglio de li Aràbi	
+che di retro ad Anibale passaro
+l’alpestre rocce, Po, di che tu labi.	51
+
+Esso atterrò l'orgoglio degli Arabi che seguendo Annibale superarono le Alpi, po, che tu tocchi.
+
+Atterrò l'orgoglio si riferisce alla distruzione di Cartagine nonostante non sia nella stessa guerra punica.
+Chiama i Cartaginesi Arabi in maniera anacronistica, dato che diventeranno Arabi solo dopo.
+
+Esemplificazione del motto romano *Parcere subiectis debellare superbos*, osssia avere pietà per chi si sottomette e debellare chi si ribella.
+
+> Sott’ esso giovanetti trïunfaro	
+Scipïone e Pompeo; e a quel colle
+sotto ’l qual tu nascesti parve amaro.	54
+
+Soto esso trionfarono Scipione e Pompeo, e a quel colle sotto il quale tu (Dante) nascesti il sacro santo segno parve amaro.
+
+riferimento alla strage di Fiesole.
+
+> Poi, presso al tempo che tutto ’l ciel volle		 
+redur lo mondo a suo modo sereno,
+Cesare per voler di Roma il tolle.	57
+
+Poi, vicino a quel momento che Dio ha voluto
