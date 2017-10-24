@@ -103,7 +103,7 @@ perché tu veda con quanta ragione si muovono contro l'aquila chi si appropria d
 il sacrosanto segno è l'aquila
 *chi s'appropria e chi si oppone* sono i guelfi e i ghibellini
 *con quanta ragione* è ironico, perché Dante va oltre la logica di guelfi e ghibellini, sono entrambi nel torto: l'aquila è voluta da Dio. 
-Dante è contro la strumentalizzazione dell'impero da parte di entrambi.
+Dante è contro la strumentalizzazione dell'impero da parte di entrambi
 
 > Vedi quanta virtù l’ha fatto degno	
 di reverenza; e cominciò da l’ora
@@ -117,3 +117,7 @@ Per rispetto non si sovrappone all'Eneide e parte da dove Virgilio aveva smesso.
 > Tu sai ch’el fece in Alba sua dimora		 
 per trecento anni e oltre, infino al fine
 che i tre a’ tre pugnar per lui ancora.	39
+
+Ricordiamo che c'è una lettura strumentlale della storia, incentrata su Dio.
+
+> 
