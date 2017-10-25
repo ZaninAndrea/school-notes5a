@@ -159,7 +159,7 @@ $$
 
 ![angoloso.PNG](images/angoloso.png)
 
-### Cuspidi
+#### Cuspidi
 $$
 \begin{aligned}
 f'_+(x)&=+\infty\\
@@ -170,7 +170,7 @@ f'_-(x)&=+\infty\\
 \end{aligned}
 $$
 
-### Flessi a tangente verticale
+#### Flessi a tangente verticale
 ![flessovert](./images/flessoverticale.png)
 $$
 \begin{aligned}
@@ -180,4 +180,7 @@ f'_+(x)=f'_-&(x)=+\infty\\
 
 \end{aligned}
 $$
+
+## Derivata seconda
+Data una funzione $f(x)$ definita e continua in un intervallo e derivabile 2 volte nell'intervallo, se $f''(x)\gt0$ la funzione avrà concavità verso l'alto, se $f''(x)\lt0$ la funzione avrà concavità verso il basso.
 

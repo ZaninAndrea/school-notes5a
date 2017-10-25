@@ -167,4 +167,27 @@ riferimento alla strage di Fiesole.
 redur lo mondo a suo modo sereno,
 Cesare per voler di Roma il tolle.	57
 
-Poi, vicino a quel momento che Dio ha voluto
+Poi, vicino al momento della nascita di Cristo, Cesare per volere di Roma lo prende.
+
+> E quel che fé da Varo infino a Reno,	
+Isara vide ed Era e vide Senna
+e ogne valle onde Rodano è pieno.	60
+
+terzina incentrata sui fiumi, che sono testimoni della campagna di Cesare
+De bello Gallico
+
+> Quel che fé poi ch’elli uscì di Ravenna	
+e saltò Rubicon, fu di tal volo,
+che nol seguiteria lingua né penna.	63
+
+il soggetto non è cesare, ma l'aquila.
+De Bello Civili
+È difficile spiegarlo, ma poi lo spiega comunque
+
+> Inver’ la Spagna rivolse lo stuolo,	
+poi ver’ Durazzo, e Farsalia percosse
+sì ch’al Nil caldo si sentì del duolo.	66
+
+ritmo molto rapido nel narrare le imprese di Cesare
+
+Incentrato sui luoghi invece che sui personaggi
