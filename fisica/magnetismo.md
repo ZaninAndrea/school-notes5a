@@ -24,4 +24,18 @@ Una carica che si muove perpendicolare al campo magnetico tende ad avere un moto
 ## Esperienza di Oersted
 Un filo percorso da corrente genera un campo magnetico le cui linee di campo sono cerchi concentrici.
 
-Questa forza deriva dalla forza di lorenz
+Questa forza deriva dalla forza di lorentz
+
+## Campo magnetico e campo elettrico
+Sparo una particella in una zona in cui ci sono sia campo elettrico che campo magnetico e le direzioni dei 2 campi e della particella sono perpendicolari.
+
+Un dispositivo di questo tipo creato con un condensatore e un magnete è detto selettore di velocità, perché posso regolare il campo elettrico in modo che la particella attraversi il campo solo se la sua velocità è
+
+$$
+\begin{aligned}
+F_B&=F_E \\
+qvB&=qE\\
+v&=\frac{E}{B}
+\end{aligned}
+$$
+

@@ -15,7 +15,7 @@ Tema della crisi dell'individuo
 ## Umorismo pirandelliano
 La vita non può essere fissata in una forma, perché è un flusso continuo.
 Non abbiamo una sola identità, ma infinite in continuo cambiamento, è la società che tenta di imporcene una.
-Il comico è la società che punisce e deride chi non si conforma al ruolo che gli è stato assegnato, è lávvertimento del contrario.
+Il comico è la società che punisce e deride chi non si conforma al ruolo che gli è stato assegnato, è l'avvertimento del contrario.
 L'uomorismo per Pirandello è quando riflettiamo su qualcosa che non dovrebbe essere e non possiamo più ridere, è il sentimento del contrario.
 
 L'umorista vede le cose dall'interno
@@ -24,3 +24,6 @@ L'umorista vede le cose dall'interno
 Lo scrive nell "trappola" della famiglia.
 Mattia Pascal --> Pascal l'idea della razionalità, Mattia (matto) idea della pazzia
 
+Il contrasto tra vita e forma, Mattia Pascal si libera di quella forma.
+
+Mattia Pascal è una marionetta che scopre che il cielo è fatto di carta
