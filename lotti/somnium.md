@@ -143,6 +143,8 @@ nulla è più gradito [*acceptius*] infatti a quel dio supremo, che regge ogni m
 
 *concilia cetusque* è un'endiadi
 
+## Capitolo 6
+
 > Hic ego, etsi eram perterritus non tam mortis metu quam insidiarum a meis, quaesivi tamen, viveretne ipse et Paulus pater et alii, quos nos extinctos esse arbitraremur. 
 
 A questo punto, io sebbene fossi spaventato non tanto per la paura della morte, quanto per la paura delle insidie da parte dei miei (parenti), chiesi tuttavia se vivesse lui stesso e se vivesse mio padre Paolo e tutti gli altri che noi riteniamo che siano estinti.
@@ -161,5 +163,30 @@ aspicis --> participio congiunto
 
 chiaro riferimento al fedone di platone
 
-> Atque ...
-Bloccato il pianto non appena cominciai a poter parlare [*coepi loqui posse*], ti prego padre ottimo, visto che questa è la vita, perchè mi attardo in terra
+### Capitolo 7
+
+> Atque ego ut primum fletu represso loqui posse coepi, Quaeso, inquam, pater sanctissime atque optume, quoniam haec est vita, ut Africanum audio dicere, quid moror in terris? quin huc ad vos venire propero? 
+
+Bloccato il pianto non appena cominciai a poter parlare [*coepi loqui posse*], ti prego padre ottimo, visto che questa è la vita, perchè mi attardo in terra. 
+
+> Non est ita, inquit ille. Nisi enim deus is, cuius hoc templum est omne, quod conspicis, istis te corporis custodiis liberaverit, huc tibi aditus patere non potest
+
+No [non è così *non est ita*], disse lui. Infatti se [*nisi*] quel dio [*deus is*], del quale è tutto questo spazio sacro [*templum*], non ti avrà liberato dalle tue [*istis te*] catene del corpo, non ti può essere aperto l'accesso [*aditus*] per te qui
+
+*temno*: tagliare in greco --> *templum* spazio tagliato nel cielo, che gli aruspici facevano mentalmente per i loro vaticinii --> spazio sacro --> tempio
+Possiamo quindi tradurlo con un significato più simile a quello antico : *luogo sacro*
+
+> Homines enim sunt hac lege generati, qui tuerentur illum globum, quem in hoc templo medium vides, quae terra dicitur, hisque animus datus est ex illis  sempiternis ignibus, quae sidera et stellas vocatis, quae globosae et rotundae, divinis animatae mentibus,  circulos suos orbesque conficiunt celeritate mirabili.
+
+Gli uomini infatti sono stati generati con questa legge, perché proteggessero di quel globo, che tu vedi al centro [*medium*] di questo spazio, che è detto Terra e a questi è stato dato uno spirito [*animus*] da quei fuochi eterni, che voi chiamate stelle e costellazioni, che sferiche e circolari, animate dalla mente divimna, compiono i loro e orbite
+
+*hac lege*: valore prolettico
+*globosae et rotundae* e *circulos orbesque* endiadi
+
+
+> Quare et tibi, Publi, et piis omnibus retinendus animus est in custodia corporis nec iniussu eius, a quo  ille est vobis datus, ex hominum vita migrandum est,  ne munus humanum adsignatum a deo defugisse videamini
+
+Perciò da te, Publio, e da tutti quelli dotati di pietas l'anima deve essere conservata nella prigione del corpo, e senza il consenso di colui dal quale tutto è dato non si deve migrare dalla vita degli uomini, perché voi non sembriate aver fuggito il compito umano assegnato dagli dei.
+
+*iniussu*: senza il consenso, si trova solo all'ablativo
+

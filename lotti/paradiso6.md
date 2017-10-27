@@ -191,3 +191,96 @@ sì ch’al Nil caldo si sentì del duolo.	66
 ritmo molto rapido nel narrare le imprese di Cesare
 
 Incentrato sui luoghi invece che sui personaggi
+
+> E quando il dente longobardo morse	
+la Santa Chiesa, sotto le sue ali
+Carlo Magno, vincendo, la soccorse.	96
+
+*Il dente longobardo*: metonimia dente per la bestia
+finisce il volo dell'aquila
+
+
+> L’uno al pubblico segno i gigli gialli	
+oppone, e l’altro appropria quello a parte,
+sì ch’è forte a veder chi più si falli.	102
+
+L'uno dice non voglia l'impero, bastano i franchi, l'altro fa del simbolo universale un simbolo di partito
+
+> Faccian li Ghibellin, faccian lor arte	
+sott’ altro segno, ché mal segue quello
+sempre chi la giustizia e lui diparte;	105
+
+I ghibellini facciano quello che vogliono, ma non infanghino il nome dell'Impero.
+
+> e non l’abbatta esto Carlo novello	
+coi Guelfi suoi, ma tema de li artigli
+ch’a più alto leon trasser lo vello.	108
+
+Non pensi quel nuovo re Carlo di poter abbattere l'impero
+
+> Molte fïate già pianser li figli	
+per la colpa del padre, e non si creda
+che Dio trasmuti l’armi per suoi gigli!	111
+
+i figli pagano le colpe dei padri, tutti quelli che si sono scontrati con l'impero hanno perso e Dio non cambierà idea per il francesi (gigli)
+
+> Questa picciola stella si correda		 
+d’i buoni spirti che son stati attivi
+perché onore e fama li succeda:	114
+
+il loro lavoro non era proprio disinteressato
+
+> e quando li disiri poggian quivi,	
+sì disvïando, pur convien che i raggi
+del vero amore in sù poggin men vivi.	117
+
+coloro che deviano dalla retta via (anche se di poco) sono in una situazione di minor beatitudine
+
+> Ma nel commensurar d’i nostri gaggi	
+col merto è parte di nostra letizia,
+perché non li vedem minor né maggi.	120
+
+uno delle nostre gioie è saper commisurare il premio con ciò cha abbiamo fatto. Siamo obiettivi e sappiamo di aver meritato questo
+
+> Quindi addolcisce la viva giustizia	
+in noi l’affetto sì, che non si puote
+torcer già mai ad alcuna nequizia.	123
+
+grazie alla giustizia divina che gli addolcisce il cuore non hanno invidia
+torcere ci indica l'innaturalezza
+
+> Diverse voci fanno dolci note;	
+così diversi scanni in nostra vita
+rendon dolce armonia tra queste rote.	126
+E dentro a la presente margarita		 
+luce la luce di Romeo, di cui
+fu l’ovra grande e bella mal gradita.	129
+
+Giustiniano presenta Romeo, come Piccarda aveva presentato Costanza d'Altavilla
+
+Romeo fece moltissime cose belle, ma non riconosciute
+
+> Ma i Provenzai che fecer contra lui	
+non hanno riso; e però mal cammina
+qual si fa danno del ben fare altrui.	132
+
+Ma i provenzali che gli andarono contro alla fine sono stati puniti, chi danneggia il buon operato altrui alla fine la paga
+
+> Quattro figlie ebbe, e ciascuna reina,	
+Ramondo Beringhiere, e ciò li fece
+Romeo, persona umìle e peregrina.	135
+
+riuscì a rendere regine tutte le 4 figlie di Ramndo beringhiere
+
+> E poi il mosser le parole biece	
+a dimandar ragione a questo giusto,
+che li assegnò sette e cinque per diece,	138
+
+la corte andava contro Romeo e lo calunniava e lui in risposta riconsegnava 12 per i 10 che non aveva rubato.
+
+> indi partissi povero e vetusto;	
+e se ’l mondo sapesse il cor ch’elli ebbe
+mendicando sua vita a frusto a frusto,	141
+assai lo loda, e più lo loderebbe».	142
+
+poi se ne va
