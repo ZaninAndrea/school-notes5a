@@ -113,3 +113,12 @@ Children are the best example of communion with nature, because they are fundame
 
 All these points are contained in the English manifesto.
 Wordsworth expresses his feelings in a spontaneous, but objective and rational way.
+
+VOCABULARY:
+- gay
+- jocund
+- pleasant
+- sprightly
+- joyful
+- overjoyed
+- gleeful

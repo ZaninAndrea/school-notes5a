@@ -115,4 +115,7 @@ Sostituzione elettrofila aromatica --> **SEA**
 
 Un elettrofilo si lega ad un carbonio nello stadio di transizione e rapidamente l'idrogeno viene "espulso" dalla molecola 
 
-### Acidi di lewis
+## Isomeri
+Compposti con la stessa formula bruta, ma che differiscono per:
+- i legami
+- la disposizione spaziale
