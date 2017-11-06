@@ -160,3 +160,22 @@ Hegel dice che l'assoluto non è una cosa da concepire come schelling:
 > La notte in cui tutte le vacche sono nere
 
 ossia quando descriviamo l'assoluto dobbiamo fare la fatica di passare da un concetto all'altro.
+
+## Filosofia dello spirito assoluto
+Dopo la filosofia dello spirito oggettivo c'è la filosofia dello spirito assoluto, che si divide in 3 momenti:
+
+- tesi: arte
+  - attraverso l'arte si cerca di dare espressione a qualcosa che è superiore
+  - all'inizio l'arte era simbolica, si cerca di raggiungere l'assoluto attraverso forme geometriche
+  - poi arriva l'arte classica, che è in equilibrio tra forma e contenuto, perché rappresentano esseri umani 
+  - con l'arte romantica il contenuto eccede ciò che la forma può esprimere (il sublime)
+  - il pensiero viene presentato come contrastante con la forma
+- antitesi: religione. Rovesciamento dialettico: non è più un assoluto esteriore, ma un assoluto interiore
+  - la forma più compiuta di religione è la religione cristiana
+    - che si manifesta in 3 momenti: Dio Padre, Dio Figlio e Dio Spirito 
+- sintesi: filosofia
+  - la tratta più come la storia della filosofia
+  - la filosofia finisce con l'idealismo, che è semplicemente soggettivo in Fichte, oggettivo in Schelling, assoluto in Hegel
+  - Kant non va bene, perché c'è un limite al pensiero: la cosa in sè
+  - l'assoluto è il pensiero che si manifesta nella storia tramite l'uomo che ad un certo punto diventa conscio di se
+  - l'assoluto comprende se stesso tramite la filosofia
