@@ -45,3 +45,10 @@ La precedente strofa era una biografia militare, questa è una biografia politic
 **vv79-84** tutto il potere di napoleone
 
 **vv85-96** subentra una logica provvidenziale. Risponde alla domanda *Fu vera gloria?*: No.
+
+**vv97-102** La **kènosis** di Napoleone, ossia lo svuotamento, e.g. Gesu che rinuncia alla natura divina e prende la natura umana per morire da schiavo. 
+Assume il punto di vista della storia, per il quale la crocifissione è la sconfitta di Cristo.
+
+Il significato è che nessuno di più grande si è mai convertito.
+
+**vv103-108** Strofa quasi consolatoria. La presenza di Dio è la vittoria della storia, tutta la storia di Napoleone va letta alla luce di questa strofa.
