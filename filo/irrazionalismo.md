@@ -15,5 +15,24 @@ Riprende
 
 Rappresentazione in tedesco è *vorstellung*, ossia ciò che sta davanti ad un soggetto.
 Dove c'è un soggetto che pensa c'è un oggetto davanti, ma noi possiamo uscire da questo dualismo e capire che sotto a tutto c'è la volontà
+Attraverso l'intuizione del corpo percepiamo he dietro questa distesa di oggeti c'è la volontà che spinge gli esseri verso qualche scopo.
 
-## Nietzsche
+> Esse est percipi
+> *G Berkeley*
+>
+> Essere è essere percepiti
+
+questo concetto presente anche nei Veda viene ripreso da Schopenhauer.
+La cosa in sè è la volontà.
+
+> Il mondo è volontà
+
+Al tempo e allo spazio sfugge il soggetto.
+
+Mondo rappresentazion | mondo volontà
+----------------------|--------------
+spazio e tempo --> pluralità | no pluralità
+
+Sarebbe impossibile trovare il significato del mondo che sta dinanzi a noi considerandolo come solo rappresentazione.
+
+La volontà non può essere plurale, c'è un'unica volontà dietro a tutte le cose.
