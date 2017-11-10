@@ -122,3 +122,5 @@ VOCABULARY:
 - joyful
 - overjoyed
 - gleeful
+
+### Coleridge

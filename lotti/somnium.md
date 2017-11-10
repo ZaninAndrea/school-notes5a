@@ -190,3 +190,25 @@ Perciò da te, Publio, e da tutti quelli dotati di pietas l'anima deve essere co
 
 *iniussu*: senza il consenso, si trova solo all'ablativo
 
+### Capitolo 8
+> Sed sic, Scipio, ut avus hic tuus, ut ego, qui te genui, iustitiam cole et pietatem, quae cum magna in parentibus et propinquis, tum in patria maxima est
+
+Scipione, così come [*ut*] il tuo avo e così come io che ti ho generato, coltiva [*colo*] la giustizia e la pietas, che non solo [*cum*] è grande nei confronti dei genitori e dei parenti, ma soprattutto [*tum*] è grandissima nei confronti della patria.
+
+climax in chiasmo *magna in parentibus in patria maxima*
+*cum tum* correlativo
+
+> ea vita via est in caelum et in hunc coetum eorum, qui iam vixerunt, et corpore laxati illum incolunt locum, quem vides (erat autem is splendidissimo candore inter flammas circus elucens), quem vos, ut a Graiis accepistis, orbem lacteum nuncupatis; ex quo omnia mihi contemplanti praeclara cetera et mirabilia videbantur.
+
+questa vita è la via verso cielo e verso quella riunione di coloro, che hanno vissuto, e sciolti [*laxati*] dal corpo, abitano quel luogo, che vedi (era questo un circolo risplendente di splendidissimo candore tra le fiamme), che voi, come avete appreso dai Greci, chiamate Via Lattea; e da quel luogo a me che contemplavo tutte le cose gli altri [corpi celesti] apparivano illustri e mirabili [*praeclara et mirabilia*]
+
+> Erant autem eae stellae, quas numquam ex hoc loco vidimus, et eae magnitudines omnium, quas esse numquam suspicati sumus, ex quibus erat ea minima, quae ultima a caelo, citima \<a\> terris luce lucebat aliena.
+
+C'erano anche stelle, che noi non abbiamo mai visto da questo luogo, e le grandezze e le dimensioni di tutte erano tali, quali noi mai avremmo immaginato che ci fossero, tra queste era la più piccola quella che più lontana dal cielo e più vicina alla Terra, brillava di luce non propria.
+
+>  Stellarum autem globi terrae magnitudinem facile vincebant. Iam vero ipsa terra ita mihi parva visa est, ut me imperii nostri, quo quasi punctum eius attingimus, paeniteret.
+
+I volumi delle stelle vincevano facilmente la grandezza dellla Terra. Anzi, la stessa Terra mi apparve piccola [*parva*], da pentirmi del nostro potere, con il quale tocchiamo quasi un punto di quella.
+
+la conclusione da astronomica diventa filosofico-morale
+*paeniteret* è un verbo impersonale
