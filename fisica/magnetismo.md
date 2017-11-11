@@ -39,3 +39,20 @@ v&=\frac{E}{B}
 \end{aligned}
 $$
 
+## Biot Savart
+Studiano la forza che fa attrarre 2 fili paralleli percorsi da corrente nello stesso senso. Trovano la formula
+
+$$
+F=\frac{\mu_0}{2\pi}\;\;\frac{i_1 i_2 l}{d}
+$$
+
+La forza che un filo sente è dovuta al campo magnetico generato dall'altro
+$$
+F_2 = i_2 l B_1
+$$
+
+Dalle 2 formule ottengono il campo magnetico di un filo
+
+$$
+B_1 = \frac{\mu_0}{2\pi}\;\;\frac{i_1}{d}
+$$
