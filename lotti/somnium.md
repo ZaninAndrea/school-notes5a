@@ -212,3 +212,30 @@ I volumi delle stelle vincevano facilmente la grandezza dellla Terra. Anzi, la s
 
 la conclusione da astronomica diventa filosofico-morale
 *paeniteret* è un verbo impersonale
+
+### Capitolo 9
+> Quam cum magis intuerer, Quaeso, inquit Africanus, quousque humi defixa tua mens erit? Nonne aspicis, quae in templa veneris?
+
+Poiché continuavo a guardarla di più [*magis*], Di grazia fino a quando la tua mente rimarrà fissa alla terra? chiese l'Africano. Non vedi, in quali spazi [*templa*] sei venuto?
+
+
+*Quam* si riferisce alla Terra ed è un nesso del relativo
+*Quaeso* è un po' intraducibile
+*Defixa* il preverbo *de-* da una connotazione anche morale
+*humi* locativo
+*quae* è un aggettivo interrogativo che introduce un'interrogativa indiretta con *in* interposto
+*veneris* congiuntivo perfetto
+
+> Novem tibi  orbibus vel potius globis conexa sunt omnia, quorum unus est caelestis, extumus, qui reliquos omnes complectitur, summus ipse deus arcens et continens ceteros; in quo sunt infixi illi, qui volvuntur, stellarum cursus sempiterni;
+
+Eccoti [*tibi*]: tutte le cose sono costituite di 9 circoli o meglio dire sfere, una sola delle quali è celeste, l'ultima, che abbraccia tutte le altre, è Dio stesso che contiene e abbraccia gli altri cieli, nei quali sono infissi quei corsi eterni di stelle, che girano.
+
+*tibi* dativo etico
+*extumus* arcaismo per *extremus*
+**Enallage**: figura retorica che mette insieme 2 termini grammaticalmente, che però a livello di senso dobbiamo tradurre diversamente.
+
+> cui subiecti sunt septem qui versantur retro contrario motu atque caelum. Ex quibus summum globum possidet illa, quam in terris Saturniam nominant. Deinde est hominum generi prosperus et salutaris ille fulgor, qui dicitur Iovis; tum rutilus horribilisque terris, quem Martium dicitis;
+
+A questo sono sottoposti sette [cieli] che ruotanoo all'indietro con un movimento contrario a quello del cielo 
+
+un comparativo introdotto da quam che è anche **Comparatio compendiaria**, ossia il genitivo del secondo termine di paragone prende il caso del primo termine di paragone.
