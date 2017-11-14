@@ -183,7 +183,80 @@ la porta del piacer nessun diserra;	60
 > e dinanzi a la sua spirital corte	
 et coram patre le si fece unito;
 poscia di dì in dì l’amò più forte.	63
+> 
+> Questa, privata del primo marito,	
+millecent’ anni e più dispetta e scura
+fino a costui si stette sanza invito;	66
+> 
+> né valse udir che la trovò sicura	
+con Amiclate, al suon de la sua voce,
+colui ch’a tutto ’l mondo fé paura;	69
+> 
+> né valse esser costante né feroce,	
+sì che, dove Maria rimase giuso,
+ella con Cristo pianse in su la croce.	72
 
 La prima immagine è il luogo di nascita. L'orto è la nascita (dal latino).
 
-Già da giovane cominciò a far sentire alla terra la sua grande virtù. Che per tale donna
+Già da giovane cominciò a far sentire alla terra la sua grande virtù. Si mise contro al padre, per questa donna, alla quale, come alla morte, nessuno apre la porta del piacere. [*alitote*]
+E davanti al vescovo e al padre la sposò, poi di giorno in giorno la amò sempre di più.
+Questa era vedova da 1100 anni e nessuno l'aveva voluta fino a lui.
+Non è servito il fatto che sia stata insieme ad Amiclate che grazie a questa non ebbe paura, al suono della sua voce, colui che a tutto il mondo fece paura [riferimento alla Tessaglia]
+Non è servito avere la costanza e il coraggio, al punto che dove Maria rimase sotto, lei con Cristo pianse sulla croce.
+
+La morte in croce significa che rinuncia alla natura divina.
+
+> Ma perch’ io non proceda troppo chiuso,	
+Francesco e Povertà per questi amanti
+prendi oramai nel mio parlar diffuso.	75
+> 
+> La lor concordia e i lor lieti sembianti,	
+amore e maraviglia e dolce sguardo
+facieno esser cagion di pensier santi;	78
+
+La donna è la Povertà. Il matrimonio tra Francesco e la Povertà, ossia l'ordine francescano, provocavano solo effetti positivi.
+
+> tanto che ’l venerabile Bernardo	
+si scalzò prima, e dietro a tanta pace
+corse e, correndo, li parve esser tardo.	81
+
+Tanto che il venerabile Bernardo si scalzò e corse dietro a questa pace e correndo gli parve di essere troppo lento
+
+*scalzò* è una metonimia per *rinunciare a tutto*
+
+> Oh ignota ricchezza! oh ben ferace!	
+Scalzasi Egidio, scalzasi Silvestro
+dietro a lo sposo, sì la sposa piace.	84
+
+L'*ignota ricchezza* è una ricchezza incomprensibile
+
+Oh ricchezza ignota! Oh ben ferace! Si scalzò Egidio, si scalzò Silvestro, seguirono lo sposo, così la sposa piacque.
+
+> Indi sen va quel padre e quel maestro		 
+con la sua donna e con quella famiglia
+che già legava l’umile capestro.	87
+
+La prima caratteristica dei seguaci era *scalzarsi* la seconda è l'essere legati dall'umile capestro, ossia la corda con cui si cingono i frati.
+
+> Né li gravò viltà di cuor le ciglia	
+per esser fi’ di Pietro Bernardone,
+né per parer dispetto a maraviglia;	90
+> 
+> ma regalmente sua dura intenzione	
+ad Innocenzio aperse, e da lui ebbe
+primo sigillo a sua religïone.	93
+
+Non gli fece abbassare lo sguardo [non gli fece perdere il coraggio *gravò le ciglia*] l'essere figlio di Pietro Bernardone [un mercante, non aristocratico], ne l'essere orribile a vedersi.
+Lui regalmente spiegò a papa Innocenzo la sua dura intenzione [la regola francescana], da lui ebbe il primo sigillo [dei tre].
+
+Usa l'avverbio regalmente per contrastare la situazione descritta nella terzina precedente
+
+> Poi che la gente poverella crebbe	
+dietro a costui, la cui mirabil vita
+meglio in gloria del ciel si canterebbe,	96
+> 
+> di seconda corona redimita	
+fu per Onorio da l’Etterno Spiro
+la santa voglia d’esto archimandrita.	99
+
+Questa è la seconda approvazione
