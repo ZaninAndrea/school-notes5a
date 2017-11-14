@@ -96,3 +96,94 @@ che pria m’avea parlato, sorridendo
 incominciar, faccendosi più mera: 18
 
 Stabile con una candela nel candelabro
+
+> «Così com’ io del suo raggio resplendo,	
+sì, riguardando ne la luce etterna,
+li tuoi pensieri onde cagioni apprendo.	21
+
+Guardando Dio conosco tutto
+
+> Tu dubbi, e hai voler che si ricerna	
+in sì aperta e ’n sì distesa lingua
+lo dicer mio, ch’al tuo sentir si sterna,	24
+> 
+> ove dinanzi dissi: “U’ ben s’impingua”,	
+e là u’ dissi: “Non nacque il secondo”;
+ e qui è uopo che ben si distingua.	27
+ 
+Tu vorresti fare una domanda, ma non la fai. Tu vuoi che questo dubbio si chiarisca in un linguaggio più comprensibile ciò che dissi, "U' ben s'impingua" e quando dissi "Non nacque il secondo" e qui è luogo che 
+
+> La provedenza, che governa il mondo		 
+con quel consiglio nel quale ogne aspetto
+creato è vinto pria che vada al fondo,	30
+> 
+> però che andasse ver’ lo suo diletto	
+la sposa di colui ch’ad alte grida
+ disposò lei col sangue benedetto,	33
+
+Parte con 5 terzine relative a Dio visto come la Provvidenza che ordina il mondo.
+Viene espressa l'incomprensibilità della natura di Dio, ogni aspetto creato è sconfitto prima che riesca ad andare a fondo nella comprensione di Dio.
+
+Il fine di aver fatto sorgere questi 2 eroi è la salvezza della Chiesa, che viene resa attraverso la perifrasi "La sposa di colui ch'ad alte grida disposò lei col sangue benedetto", ossia "la sposa di cristo, che l'ha sposata morente con il sangue benedetto". Salvezza viene resa come "perchè andasse verso il suo diletto [*amato*]", ossia perchè andasse verso Dio.
+
+C'è una logica di enciclopedismo in Dante, per la quale ogni concetto va ampliato, che nella terzina 31-33 viene esagerata.
+
+> in sé sicura e anche a lui più fida,	
+due principi ordinò in suo favore,
+che quinci e quindi le fosser per guida.	36
+> 
+> L’un fu tutto serafico in ardore;	
+l’altro per sapïenza in terra fue
+di cherubica luce uno splendore.	39
+
+In se più sicura, ordinò le cose in modo che 2 principi nascessero, che da una parte e dall'altra le fossero da guida.
+
+Oguno dei 2 principi viene presentato con la sua caratteristica:
+Uno fu serafico per l'ardore, sottinteso di carità, l'altro splendette di luce cherubica per la sua sapienza in terra.
+
+> De l’un dirò, però che d’amendue	
+si dice l’un pregiando, qual ch’om prende,
+perch’ ad un fine fur l’opere sue.	42
+
+Io parlerò di uno, perchè elogiando uno si elogia anche l'altro, dato che ad un fine furono le sue opere.
+
+Logica di elogio reciproco tra gli ordini domenicano e francescano
+
+> Intra Tupino e l’acqua che discende		 
+del colle eletto dal beato Ubaldo,
+fertile costa d’alto monte pende,	45
+> 
+> onde Perugia sente freddo e caldo	
+da Porta Sole; e di rietro le piange
+per grave giogo Nocera con Gualdo.	48
+> 
+> Di questa costa, là dov’ ella frange	
+più sua rattezza, nacque al mondo un sole,
+come fa questo talvolta di Gange.	51
+> 
+> Però chi d’esso loco fa parole,	
+non dica Ascesi, ché direbbe corto,
+ma Orïente, se proprio dir vuole.	54
+
+Tra il Tupino e il fiume che scende da quel monte, che è stato scelto dal beato Ubaldo, ferticle versante del monte, da cui Perugia sente freddo e caldo, e dall'altra parte piange per grave giogio Nocera e Gualdo [*è stato più fortunato a nascere a Perugia*]
+Naque al mondo un sole, come talvolta il  sole nasce da Gange [*oriente per antonomasia, ossia quando il sole nasce meglio*]
+Però chi di questo luogo vuole parlare non dica Assisi, cma Oriente se proprio vuol dire [*per enfatizzare l'associazione Francesco-Sole*]
+4 terzine per dire Assisi, perché per spiegare dove nasce devo amplificarlo
+
+Agiografia geografica: il luogo facilita la santità
+
+> Non era ancor molto lontan da l’orto,	
+ch’el cominciò a far sentir la terra
+de la sua gran virtute alcun conforto;	57
+> 
+> ché per tal donna, giovinetto, in guerra	
+del padre corse, a cui, come a la morte,
+la porta del piacer nessun diserra;	60
+> 
+> e dinanzi a la sua spirital corte	
+et coram patre le si fece unito;
+poscia di dì in dì l’amò più forte.	63
+
+La prima immagine è il luogo di nascita. L'orto è la nascita (dal latino).
+
+Già da giovane cominciò a far sentire alla terra la sua grande virtù. Che per tale donna

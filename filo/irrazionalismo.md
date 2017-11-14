@@ -31,8 +31,27 @@ Al tempo e allo spazio sfugge il soggetto.
 
 Mondo rappresentazion | mondo volontà
 ----------------------|--------------
-spazio e tempo --> pluralità | no pluralità
+spazio e tempo --> pluralità, individualità | no pluralità
+causalità --> ha uno scopo | senza scopo, senza fine
+
+Con la volontà possiamo andare al di là del fenomeno e quindi non vale lo spazio e il tempo, dato che sono forme prime applicate dal soggetto ai fenomeni. La volontà invece è la cosa in sè, quindi non è soggetta a spazio e tempo.
+
+Non possiamo ignorare la volontà, dato che essa si oggettiva nelle rappresentazioni (come la luce che si scompone nel prisma).
 
 Sarebbe impossibile trovare il significato del mondo che sta dinanzi a noi considerandolo come solo rappresentazione.
 
 La volontà non può essere plurale, c'è un'unica volontà dietro a tutte le cose.
+
+La vera natura della realtà è di essere profondamente assurda e disumana, perché non c'è uno scopo.
+
+> La vita è un pendolo tra la noia e il dolore
+
+La civilità occidentale è costruita sull'individuo, secondo Derek Parfit questa enfasi sull'individualità è eccessiva e ingiustificata, in realtà siamo fondamentalmente quasi uguali.
+
+La volontà si oggettiva prima in idee (platone) e poi in rappresentazioni (Kant)
+
+## Dawkins
+Dawkins scrive il "Gene Egoista", in cui parla di bruchi mangiati vivi da icneumoidi.
+
+Se noi osserviamo la natura può sembrare orribilmente crudele o perfettamente ordinata. Sappiamo ora che il mondo è organizzato per la selezione naturale.
+Al centro di questo meccanismo c'è il DNA che semplicemente si riproduce senza uno scopo. C'è un parallelismo tra la volontà e il gene, entrambi operano in una prospettiva anti-umana: senza scopo
