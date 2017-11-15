@@ -239,3 +239,9 @@ Eccoti [*tibi*]: tutte le cose sono costituite di 9 circoli o meglio dire sfere,
 A questo sono sottoposti sette [cieli] che ruotanoo all'indietro con un movimento contrario a quello del cielo 
 
 un comparativo introdotto da quam che è anche **Comparatio compendiaria**, ossia il genitivo del secondo termine di paragone prende il caso del primo termine di paragone.
+
+> cui subiecti sunt septem qui versantur retro contrario motu atque caelum. Ex quibus summum globum possidet illa, quam in terris Saturniam nominant. Deinde est hominum generi prosperus et salutaris ille fulgor, qui dicitur Iovis; tum rutilus horribilisque terris, quem Martium dicitis
+
+Poi c'è quel fulgore prospero e salutare per il genere degli uomini [l'influsso positivo di Giove], che è detto [pianeta] di Giove; poi il rosseggiante e orribile per la Terra che voi chiamate [pianeta] di Marte..
+
+Variatio: aggettivo o genitivo per esprimere il nome dei pianeti
