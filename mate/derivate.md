@@ -91,6 +91,25 @@ $$
 (\ln{x})'=\frac{1}{x}
 $$
 
+### Derivata di $f(x)^{g(x)}$
+E.g.
+$$
+\begin{aligned}
+y&=(x+2)^{(x-1)}
+\end{aligned}
+$$
+
+Formula
+$$
+\begin{aligned}
+y&=f(x)^{g(x)}\\
+&=e^{\ln{f(x)^{g(x)}}}\\
+&=e^{g(x)\cdot\ln{f(x)}}\\
+y'&=e^{g(x)\cdot\ln{f(x)}}\cdot(g'(x)\ln{f(x)}+\frac{g(x)}{f(x)}f'(x))\\
+&=f(x)^{g(x)}\cdot(g'(x)\ln{f(x)}+\frac{g(x)}{f(x)}f'(x))
+\end{aligned}
+$$
+
 ## Derivate composte
 ### Somma di funzioni
 $$
@@ -184,3 +203,34 @@ $$
 ## Derivata seconda
 Data una funzione $f(x)$ definita e continua in un intervallo e derivabile 2 volte nell'intervallo, se $f''(x)\gt0$ la funzione avrà concavità verso l'alto, se $f''(x)\lt0$ la funzione avrà concavità verso il basso.
 
+## Derivata dell'inversa
+$$
+\begin{aligned}
+f(x)&=y \\
+f^{-1}(y)&=x \\
+Df^{-1}(y)&=Df^{-1}(f(x))\\
+&=Df^{-1}(f(x))\cdot Df(x)\\
+\\
+Df^{-1}(y)&=\frac{1}{Df(x)}
+\end{aligned}
+$$
+
+### Derivata di $\arcsin{y}$
+$$
+\begin{aligned}
+D\arcsin{y}&=\frac{1}{D\sin{x}}\\
+&=\frac{1}{\cos{x}} \\
+&=\frac{1}{\sqrt{1-\sin^2{x}}}\\
+&=\frac{1}{\sqrt{1-y^2}}
+\end{aligned}
+$$
+
+### Derivata di $\arccos{y}$
+$$
+D\arccos{y}=\frac{-1}{\sqrt{1-y^2}}
+$$
+
+### Derivata di $\arctg{y}$
+$$
+D\arctg{y}=\frac{1}{1+y^2}
+$$
