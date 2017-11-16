@@ -259,4 +259,84 @@ meglio in gloria del ciel si canterebbe,	96
 fu per Onorio da l’Etterno Spiro
 la santa voglia d’esto archimandrita.	99
 
-Questa è la seconda approvazione
+la santa voglia di Francesco fu adornata di una seconda corona attraverso l'opera di Onorio III dall'Eterno Spirito
+
+> E poi che, per la sete del martiro,		 
+ne la presenza del Soldan superba
+predicò Cristo e li altri che ’l seguiro,	102
+> 
+> e per trovare a conversione acerba	
+troppo la gente e per non stare indarno,
+redissi al frutto de l’italica erba,	105
+> 
+> nel crudo sasso intra Tevero e Arno	
+da Cristo prese l’ultimo sigillo,
+che le sue membra due anni portarno.	108
+
+E poiché, per la volontà di testimoniare andò a predicare Cristo e la Chiesa alla presenza del Sultano [d'Egitto], e per aver trovato la gente non pronta alla conversione e per non perdere troppo tempo ritorna in Italia. Nel crudo sasso tra Tevere e Arno da Cristo prese l'ultimo sigillo, che le sue membra per 2 anni portarono.
+
+Il terzo riconoscimento sono le stigmate
+L'Italia vista come luogo in cui poter seminare e raccogliere
+
+> Quando a colui ch’a tanto ben sortillo	
+piacque di trarlo suso a la mercede
+ch’el meritò nel suo farsi pusillo,	111
+> 
+> a’ frati suoi, sì com’ a giuste rede,	
+raccomandò la donna sua più cara,
+e comandò che l’amassero a fede;	114
+> 
+> e del suo grembo l’anima preclara	
+mover si volle, tornando al suo regno,
+e al suo corpo non volle altra bara.	117
+
+Quando colui, che lo aveva destinato a così grande bene, decise di chiamarlo in su alla mercede che si maritò facendosi così piccolo. Ai frati suoi, come a giusti eredi, raccomandò la donna a lui più cara e comandò che la amassero a fede [la Povertà], e dal suo grembo l'anima si volle muovere, tornando al suo regno, al suo copro non volle altra bara [che la terra]
+
+> Pensa oramai qual fu colui che degno		  
+collega fu a mantener la barca
+di Pietro in alto mar per dritto segno;	120
+> 
+> e questo fu il nostro patrïarca;	
+per che qual segue lui, com’ el comanda,
+discerner puoi che buone merce carca.	123
+
+Adesso che hai sentito la gloria di Francesco pensa a chi fu degno collega di lui nel mantenere la barca di San Pietro [la Chiesa] in alto mare [situazione di pericolo] sulla retta via.
+E questo fu il nostro patriarca, coloro che lo seguono, come lui comanda, puoi riconoscere che portano buona merce.
+
+> Ma ’l suo pecuglio di nova vivanda	
+è fatto ghiotto, sì ch’esser non puote
+che per diversi salti non si spanda;	126
+> 
+> e quanto le sue pecore remote	
+e vagabunde più da esso vanno,
+più tornano a l’ovil di latte vòte.	129
+
+Ma il suo gregge di nuovo cibo si è fatto ghiotto al punto che non può essere che non si disperda per diversi pascoli
+E quanto più lontano se ne vanno, tanto più tornano alll'ovile senza latte
+
+nuovo è negativo come termine per il medioevo
+
+> Ben son di quelle che temono ’l danno	
+e stringonsi al pastor; ma son sì poche,
+che le cappe fornisce poco panno.	132
+
+Ci sono si quelle che temono questo danno e che si stringono al pastore [San Domenico], ma sono così poche che per le cappe richiedono poco tessuto.
+
+Si esce dalla metafora dell pecore
+
+> Or, se le mie parole non son fioche,	
+se la tua audïenza è stata attenta,
+se ciò ch’è detto a la mente revoche,	135
+> 
+> in parte fia la tua voglia contenta,	
+perché vedrai la pianta onde si scheggia,
+e vedra’ il corrègger che argomenta	138
+> 
+> “U’ ben s’impingua, se non si vaneggia”».	139
+
+Se le mie parole non sono fioche [sinestesia], se hai ascoltato attentamente e se riporti alla mente ciò che è stato detto.
+In parte il tuo desiderio sarà esaudito [desiderio di sanare il dubbio], perché vedrai la pianta dove perde i suoi pezzi e vedrai la correzione che si propone
+"Ci si ingrassa bene, se non si vaneggia"
+
+La prima terzina è l'insegnamento, la seconda è l'apprendimento, la terza è lo studio.
+L'ultimo verso significa che se si resta sulla tradizione si va sul sicuro.

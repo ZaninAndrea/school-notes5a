@@ -245,3 +245,20 @@ un comparativo introdotto da quam che è anche **Comparatio compendiaria**, ossi
 Poi c'è quel fulgore prospero e salutare per il genere degli uomini [l'influsso positivo di Giove], che è detto [pianeta] di Giove; poi il rosseggiante e orribile per la Terra che voi chiamate [pianeta] di Marte..
 
 Variatio: aggettivo o genitivo per esprimere il nome dei pianeti
+
+> deinde subter mediam fere regionem sol obtinet, dux et princeps et moderator luminum reliquorum, mens mundi et temperatio, tanta magnitudine, ut cuncta sua luce lustret et compleat.
+
+Al di sotto il sole tiene la regione centrale, conduttore e moderatore delle altre luci, mente del mondo e regolatore, di tanta grandezza, che illumina e riempe con la sua luce tutte le cose.
+
+subter --> sotto [arcaismo]
+
+> Hunc ut comites consecuntur Veneris alter, alter Mercurii cursus, in infimoque orbe luna radiis solis accensa convertitur. Infra autem iam nihil est nisi mortale et caducum praeter animos munere deorum hominum generi datos,
+
+Lo [*hunc*, il sole] seguono [*consecuntur*] come compagni, l'una sfera di Venere e l'altra sfera di Mercurio, e nell'ultima sfera si muove la Luna illuminata dai raggi del sole.
+Al di sotto [della luna] non c'è nulla se non mortale e caduco, fatta eccezione degli animi, che sono dati al genere umano per dono degli dei.
+
+Il forte uso di chiasmi e simmetrie vuole esprimere un ordine e una simmetria anche nella struttura dei cieli.
+
+> supra lunam sunt aeterna omnia. Nam ea, quae est media et nona, tellus, neque movetur et infima est, et in eam feruntur omnia nutu suo pondera. 
+
+Al di sopra della luna tutte le cose sono eterne. La terra, quella  che è centrale e al nono posto, non si muove ed è la più bassa e verso questa vengono portati tutti i pesi con la loro forza
