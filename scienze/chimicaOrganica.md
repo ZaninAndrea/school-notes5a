@@ -119,3 +119,6 @@ Un elettrofilo si lega ad un carbonio nello stadio di transizione e rapidamente 
 Compposti con la stessa formula bruta, ma che differiscono per:
 - i legami
 - la disposizione spaziale
+
+
+## Alogenoderivati
