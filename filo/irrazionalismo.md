@@ -54,4 +54,20 @@ La volontà si oggettiva prima in idee (platone) e poi in rappresentazioni (Kant
 Dawkins scrive il "Gene Egoista", in cui parla di bruchi mangiati vivi da icneumoidi.
 
 Se noi osserviamo la natura può sembrare orribilmente crudele o perfettamente ordinata. Sappiamo ora che il mondo è organizzato per la selezione naturale.
-Al centro di questo meccanismo c'è il DNA che semplicemente si riproduce senza uno scopo. C'è un parallelismo tra la volontà e il gene, entrambi operano in una prospettiva anti-umana: senza scopo
+Al centro di questo meccanismo c'è il **DNA** che semplicemente si riproduce senza uno scopo. C'è un parallelismo tra la volontà e il gene, entrambi operano in una prospettiva anti-umana: senza scopo
+
+Per gli evoluzionisti come Dawkins, l'uomo non è più importante degli altri animali, è semplicemente il prodotto dell'evoluzione. L'uomo ingenuo però crede di essere parte di un progetto, di avere uno scopo.
+Il dualismo **Evoluzione-Individuo** di Dawkins è simile al dualismo **Volontà-Individuo** di Schopenhauer.
+
+Dawkins è famoso per le sue politiche antireligiose.
+
+### Memi
+La trasmissione culturale è analoga alla trasmissione genetica, anche se molto più rapida.
+
+Il gene è un replicatore (qualcosa che tende a replicarsi). Un nuovo tipo di replicatore è l'unità di trasmissione culturale che dalla parole *Mimeme* e *gene* prende il nome di *meme*.
+Esempi di memi sono melodie, idee, frasi, mode, modi di modellare vasi o costruire archi.
+
+Come i geni si propagano tramite spermatozoi o cellule uovo, i memi si propagano attraverso l'imitazione, saltando di cervello in cervello.
+Non siamo noi a produrre delle idee, sono i memi che utilizzano i nostri cervelli per propagarsi, così come non siamo noi i protagonisti dell'evoluzione, ma i geni.
+
+Dio è un meme che ha avuto molto successo grazie al suo impatto psicologico.
