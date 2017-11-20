@@ -50,6 +50,20 @@ La civilità occidentale è costruita sull'individuo, secondo Derek Parfit quest
 
 La volontà si oggettiva prima in idee (platone) e poi in rappresentazioni (Kant)
 
+Quando l'uomo mise il dolore tutto nell'inferno per il paradiso non rimase che la noia.
+
+Noi viviamo in questa vita e continuamente combattiamo per esistere, ma alla fine moriremo.
+
+Una volta che abbiamo tolto il dolore dalle nostre vite voglia solo passare il tempo.
+
+Schopenhauer contempla il suicidio come soluzione, ma viene scartato, perché 
+è volontà di qualcosa di migliore.
+
+La prima via di liberazione dalla volontà è l'arte, perché durante l'esperienza artistica non ho bisogni.
+La seconda è la compassione verso gli altri, perché quando sono compassionevole verso gli altri lo sono con me stesso, perché sto superando la mia individualità e ci sentiamo un tuttuno con gli altri e smettiamo di essere centri di volontà.
+
+Invece della voluntas raggiungiamo la noluntas e invece di motivi abbiamo dei quietivi.
+
 ## Dawkins
 Dawkins scrive il "Gene Egoista", in cui parla di bruchi mangiati vivi da icneumoidi.
 
