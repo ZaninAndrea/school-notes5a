@@ -123,4 +123,16 @@ VOCABULARY:
 - overjoyed
 - gleeful
 
-### Coleridge
+### The Rime of the Ancinent Mariner
+- 1a) The Mariner is described as an old with a long beard and a glittering eye
+- 1b) a madman
+- 1c) He's annoyed at first and then scared, he wants to leave, but cannot. In the end he's forced into obedience by the magical powers of the mariner.
+- 2a) A fierce storm pushes the ship southwards against his will. At last it reaches the south pole
+- 2b) The wind, the storm, the snowy cliffs, the ice
+- 3a) The albatros is compared to a chirstian soul
+- 3b) The men on the ship hail it as if he ws sent by God and cheer
+- 3c) They start giving him food and playing with him and are very nice with him.
+- 3d) The albatros was a good omen, so they wanted him to stay
+- 5a) ABCD
+- 5b) 4, quatreins
+- 5c) ballad

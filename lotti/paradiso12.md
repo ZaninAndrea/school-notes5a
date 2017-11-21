@@ -89,3 +89,63 @@ lo popol disvïato si raccorse.	45
 
 L'esercito di Cristo, che gli era costato la vita, aveva difficoltà a seguirlo [3a immagine della Chiesa]. Dio interviene in aiuto della Chiesa non perché se lo meriti, ma solo per grazia.
 Si ritorna alla metafora della sposa del canto XI
+
+> In quella parte ove surge ad aprire	
+Zefiro dolce le novelle fronde
+di che si vede Europa rivestire,	48
+> 
+> non molto lungi al percuoter de l’onde	
+dietro a le quali, per la lunga foga,
+lo sol talvolta ad ogne uom si nasconde,	51
+> 
+> siede la fortunata Calaroga	
+sotto la protezion del grande scudo
+in che soggiace il leone e soggioga:	54
+
+Proprio quando Zefiro soffia e crea questa vitalit, una nuova primavera [della Chiesa].
+
+Non può essere solo occidente, perché sarebbe negativo, quindi diventa il luogo da cui nasce la primavera.
+
+Poi si riferisce all'Oceano Atlantico, dove il sole si riposa dopo una giornata affannata.
+Non molto lontano siede la fortunata città di Calaroga [fortunata perché vi è nato Calaroga] in Castiglia.
+
+Il simbolo della castiglia è 
+
+![Escudo_de_Castilla_y_Leon.png](images/escudodecastillayleon.png)
+
+Da un lato il leone è soggiogato dalla torre, dall'altro la soggioga.
+
+> dentro vi nacque l’amoroso drudo	
+de la fede cristiana, il santo atleta
+benigno a’ suoi e a’ nemici crudo;	57
+> 
+> e come fu creata, fu repleta	
+sì la sua mente di viva vertute,
+che, ne la madre, lei fece profeta.	60
+
+Prima ancora che nascesse [come fu creata la sua mente] la sua mente era così fervente che fece della madre profeta.
+
+Si riferisce ad un sogno profetico della madre in cui un cane bianco e nero con una fiaccola in bocca incendia il mondo.
+Bianco e nero --> colori del saio dei domenicani
+fiaccola --> sapienza
+Questo è un evento positivo in quanto metaforico
+
+> Poi che le sponsalizie fuor compiute	
+al sacro fonte intra lui e la Fede,
+u’ si dotar di mutüa salute,	63
+la donna che per lui l’assenso diede,	
+vide nel sonno il mirabile frutto
+ch’uscir dovea di lui e de le rede;	66
+e perché fosse qual era in costrutto,	
+quinci si mosse spirito a nomarlo
+del possessivo di cui era tutto.	69
+Domenico fu detto; e io ne parlo	
+sì come de l’agricola che Cristo
+elesse a l’orto suo per aiutarlo.	72
+
+Per parlare del battesimo utilizza il sacramento del matrimonio.
+L'uno ha giovato all'altro.
+Salute --> salus --> salvezza
+Nel battesimo lui viene salvato dal peccato ed entrando a far parte della chiesa la salva.
+La donna è la madrina, che acconsente per lui al battesimo, vede nel sonno i frutti di lui e dei suoi eredi, ossia l'ordine domenicano.
+Da qui [dal paradiso] venne l'idea del suo nome, perché fosse il possessivo di Dio [Domenico --> del Signore].

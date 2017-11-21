@@ -56,3 +56,21 @@ Dalle 2 formule ottengono il campo magnetico di un filo
 $$
 B_1 = \frac{\mu_0}{2\pi}\;\;\frac{i_1}{d}
 $$
+
+## Magnetismo nella materia
+- **Sostanze ferromagnetiche**
+I momenti magnetici microscopici si **allineano** al campo esterno e sono relativamente **grandi**. E.g. ferro, cobalto
+- **Sostanze paramagnetiche**
+I momenti magnetici microscopici si **allineano** al campo esterno e sono relativamente **piccoli**. E.g. alluminio
+- **Sostanze diamagnetiche**
+I momenti magnetici si allineano in **verso opposto** al campo esterno e sono relativamente **piccoli**. E.g. rame
+
+Si definisce una costante di permeabilità magnetica $\mu_r$ relativa per esprimere questi 3 stati
+
+$$
+\vec{B}=\mu_r \vec{B_0}
+$$
+
+$\mu_r$ dipende dal campo esterno e dalla temperatura a cui faccio la misura.
+
+Sopra una soglia di temperatura detta *Temperatura di Curie*, i materiali ferromagnetici diventano paramagnetici.
