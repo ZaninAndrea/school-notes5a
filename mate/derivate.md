@@ -234,3 +234,79 @@ $$
 $$
 D\arctg{y}=\frac{1}{1+y^2}
 $$
+
+## Applicazioni delle derivate
+### Determinare quando 2 curve sono tangenti tra loro
+Determiniamo per quale $k$ le 2 curve
+$$
+\begin{aligned}
+y&=2x^2 + k \\
+y &=\ln{x}
+\end{aligned}
+$$
+
+Sono tangenti tra loro e in quale punto. Sappiamo quindi che te 2 curve devono toccarsi in un solo punto e che in quel punto la tangente deve essere comune.
+
+$$
+\begin{cases}
+2x^2 + k = \ln{x} \\ 
+4x = \frac{1}{x} 
+\end{cases}
+$$
+
+### Determinare la retta tangente and entrambe le curve
+$$
+\begin{aligned}
+f : y &= x^2 \\
+g : y &= \frac{1}{x}
+\end{aligned}
+$$
+![tangente comune.PNG](images/tangente-comune.png)
+
+La tangente toccherà le 2 rette in 2 punti $(x_p, y_p)$ e $(x_q,y_q)$. 
+La tangente a $f$ in $P(x_p, y_p)$ è
+$$
+\begin{aligned}
+y-y_p&=f'(x_p)\cdot(x-x_p)\\
+y&=2x_p x - 2x_p^2+x_p^2\\
+y&=2x_p x - x_p^2
+\end{aligned}
+$$
+e quella a $g$ in $P(x_q,y_q)$ è
+$$
+\begin{aligned}
+y-y_q&=f'(x_q)\cdot(x-x_q)\\
+y&=-\frac{1}{x^2_q}x+\frac{1}{x_q}+\frac{1}{x_q}\\
+y&=-\frac{1}{x^2_q}x+\frac{2}{x_q}
+\end{aligned}
+$$
+
+La tangente deve essere comune, quindi sia la $m$ che la $q$ devono essere uguali
+
+$$
+\begin{cases}
+2x_p&=-\frac{1}{x^2_q}\\
+-x_p^2&=\frac{2}{x_q}
+\end{cases}
+$$
+
+### Applicazione in fisica - legge oraria del moto
+Una palla viene lanciata da terra ad una velocità di $60 \frac{m}{s}$ la legge oraria con cui si muove questa palla $s=60t-5t^2$.
+Trova l'altezza massima.
+
+$$
+v = s' = 60 - 10t
+$$
+
+L'altezza massima è il punto in cui la velocità è 0
+
+$$
+\begin{aligned}
+v &= 0\\
+60 - 10t = 0\\
+t = 6
+\end{aligned}
+$$
+
+Da cui troviamo che $s = 180$
+
