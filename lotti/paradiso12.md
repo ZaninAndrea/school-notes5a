@@ -149,3 +149,52 @@ Salute --> salus --> salvezza
 Nel battesimo lui viene salvato dal peccato ed entrando a far parte della chiesa la salva.
 La donna è la madrina, che acconsente per lui al battesimo, vede nel sonno i frutti di lui e dei suoi eredi, ossia l'ordine domenicano.
 Da qui [dal paradiso] venne l'idea del suo nome, perché fosse il possessivo di Dio [Domenico --> del Signore].
+Dio lo elegge per aiutarlo [corrispondente ai 2 sigilli del canto 11]
+
+> Ben parve messo e famigliar di Cristo:	
+ché ’l primo amor che ’n lui fu manifesto,
+fu al primo consiglio che diè Cristo.	75
+> 
+> Spesse fïate fu tacito e desto	
+trovato in terra da la sua nutrice,
+come dicesse: “Io son venuto a questo”.	78
+
+Si vedeva fin dall'infanzia il suo destino: lo trovano più volte per terra come se dicesse io sono venuto per questo.
+
+> Oh padre suo veramente Felice!	
+oh madre sua veramente Giovanna,
+se, interpretata, val come si dice!	81
+
+Felice di nome e di fatto, Giovanna di nome e di fatto.
+Macarismos reale, ossia un esclamazione che esprime la felicità di qualcun altro
+
+> Non per lo mondo, per cui mo s’affanna	
+di retro ad Ostïense e a Taddeo,
+ma per amor de la verace manna	84
+> 
+> in picciol tempo gran dottor si feo;	
+tal che si mise a circüir la vigna
+che tosto imbianca, se ’l vignaio è reo.	87
+
+Non diventa un grande dottore per seguire la strada del diritto [Ostiense] o della medicina [Taddeo], non per affannarsi per il mondo, ma per amor di Dio [la manna è il cibo che viene da Dio]
+
+La Chiesa come vigna, che si secca se non viene curata.
+
+> E a la sedia che fu già benigna	
+più a’ poveri giusti, non per lei,
+ma per colui che siede, che traligna,	90
+non dispensare o due o tre per sei,	
+non la fortuna di prima vacante,
+non decimas, quae sunt pauperum Dei,	93
+addimandò, ma contro al mondo errante	
+licenza di combatter per lo seme
+del qual ti fascian ventiquattro piante.	96
+
+Dante è cinto dalle 24 piante, che sarebbero i 2 cerchi di beati. San Domenico chiede la licenza di combattere al papato. Al contempo non chiese di tenersi dei soldi. Non chiese di reclamare le eredità senza erede. Non chiese i soldi delle decime, che appartengono ai poveri di Dio.
+
+> Poi, con dottrina e con volere insieme,	
+con l’officio appostolico si mosse
+quasi torrente ch’alta vena preme;	99
+e ne li sterpi eretici percosse	
+l’impeto suo, più vivamente quivi
+dove le resistenze eran più grosse.	102

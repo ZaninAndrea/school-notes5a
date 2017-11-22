@@ -16,3 +16,17 @@ Politica del connubio --> obiettivo di sganciare il parlamento dal re fornendogl
 Poi diventerà trasformiso --> governo debole, che ha bisogno dell'appoggio della destra per far approvare dei provvedimenti
 
 legge coppino --> aumenta fino a 9 anni di età l'istruzione obbligatoria
+
+Il Nebus dell'Etiopia è Meneli. Nel 1887 battaglia di Dogali e cade il governo Crispi. 1896 disfatta di Adua.
+L'Italia si sta ancora costruendo dal punto di vista sociale, quindi non sarà importante nello scenario internazionale.
+
+Con la caduta del governo Crispi finisco i governi della sinistra storica e ci sono 4 anni di governi autoritari guidati prima dal Marchese Roudinì e poi dal generale Pelloux. Il re incarica questi 2 di riportare l'ordine in Italia, che al tempo era scossa da molte rivolte sindacali
+
+Nel Maggio del 1898 avviene la cossiddetta Rivolta dell Stomaco. Viene mandato l'esercito e il generale Fiorenzo Bava Beccaris per sopprimere la rivolta. Il generale da ordine di sparare sulla folla e verrà insignito di una medaglia per il suo successo.
+
+Gaetano Bresci riesce ad uccidere il re. Dal 1900 abbiamo come re Vittorio Emanuele III detto sciaboletta.
+
+Zanardelli diventa primo ministro e Giovanni Giolitti è il suo Ministro dell'Interno.
+
+Giolitti poi diventerà primo ministro e prima era già stato ministro del tesoro. In qualità di Ministro del Tesoro rimane invischiato nello Scandalo della Banca Romana: al tempo più banche potevano stampare moneta e la banca romana aveva stampato più moneta del dovuto per sanare debiti della banca e per concedere prestiti.
+Giolitti ricevé prestiti con questo denaro e probabilmente sapeva di ciò che era successo
