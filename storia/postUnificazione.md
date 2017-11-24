@@ -30,3 +30,8 @@ Zanardelli diventa primo ministro e Giovanni Giolitti è il suo Ministro dell'In
 
 Giolitti poi diventerà primo ministro e prima era già stato ministro del tesoro. In qualità di Ministro del Tesoro rimane invischiato nello Scandalo della Banca Romana: al tempo più banche potevano stampare moneta e la banca romana aveva stampato più moneta del dovuto per sanare debiti della banca e per concedere prestiti.
 Giolitti ricevé prestiti con questo denaro e probabilmente sapeva di ciò che era successo
+
+Giolitti fu ministro in un periodo burrascoso in cui le rivolte popolari era spesso molto violente. In Sicilia erano nati i fasci siciliani, che combattevano per ottenere migliori contratti per i contadini.
+Con la crescita della forza dei lavoratori lo stato deve parteggiare per quest'ultimi un po' di più per ripristinare l'imparzialità dello stato nei confronti di lavoratori e capitale.
+
+**Terzietà dello stato**: lo stato è una terza parte nel conflitto capitale-lavoro
