@@ -9,3 +9,4 @@
 - focus su  una signola scena, come esemplificazione dei contenuti alti del film
 - non nostalgia, ma ammirazione
 - ? macartismo
+- 
