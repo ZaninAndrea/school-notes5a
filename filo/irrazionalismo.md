@@ -75,10 +75,10 @@ Camus rimprovera Schopenhauer per l'incoerenza tra la sua filosofia e la sua vit
 ## Dawkins
 Dawkins scrive il "Gene Egoista", in cui parla di bruchi mangiati vivi da icneumoidi.
 
-Se noi osserviamo la natura può sembrare orribilmente crudele o perfettamente ordinata. Sappiamo ora che il mondo è organizzato per la selezione naturale👵👵👵👼👼🤦💆💆
+Se noi osserviamo la natura può sembrare orribilmente crudele o perfettamente ordinata. Sappiamo ora che il mondo è organizzato per la selezione naturale.
 Al centro di questo meccanismo c'è il **DNA** che semplicemente si riproduce senza uno scopo. C'è un parallelismo tra la volontà e il gene, entrambi operano in una prospettiva anti-umana: senza scopo
 
-Per gli evoluzionisti come Dawkins, l'uomo non è più importante degli altri animali, è semplicemente il prodotto dell'evoluzione. L'uomo ingenuo però crede di essere parte di un 🎊🎊🍱🍱🚞🚞🚞🚞🚃🚃🚃🚉 , di avere uno scopo.
+Per gli evoluzionisti come Dawkins, l'uomo non è più importante degli altri animali, è semplicemente il prodotto dell'evoluzione. L'uomo ingenuo però crede di essere parte di un ??, di avere uno scopo.
 Il dualismo **Evoluzione-Individuo** di
 
 Dawkins è famoso per le sue politiche antireligiose.
@@ -95,3 +95,38 @@ Non siamo noi a produrre delle idee, sono i memi che utilizzano i nostri cervell
 Dio è un meme che ha avuto molto successo grazie al suo impatto psicologico.
 
 ## Nietzsche
+Inizialmente lavorò come professore università di filologia greca.
+Si ispirò a Schopenauer, da cui però si distaccò.
+La sua diea fondamentale è che il criterio di giudizio delle filosofie e le scelte di vita delle persone non sia la verità, ma se è salutare, ossia se contribuisce alla forza vitale delle persone.
+
+## La naascita della tragedia deallo spirito della musica
+Nietzsche sostiene che ci siano uno **spirito Apollineo** e uno **spirito Dionisiaco** nella grecità classica.
+Lo spirito dionisiaco è la natura che porta l'uomo alla distruzione, mentre lo spirito apollineo è quello dell'ordine e della misura.
+Lo spirito dionisaco è quello che viene prima, lo spirito apollineo si aggiunge dopo, ma alla fine diventa predominante e in questo momento arriva un personaggio come Socrate, che è un eccesso di razionalità.
+
+L'uomo sceglie lo spirito apollineo perché quello dionisiaco è troppo spaventoso, in cui la natura non si cura dell'uomo.
+
+## Su verità e menzogna in senso extramorale
+Dire la verità o mentire non è moralmente rilevante.
+Le esperienzee umane sono irrilevanti dal punto di vista della natura, è semplicemente una parte della natura.
+L'intelletto è qualcosa di meramente umano.
+Così come la zanzara crede ad essere al centro del mondo, ma non lo è, così l'uomo crede di essere qualcosa di speciale ma non lo è.
+L'intelletto è semplicemente un mezzo per la conservazione dell'individuo.
+Ingannare è uno strumento con cui l'uomo riesce a sopravvivere.
+
+L'uomo usa l'intelletto anche per ingannare se stesso e quindi non vede la vera realtà, ma solamente forme (forme a priori di Kant).
+Non possiamo realmente conoscere la natura, che è pericolosa e incomprensibile, ma noi la ignoriamo. Siamo in un contesto più Darwiniano.
+
+L'uomo ha inventato la razionalità e ne ha fatto una cosa molto più importante di ciò che è.
+Perché l'uomo vuole la verità? Si accorda con gli altri uomini per utilità o per noia di avere la stessa visione in modo da limitare il più brutale omnium contra omnes (Hobbes).
+
+La verità quindi è mentire tutti quanti nello stesso modo.
+La menzogna viene percepita dalla società come un pericolo e quindi la bandisce colui che mente. La truffa non viene punita perché truffa in sè, ma per il danno che arreca.
+
+Noi desideriamo gli effetti positivi e atti a conservare la vita della verità.
+
+Soltanto se ci dimentichiamo come nasce il linguaggio possiamo dire che esso è nato per dire la verità.
+
+> ## Frase da tatuare
+> Che cos'è dunque la verità? Un esercito mobile di metafore, metonimie, antropomorfismi,
+
