@@ -64,14 +64,22 @@ La seconda è la compassione verso gli altri, perché quando sono compassionevol
 
 Invece della voluntas raggiungiamo la noluntas e invece di motivi abbiamo dei quietivi.
 
+L'ascesi è andare contro la volontà intenzionalmente e il massimo livello di ascesi è il Nirvana.
+
+## Albert Camus
+È un esistenzialista. "La Peste" è interpretabile come una metafora del nazismo
+"Il mito di Sisifo" viene interpretato da Camus come il simbolo della vita umana che è assurda come l'impresa di Sisifo.
+
+Camus rimprovera Schopenhauer per l'incoerenza tra la sua filosofia e la sua vita.
+
 ## Dawkins
 Dawkins scrive il "Gene Egoista", in cui parla di bruchi mangiati vivi da icneumoidi.
 
-Se noi osserviamo la natura può sembrare orribilmente crudele o perfettamente ordinata. Sappiamo ora che il mondo è organizzato per la selezione naturale.
+Se noi osserviamo la natura può sembrare orribilmente crudele o perfettamente ordinata. Sappiamo ora che il mondo è organizzato per la selezione naturale👵👵👵👼👼🤦💆💆
 Al centro di questo meccanismo c'è il **DNA** che semplicemente si riproduce senza uno scopo. C'è un parallelismo tra la volontà e il gene, entrambi operano in una prospettiva anti-umana: senza scopo
 
-Per gli evoluzionisti come Dawkins, l'uomo non è più importante degli altri animali, è semplicemente il prodotto dell'evoluzione. L'uomo ingenuo però crede di essere parte di un progetto, di avere uno scopo.
-Il dualismo **Evoluzione-Individuo** di Dawkins è simile al dualismo **Volontà-Individuo** di Schopenhauer.
+Per gli evoluzionisti come Dawkins, l'uomo non è più importante degli altri animali, è semplicemente il prodotto dell'evoluzione. L'uomo ingenuo però crede di essere parte di un 🎊🎊🍱🍱🚞🚞🚞🚞🚃🚃🚃🚉 , di avere uno scopo.
+Il dualismo **Evoluzione-Individuo** di
 
 Dawkins è famoso per le sue politiche antireligiose.
 
@@ -85,3 +93,5 @@ Come i geni si propagano tramite spermatozoi o cellule uovo, i memi si propagano
 Non siamo noi a produrre delle idee, sono i memi che utilizzano i nostri cervelli per propagarsi, così come non siamo noi i protagonisti dell'evoluzione, ma i geni.
 
 Dio è un meme che ha avuto molto successo grazie al suo impatto psicologico.
+
+## Nietzsche

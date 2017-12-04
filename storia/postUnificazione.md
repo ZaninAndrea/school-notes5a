@@ -35,3 +35,21 @@ Giolitti fu ministro in un periodo burrascoso in cui le rivolte popolari era spe
 Con la crescita della forza dei lavoratori lo stato deve parteggiare per quest'ultimi un po' di più per ripristinare l'imparzialità dello stato nei confronti di lavoratori e capitale.
 
 **Terzietà dello stato**: lo stato è una terza parte nel conflitto capitale-lavoro
+
+Filippo Turati (socialista) viene invitato a far parte del governo, ma rifiuta per non tradire gli ideali socialisti.
+I socialisti si dividono in:
+- massimalisti: vorrebbero trasformare la società in modo da raggiungere il massimo degli ideali socialisti. La rivoluzione o niente, le contraddizioni del capitalismo devono esplodere, per evitare che la rivoluzione si calmi.
+- riformisti: vorrebbero raggiungere almeno un programma minimo
+
+Turati era riformista ma rispetta la volontà del partito.
+Mussolini era un socialista massimalista.
+
+Giolitti cercò delle maggioranze in parlamento di volta in volta cambiando i partiti che lo appoggiavano.
+
+È difficile capire se Giolitti favorì la classe imprenditoriale o lavoratrice. Ha quindi una politica equilibrata, cerca di tenere insieme i 2 binari.
+Il suo lavoro fu incentrato sul rinnovare la macchina dello stato.
+
+4 Ottobre 1911 iniziano le operazioni di conquista della Libia. La preparazione militare questa volta è adeguata e vengono anche occupate le isole greche del dodecanneso per evitare che la turchia inviasse degli aiuti via mare alla Libia.
+
+Giovanni Pascoli di fronte all'iniziativa di Giolitti di invadere la Libia scrive il discorso "La grande proletaria si è mossa" in cui sostiene la conquista.
+È strano che Pascoli sia nazionalista perché è socialista, per giustificarlo trasla il messaggio socialista da ricchi vs poveri a nazioni ricche vs nazioni povere.
