@@ -310,19 +310,3 @@ $$
 
 Da cui troviamo che $s = 180$
 
-## Teorema di de l'Hospital
-f,g definite su I, derivabili in $I/\{x_0\}$ con $g'(x)\ne0$
-- se $\lim_{x\to x_o}f(x)=\lim_{x\to x_o}g(x)=0$
-- oppure se $\lim_{x\to x_o}f(x)=\lim_{x\to x_o}g(x)=\infty$
-
-allora  
-$$
-\exists \lim_{x\to x_0}\frac{f'(x)}{g'(x)}
-\Rightarrow
-\lim_{x\to x_0}\frac{f(x)}{g(x)}=\lim_{x\to x_0}\frac{f'(x)}{g'(x)}
-$$
-
-**Esempio**
-$$
-\lim_{x\to 1}\frac{\ln{x}}{3x-3}=\lim_{x\to 1}\frac{\frac{1}{x}}{3}=\frac{1}{3}
-$$
