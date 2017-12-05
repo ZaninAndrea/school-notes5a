@@ -136,3 +136,22 @@ VOCABULARY:
 - 5a) ABCD
 - 5b) 4, quatreins
 - 5c) ballad
+
+## Jane Austen
+In 1775 she was born, she began writing prose and verses in early age. Her father had to move to Bath for some years because of his job. She then moved to Chawton and lived there for the rest of her life.
+She wrote 6 novels:
+- Sense and Sensibility (1811), it came out as an anonymous work signed "by a lady"
+- Pride and Prejudice
+- Mansfield Park
+- Emma
+- Persuasion and Northanger abbey (posthumos)
+
+All her novels present a limited setting and choice of characters, she presents 3/4 families from a countryvillage.
+The characters are mostly round characters (entirely presented).
+The life that comes up is a very quiet countrylife, with many long walks.
+The only disruptive element is love, marriage proposals in particular, the feelings are very mild nonetheless.
+There are lots of dialogs.
+
+### Pride and Prejudice
+They got to know that a very rich landowner has recently came and settled to their village. This man, Mr Bingly, is a very rich landowner.
+he thinks that the middleclass rural england is inferior to him.

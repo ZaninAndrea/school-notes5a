@@ -130,3 +130,4 @@ Soltanto se ci dimentichiamo come nasce il linguaggio possiamo dire che esso è 
 > ## Frase da tatuare
 > Che cos'è dunque la verità? Un esercito mobile di metafore, metonimie, antropomorfismi,
 
+

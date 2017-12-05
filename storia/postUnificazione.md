@@ -53,3 +53,25 @@ Il suo lavoro fu incentrato sul rinnovare la macchina dello stato.
 
 Giovanni Pascoli di fronte all'iniziativa di Giolitti di invadere la Libia scrive il discorso "La grande proletaria si è mossa" in cui sostiene la conquista.
 È strano che Pascoli sia nazionalista perché è socialista, per giustificarlo trasla il messaggio socialista da ricchi vs poveri a nazioni ricche vs nazioni povere.
+
+Questa iniziativa è sintomo di un nazionalismo che sta diventando molto più aggressivo. Tra le personalità che supportarono questa svolta fu D'Annunzio 
+La più importante rivista di questo orientamento fu l'Acerba.
+Anche Marinetti presenta tratti tipici del nazionalismo, ma soprattutto lotta contro la tradizione. Secondo Marinetti ci sono nazioni vecchie, come la Germania e nazioni giovani, come Inghilterra e Francia.
+
+non expedit --> impedimento ai cattolici di partecipare alla vita politica.
+Nasce il movimento della Democrazia Cristiana, fondata da Romolo Murri, che va contro le indicazioni del papa.
+Una corrrente interna al cattolicesimo, detta modernismo, aveva una visione della Chiesa molto innovativa, ma venne avversata dalla Chiesa.
+
+Quando termina il pontificato, subentra Pio IX, che aveva lasciato intendere che la Chiesa potesse rinnovarsi e diventare meno intransigente. Soprattutto con la Rerum Novarum, che è una presa di posizione nei confronti dei rapporti lavorativi: a metà tra il capitalismo e il socialismo, ritienee che non sia tolerrabile la rivoluzione e l'insubordinazione, ma il datore di lavoro deve dare all'operaio la giusta mercede.
+
+1846 - Pio IX - 1878 - Leone XIII - 1903 - Pio X - 1914 - Benedetto XV
+
+Le varie classi sociali non devono essere necessariamente in conflitto
+
+Durante i governi di Giolitti ci furono numerose riforme sociali:
+- età minima lavorativa alzata a 12 anni
+- nascita dell'assistenza pensionistica e sugli infortuni
+- statalizzazione delle ferrovie
+- viene resa più efficacie la legge coppino
+
+Gli elettori passano da 2.9M a 8.4M. Giolitti non aveva un partito di massa alle spalle, quindi decide di fare un patto con i cattolici.
