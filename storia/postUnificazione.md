@@ -74,4 +74,6 @@ Durante i governi di Giolitti ci furono numerose riforme sociali:
 - statalizzazione delle ferrovie
 - viene resa più efficacie la legge coppino
 
-Gli elettori passano da 2.9M a 8.4M. Giolitti non aveva un partito di massa alle spalle, quindi decide di fare un patto con i cattolici.
+Gli elettori passano da 2.9M a 8.4M. Giolitti non aveva un partito di massa alle spalle, quindi decide di fare un patto con i cattolici, il Patto Gentiloni, con cui si assicura il supporto di alcuni cattolici in cambio di:
+- possibilità per i cattolici di aggregarsi liberamente
+- scuola cattolica

@@ -74,3 +74,28 @@ $$
 $\mu_r$ dipende dal campo esterno e dalla temperatura a cui faccio la misura.
 
 Sopra una soglia di temperatura detta *Temperatura di Curie*, i materiali ferromagnetici diventano paramagnetici.
+
+## Corrente indotta
+Definizione di flusso di campo magnetico
+$$
+\phi_m = \vec{B} \cdot \vec{S}
+$$
+L'unità di misura è $Tm^2=Wb$
+
+La legge di Faraday-Neumann-Lenz ci dice che la fem indotta dalla variazione del flusso di campo magnetico in una spira
+$$
+\epsilon = - N \frac{d\phi_m}{dt}
+$$
+
+## Induttanza
+L'induttanza $L$ è la costante di proporzionalità tra il flusso di campo magnetico e la corrente che attraversa un solenoide.
+$$
+\begin{aligned}
+\phi_m&=Li\\
+\phi_m&=B\cdot A\\
+&=\mu_0\frac{N}{l}iA\\
+L&=\mu_0\frac{N}{l}A
+\end{aligned}
+$$
+
+L'unità di misura dell'induttanza è $\frac{Wb}{A}=H$ Henry
