@@ -77,3 +77,6 @@ Durante i governi di Giolitti ci furono numerose riforme sociali:
 Gli elettori passano da 2.9M a 8.4M. Giolitti non aveva un partito di massa alle spalle, quindi decide di fare un patto con i cattolici, il Patto Gentiloni, con cui si assicura il supporto di alcuni cattolici in cambio di:
 - possibilità per i cattolici di aggregarsi liberamente
 - scuola cattolica
+
+Dreidfus, generale francese di origini ebree, viene accusato e condannato per spionaggio. Molti intellettuali dellà epoca intervengono in suo aiuto.
+Questa faccenda ci dimostra come là antisemitismo fosse abbastanza diffuso.

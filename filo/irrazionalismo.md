@@ -130,4 +130,19 @@ Soltanto se ci dimentichiamo come nasce il linguaggio possiamo dire che esso è 
 > ## Frase da tatuare
 > Che cos'è dunque la verità? Un esercito mobile di metafore, metonimie, antropomorfismi,
 
+Gli uomini poi hanno idolatrato la verità e ne hanno fatto qualcosa di straordinario.
 
+L'uomo che comprende la vanità di tutti i concetti è più sereno, perchè questi concetti che ci siamo creati per proteggerci dal mondo in realtà ci fanno vivere male.
+
+In una prima fase Nietzsche vuole eliminare tutti i falsi miti, poi vuole creare un uomo nuovo.
+
+## Considerazioni inattuali
+Nietzsche crede di non essere espressione del suo tempo.
+
+### Considerazione sulla utilità e il danno della storia per la vita
+Analizza il modo in cui la ssocietà occidentale ha concepito la storiografia:
+- **storia monumentale**: grandi imprese, eroi, successi. Se questi monumenti inibiscono l'azione nel presente perchè siamo impnotizzati da essi allora sono negativi, altrimenti sono positivi.
+- **storia antiquaria**: celebrare le proprie radici. Può essere positivo e sentimentale, ma può anche bloccarci nel passato
+- **storia critica**: si pone in maniera critica al passato. Può essere utile se ci serve a riconoscere gli errori del passato, ma negativa se ci impedisce di cogliere i nostri legami con il passato.
+
+La storia è utile se ci permette di essere attivi nel presente
