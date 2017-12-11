@@ -146,3 +146,30 @@ Analizza il modo in cui la ssocietà occidentale ha concepito la storiografia:
 - **storia critica**: si pone in maniera critica al passato. Può essere utile se ci serve a riconoscere gli errori del passato, ma negativa se ci impedisce di cogliere i nostri legami con il passato.
 
 La storia è utile se ci permette di essere attivi nel presente
+
+## Periodo illuminista
+In questo periodo Nietzsche vuole portare un rischiaramento nella cultura e nei valori della società.
+Le 3 opere di questo periodo sono:
+- Umano, troppo umano
+- la gaia Scienza
+- la Genealogia della Morale
+    - **Paul Ricoer:** Nietzsche sottopone le certezze dell'occidente alla scuola del sospetto: di cosa sono sintomo questi valori dell'occidente? A questa scuola appartengono anche Marx e Freud
+
+Nietzsche tende a far filosofia per aforismi o brevi paragrafetti architettati per soprendere e provacare stupore, con giudizi taglienti.
+
+### Umano troppo umano - Lettura: Critica dei Valori
+La vita è illogica, ma noi tentiamo inutilmente di far venire fuori la logica.
+
+Inizialmente ci sono uomini che sono uguali in forza e che si distruggerebbero a vicenda combattendo, quindi si accorda per scambiarsi qualcosa: questa è la giustizia. La giustizia è dunque compensazione e scambio che parte dal pressuposto di forze uguali.
+
+È sorta poco a poco la parvenza che un'azione giusta sia un'azione altruistica, che è andata a sostituire la giustizia originale. Dato che l'altruismo è un valore difficile da raggiungere è diventato anche più prezioso.
+Questa nuova giustizia è perversa, perché non serve all'autoconservazione.
+
+Di fronte alla morale non dobbiamo più chiederci dunque se sia giusta o sbagliata, bensì da dove venga, in che condizione i valori si siano sviluppati.
+E.g. Il cristianesimo secondo Nietzsche ha prodotto una morale degli schiavi.
+
+Esistono 2 tipi di mroali:
+- morale dei signori
+- morale degli schiavi
+
+Nelle società avanzate si nota sempre un tentativo di mediazione tra le 2.
