@@ -80,3 +80,7 @@ Gli elettori passano da 2.9M a 8.4M. Giolitti non aveva un partito di massa alle
 
 Dreidfus, generale francese di origini ebree, viene accusato e condannato per spionaggio. Molti intellettuali dellà epoca intervengono in suo aiuto.
 Questa faccenda ci dimostra come là antisemitismo fosse abbastanza diffuso.
+
+È dubbio se all'epoca i trentini volessero unirsi all'Italia, ma è un dato di fatto che le condizioni di vita fossero dure.
+
+L'ITalia

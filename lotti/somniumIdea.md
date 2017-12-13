@@ -1,6 +1,6 @@
 > Illi autem octo cursus, in quibus eadem vis est duorum, septem efficiunt distinctos intervallis sonos, qui numerus rerum omnium fere nodus est;
 
-D'altra parte quelle otto sfere, nelle quali il vigore di 2 è uguale, sette producono suono distinti a intervalli, questo numero è per lo più il vincolo di tutte e cose
+D'altra parte quelle otto sfere, nelle quali il vigore di 2 è uguale, producono sette suoni distinti a intervalli, questo numero è per lo più il vincolo di tutte e cose
 
 >  quod docti homines nervis imitati atque cantibus aperuerunt sibi reditum in hunc locum, sicut alii, qui praestantibus ingeniis in vita humana divina studia coluerunt. 
 
