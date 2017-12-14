@@ -262,3 +262,12 @@ Il forte uso di chiasmi e simmetrie vuole esprimere un ordine e una simmetria an
 > supra lunam sunt aeterna omnia. Nam ea, quae est media et nona, tellus, neque movetur et infima est, et in eam feruntur omnia nutu suo pondera. 
 
 Al di sopra della luna tutte le cose sono eterne. La terra, quella  che è centrale e al nono posto, non si muove ed è la più bassa e verso questa vengono portati tutti i pesi con la loro forza
+
+## Gruppo Annika
+> Haec ego admirans referebam tamen oculos ad terram identidem.
+> 
+> Tum Africanus: 'Sentio,' inquit, 'te sedem etiam nunc hominum ac domum contemplari; quae si tibi parva, ut est, ita videtur, haec caelestia semper spectato, illa humana contemnito! Tu enim quam celebritatem sermonis hominum aut quam expetendam consequi gloriam potes? Vides habitari in terra raris et angustis in locis et in ipsis quasi maculis, ubi habitatur, vastas solitudines interiectas eosque, qui incolunt terram, non modo interruptos ita esse, ut nihil inter ipsos ab aliis ad alios manare possit, sed partim obliquos, partim transversos, partim etiam adversos stare vobis; a quibus exspectare gloriam certe nullam potestis. 
+
+Ed io ammirate queste cose volgevo tuttavia gli occhi alla terra più volte, allora l'Africano: Sento, disse, che tu contempli la sede e la casa degli uomini anche ora. Se a te sembra piccola questa [la terra], come è [ut est], guarda [imperativo futuro] sempre queste cose del cielo, disprezza quelle umane.
+Tu infatti quale fama dalla parola degli uomini. Tu vedi sulla terra in luoghi dispersi e angusti e in quelli stessi quasi come delle macchie dove si abita.
+Sono così lontani tra loro che nessuna cosa può passare dagli uni agli altri.

@@ -93,9 +93,34 @@ $$
 \begin{aligned}
 \phi_m&=Li\\
 \phi_m&=B\cdot A\\
-&=\mu_0\frac{N}{l}iA\\
-L&=\mu_0\frac{N}{l}A
+&=\mu_0\frac{N}{l}i(A\cdot N)\\
+L&=\mu_0\frac{N^2}{l}A
 \end{aligned}
 $$
 
 L'unità di misura dell'induttanza è $\frac{Wb}{A}=H$ Henry
+
+$$
+\epsilon = - \frac{d\phi_m}{dt} = - L \frac{di}{dt}
+$$
+
+## Circuiti RL
+Circuito spira- condensatore
+
+![Circuito_RL.JPG](images/circuitorl.jpg)
+
+### Fase di chiusura
+$$
+\epsilon -iR - L\frac{di}{dt}=0
+$$
+
+Il solenoide si oppone all'aumento di corrente, agendo come una resistenza
+
+$$
+i(t)=\frac{\epsilon}{R}(1-e^{-\frac{tL}{R}})
+$$
+
+### Fase di apertura
+$$
+i(t)=\frac{\epsilon}{R}e^{-\frac{tL}{R}}
+$$
