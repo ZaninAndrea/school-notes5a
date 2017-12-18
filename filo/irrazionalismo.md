@@ -171,5 +171,18 @@ E.g. Il cristianesimo secondo Nietzsche ha prodotto una morale degli schiavi.
 Esistono 2 tipi di mroali:
 - morale dei signori
 - morale degli schiavi
+    - uguaglianza di tutti gli uomini, secondo Nietzsche non è vero e la natura vorrebbe che la forza di alcuni non sia fermata dagli ideali di uguaglianza
 
 Nelle società avanzate si nota sempre un tentativo di mediazione tra le 2.
+
+Effettivamente Nietzsche mosse molte critiche alla cultura ebraica, in quanto propugnava una morale degli schiavi.
+
+Secondo Nietzsche la morale dei signori è la migliore perché è quella che aiuta la Vita.
+
+Per Nietzsche non solo alcuni, ma tutti i valori non hanno valore, da cui l'annuncio "Dio è morto", ossia è morta l'origine di tutti i valori.
+Dio è una rappresentazione della troppa razionalità.
+Dio è morto per chi guarda avanti e sta morendo anche per gli altri.
+
+Fino ad ora l'uomo ha acquisito i valori da fuori, adesso ognuno deve crearsi una propria morale.
+
+È normale che i più deboli adottino una morale degli schiavi, ma è più funzionale alla vita che dominino i più forti

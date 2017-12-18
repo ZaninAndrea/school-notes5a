@@ -104,6 +104,22 @@ $$
 \epsilon = - \frac{d\phi_m}{dt} = - L \frac{di}{dt}
 $$
 
+### Energia immagazzinata in un'induttanza
+$$
+U=\frac{1}{2}Li^2
+$$
+
+Nel caso di un solenoide
+$$
+\begin{aligned}
+B&=\frac{\mu_0Ni}{l}\\
+B^2&=\frac{\mu_0^2N^2i^2}{l^2}\\\\
+U&=\frac{1}{2}Li^2\\
+&=\frac{1}{2}\frac{\mu_0N^2A}{l}i^2\\
+&=\frac{1}{2}\frac{B^2lA}{\mu_0}
+\end{aligned}
+$$
+
 ## Circuiti RL
 Circuito spira- condensatore
 
@@ -117,10 +133,10 @@ $$
 Il solenoide si oppone all'aumento di corrente, agendo come una resistenza
 
 $$
-i(t)=\frac{\epsilon}{R}(1-e^{-\frac{tL}{R}})
+i(t)=\frac{\epsilon}{R}(1-e^{-\frac{tR}{L}})
 $$
 
 ### Fase di apertura
 $$
-i(t)=\frac{\epsilon}{R}e^{-\frac{tL}{R}}
+i(t)=\frac{\epsilon}{R}e^{-\frac{tR}{L}}
 $$

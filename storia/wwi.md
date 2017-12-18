@@ -25,3 +25,18 @@ Gli USA intervengono per fermare la guerra sottomarina tedesca, che affondava an
 
 Rivoluzione russa: in Inverno lo Zar Nicola II è costretto ad abdicare, per via dell'insubordinazione dell'esercito russo. Segue un governo provvisorio, che continua la guerra. Nel frattempo si stanno organizzando i comunisti, in particolare i bolschevichi.
 Rivoluzione d'Ottobre: per noi era Novembre, ma nel loro calendario Giuliano era Ottobre. Prendono il potere i comunisti.
+
+Disfatta di Caporetto (Caporetto attualmente è in Slovenia): l'Italia viene sconfitta dalla Germania. Si ritiene che ci siano state delle responsabilità italiane: possibili traditori/spionaggio. Dopo la sconfitta c'è una fuga disorganizzata degli italiani, che poi costruiscono una linea difensiva sul piave. Per difendere questa linea verranno assoldati i ragazzi del '99
+
+Cadorna viene sostituito da Diaz, prima di andarsene afferma che i soldati italiani non si sono impegnati con adeguato coraggio. Tale affermazione è falsa.
+
+La Germania approfitta della rivoluzione russa per avanzare. I rivoluzionari russi credevano che al ritiro della russia anche i tedeschi si sarebbero fermati.
+Pietroburgo cambia nome in Pietrogrado per motivi antitedeschi.
+
+La Russia firma il trattato di pace di Brest Litovsk in cui perde la Finlandia, la Polonia Est e l'Ucraina
+
+Austriaci armistiziano (??) e perde Ungheria, Cecoslovacchia e Jugoslavia
+
+Guglielmo II abdiaca e in Itlia nasce la repubblica.
+
+Sforzo straordinario dei soldati per rendere vivibili territori di alta montagna.
