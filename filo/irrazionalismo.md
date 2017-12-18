@@ -186,3 +186,27 @@ Dio è morto per chi guarda avanti e sta morendo anche per gli altri.
 Fino ad ora l'uomo ha acquisito i valori da fuori, adesso ognuno deve crearsi una propria morale.
 
 È normale che i più deboli adottino una morale degli schiavi, ma è più funzionale alla vita che dominino i più forti
+
+**Wille zur Macht**: volontà di potenza. Simile alla volontà di Schopenhauer, che però è un espressione della nostra individualità.
+
+Ubermensch: un uomo che non è schiavo di volontà esterne, che non riconosce limiti alla sua volontà di potenza. Traducibile come superuomo o oltreuomo
+
+Lo spirito diventa cammello
+Il cammello crede che la sua realizzazione non venga dal dar sfogo alla sua Wille zur Macht, ma al sottoporsi alle prove più gravose.
+Lo spirito diventa leone.
+Il leone vuole la sua libertà e vuole essere signore nel proprio deserto.
+Dopo il leone c'è il fanciullo
+Dopo aver fatto filosofia con il martello e distrutto tutto è ora di ricreare qualcosa.
+
+Zaratustra è un saggio che viaggia per il mondo in un percorso spirituale che rappresenta le varie tappe del superuomo che porta il suo messaggio nel mondo.
+
+## Eterno ritorno
+Dottrina sul tempo
+È il pensiero più profondo, perché costringe a diventare superuomini o morire sotto questo pensiero.
+
+PENSIERO NON-UBERMENSH
+La creazione acquista significato perché dopo c'è il disvelamento. Si vive nella storia per aspettare l'apocalisse.
+Sono pio adesso per entrare in paradiso, non sperpero per avere più avanti.
+
+PENSIERO UBERMENSCH
+Il tempo è un cerchio, quindi dato che non acquista senso per un qualcosa che verrà, ciò che facio deve avere un senso in sè.
