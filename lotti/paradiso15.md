@@ -53,4 +53,59 @@ Così pia si porse l'ombra di Anchise, se dobbiamo dare credito alla maggior mus
 
 Focus su Anchise
 
+> «O sanguis meus, o superinfusa
+gratïa Deï, sicut tibi cui
+bis unquam celi ianüa reclusa?». 30
+
+Uso solenne del latino
+superlativo del superlativo: grazia che è infusa per definizione, ma in questo caso è superinfusa
+
+O sangue mio, o grazia di Dio sovrabbondante, come a te a chi mai è stata aperta la porta del cielo per 2 volte?
+
+> Così quel lume: ond’ io m’attesi a lui;
+poscia rivolsi a la mia donna il viso,
+e quinci e quindi stupefatto fui; 33
+
+Esperienza stupefacente di Dante
+
+> ché dentro a li occhi suoi ardeva un riso
+tal, ch’io pensai co’ miei toccar lo fondo
+de la mia gloria e del mio paradiso. 36
+
+Dante crede di aver raggiunto il massimo della gloria e del paradiso (anche se sappiamo che poi va avanti)
+
+> Indi, a udire e a veder giocondo,
+giunse lo spirto al suo principio cose,
+ch’io non lo ’ntesi, sì parlò profondo; 39
+
+Ineffabilità passiva
+
+Questánima provoca gioia solo al sentirlo e al vederlo, aggiunse al principio [la frase in latino] aggiunse cose che io non intesi, da tanto che fu profondo.
+
+> né per elezïon mi si nascose,
+ma per necessità, ché ’l suo concetto
+al segno d’i mortal si soprapuose. 42
+
+non ha parlato volutamente così nascosto [incomprensibile], ma per necessità, perché ciò che stava dicendo era troppo elevato per la comprensione dei mortali
+
+> E quando l’arco de l’ardente affetto
+fu sì sfogato, che ’l parlar discese
+inver’ lo segno del nostro intelletto, 45
 > 
+> la prima cosa che per me s’intese,
+«Benedetto sia tu», fu, «trino e uno,
+che nel mio seme se’ tanto cortese!». 48
+
+Quando ritornò a parlare in maniera comprensibile a me, la prima cosa che capì fu "Sii benedetto, trino e uno, che nel mio seme sei tanto cortese"
+
+Ringraziamento a Dio per essere stato cortese con Dante.
+
+> E seguì: «Grato e lontano digiuno,
+tratto leggendo del magno volume
+du’ non si muta mai bianco né bruno, 51
+> 
+> solvuto hai, figlio, dentro a questo lume
+in ch’io ti parlo, mercé di colei
+ch’a l’alto volo ti vestì le piume. 54
+
+Questo digiuno [nel senso di attesa]
