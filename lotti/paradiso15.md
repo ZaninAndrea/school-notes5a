@@ -109,3 +109,100 @@ in ch’io ti parlo, mercé di colei
 ch’a l’alto volo ti vestì le piume. 54
 
 Questo digiuno [nel senso di attesa]
+Idea di finalmente soddisfare un desiderio che si ha da molto tempo.
+Prescienza
+
+colei ... -> Beatrice
+
+> Tu credi che a me tuo pensier mei
+da quel ch’è primo, così come raia
+da l’un, se si conosce, il cinque e ’l sei; 57
+> 
+> e però ch’io mi sia e perch’ io paia
+più gaudïoso a te, non mi domandi,
+che alcun altro in questa turba gaia. 60
+
+Si rivolge direttamente a Dante e capisce perfettamente ciò che sta pensando.
+Tu sai che io so, ma io so che tu sai che io so. 
+Dante non fa la domanda a Cacciaguida, perché sa già che Cacciaguida sa la domanda.
+
+> Tu credi ’l vero; ché i minori e ’ grandi
+di questa vita miran ne lo speglio
+in che, prima che pensi, il pensier pandi; 63
+> 
+> ma perché ’l sacro amore in che io veglio
+con perpetüa vista e che m’asseta
+di dolce disïar, s’adempia meglio, 66
+> 
+> la voce tua sicura, balda e lieta
+suoni la volontà, suoni ’l disio,
+a che la mia risposta è già decreta!». 69
+
+Tutti i beati guardano nello specchio in cui si vedono i pensieri prima di essere pensati.
+
+Lo specchio è Dio.
+
+Poichè possa essere espresso l'amore, la voce tua sicura, balda e lieta, si esprima, e la mia risposta è già stata decisa.
+
+> Io mi volsi a Beatrice, e quella udio
+pria ch’io parlassi, e arrisemi un cenno
+che fece crescer l’ali al voler mio. 72
+> 
+> Poi cominciai così: «L’affetto e ’l senno,
+come la prima equalità v’apparse,
+d’un peso per ciascun di voi si fenno, 75
+>
+> però che ’l sol che v’allumò e arse,
+col caldo e con la luce è sì iguali,
+che tutte simiglianze sono scarse. 78
+
+Voi non appena vi è apparsa la prima volontà, siete riusci a rendere uguali la capacità di sentire e di esprimere ciò che si sente. Grazie al sole che vi illumina porta tutte le nostre capacità ad un livello massimo.
+
+> Ma voglia e argomento ne’ mortali,
+per la cagion ch’a voi è manifesta,
+diversamente son pennuti in ali; 81
+> 
+> ond’ io, che son mortal, mi sento in questa
+disagguaglianza, e però non ringrazio
+se non col core a la paterna festa. 84
+
+Invece nei mortali la volontà e la capacità sono diverse, quindi non può esprimere ciò che sente. Posso ringraziare solo con il cuore.
+
+> Ben supplico io a te, vivo topazio
+che questa gioia prezïosa ingemmi,
+perché mi facci del tuo nome sazio». 87
+> 
+«O fronda mia in che io compiacemmi
+pur aspettando, io fui la tua radice»:
+cotal principio, rispondendo, femmi. 90
+> 
+> Poscia mi disse: «Quel da cui si dice
+tua cognazione e che cent’ anni e piùe
+girato ha ’l monte in la prima cornice, 93
+
+Albero come rappresentazione della famiglia.
+Io sono la radice di quell'albero di cui tu sei l'ultima fronda.
+Il tuo bisavolo è mio figlio e lo trovi che gira tra i superbi nel Purgatorio.
+
+> Fiorenza dentro da la cerchia antica,
+ond’ ella toglie ancora e terza e nona,
+si stava in pace, sobria e pudica. 99
+> 
+> Non avea catenella, non corona,
+non gonne contigiate, non cintura
+che fosse a veder più che la persona. 102
+> 
+> Non faceva, nascendo, ancor paura
+la figlia al padre, ché ’l tempo e la dote
+non fuggien quinci e quindi la misura. 105
+
+Pace vs Leone
+Sobia vs Lupa
+Pudica vs Lonza
+Le 3 Fiere
+
+Adesso è l'abito che fa il monaco, allora era il contrario.
+Allora la dote non era un problema così grosso.
+
+Allora le case erano adatte alla grandezza delle famiglie e non era ancora arrivato Sardanapalo (presentato come antonomasia della perversione sessuale).
+
