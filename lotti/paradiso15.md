@@ -206,3 +206,90 @@ Allora la dote non era un problema così grosso.
 
 Allora le case erano adatte alla grandezza delle famiglie e non era ancora arrivato Sardanapalo (presentato come antonomasia della perversione sessuale).
 
+> Non avea case di famiglia vòte;
+non v’era giunto ancor Sardanapalo
+a mostrar ciò che ’n camera si puote. 108
+> 
+> Non era vinto ancora Montemalo
+dal vostro Uccellatoio, che, com’ è vinto
+nel montar sù, così sarà nel calo. 111
+
+Sardanapalo come simbolo della perversione sessuale
+Montemalo --> Roma
+Uccellatoio --> Firenze
+Firenze vince su Roma nella gloria in passato, ma anche nel cadere in basso nel presente
+
+> Bellincion Berti vid’ io andar cinto
+di cuoio e d’osso, e venir da lo specchio
+la donna sua sanza ’l viso dipinto; 114
+> 
+> e vidi quel d’i Nerli e quel del Vecchio
+esser contenti a la pelle scoperta,
+e le sue donne al fuso e al pennecchio. 117
+
+Bellincio Berti come esempio di massima sobrietà e la moglie senza trucco.
+d'i Nerli e del Vecchio vestivano di pelle non impreziosita.
+Le sue donne filavano
+
+> Oh fortunate! ciascuna era certa
+de la sua sepultura, e ancor nulla
+era per Francia nel letto diserta. 120
+
+Makarismos *Oh fortunate!*
+La loro vita era talmente semplice, che non dovevano temere di morire fuori da Firenze o che i mariti le lasciassero per andare in Francia.
+
+> L’una vegghiava a studio de la culla,
+e, consolando, usava l’idïoma
+che prima i padri e le madri trastulla; 123
+> 
+> l’altra, traendo a la rocca la chioma,
+favoleggiava con la sua famiglia
+d’i Troiani, di Fiesole e di Roma. 126
+
+L'ideale della donna di Dante è di essere la custode del focolare
+
+Tendendo alla culla, conosolano i bambini, usando quella lingua quasi non lingua che diverte gli adulti prima dei bambini.
+Mentre filano racconta le storie dei Troiani, di Fiesole e di Roma.
+
+> Saria tenuta allor tal maraviglia
+una Cianghella, un Lapo Salterello,
+qual or saria Cincinnato e Corniglia. 129
+
+Cortocircuito tra presente, passato e passatissimo
+Allora sarebbe stato visto con stupore una Cianghella [*donna di facili costumi*], un Lapo Salterello [*politico corrotto*], come oggi desterebbe stupore Cincinnato [*politico che rinuncia ai benefici*] e Corniglia [*Cornelia madre dei Gracchi, donna virtuosa e legata ai valori familiari*]
+
+I personaggi sono presentati in chiasmo.
+
+> A così riposato, a così bello
+viver di cittadini, a così fida
+cittadinanza, a così dolce ostello, 132
+> 
+> Maria mi diè, chiamata in alte grida;
+e ne l’antico vostro Batisteo
+insieme fui cristiano e Cacciaguida. 135
+
+Maria favorì la mia nascita in questo posto bellissimo, dopo il parto [alte grida], nell'antico vostro Battistero fui battezzato crisitano e Cacciaguida.
+
+la doppia natura del battesimo: sacramento e nominazione
+
+> Moronto fu mio frate ed Eliseo;
+mia donna venne a me di val di Pado,
+e quindi il sopranome tuo si feo. 138
+> 
+> Poi seguitai lo ’mperador Currado;
+ed el mi cinse de la sua milizia,
+tanto per bene ovrar li venni in grado. 141
+
+Origine del cognome Alighieri di Dante
+
+> Dietro li andai incontro a la nequizia
+di quella legge il cui popolo usurpa,
+per colpa d’i pastor, vostra giustizia. 144
+> 
+> Quivi fu’ io da quella gente turpa
+disviluppato dal mondo fallace,
+lo cui amor molt’ anime deturpa; 147
+> 
+> e venni dal martiro a questa pace».
+
+Muore in una crociata come martire della fede e quindi viene ammesso a questo cielo del paradiso.
