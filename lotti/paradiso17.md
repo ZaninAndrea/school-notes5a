@@ -177,3 +177,77 @@ poscia che s’infutura la tua vita
 vie più là che ’l punir di lor perfidie». 99
 
 Questa è la spiegazione delle cose che ti sono state dette, ma non pensar male di chi pensa male di te, perché la tua vita va più in la della tua punizione.
+
+> Poi che, tacendo, si mostrò spedita
+l’anima santa di metter la trama
+in quella tela ch’io le porsi ordita, 102
+> 
+> io cominciai, come colui che brama,
+dubitando, consiglio da persona
+che vede e vuol dirittamente e ama: 105
+
+L'anima rimanendo in silenzio crea l'atmosfera per completare il discorso. L'atteggiamento di Dante è quello di colui che vuole un consiglio da una persona di cui si fida molto, ma che ha paura di ascoltarlo
+
+> «Ben veggio, padre mio, sì come sprona
+lo tempo verso me, per colpo darmi
+tal, ch’è più grave a chi più s’abbandona; 108
+> 
+> per che di provedenza è buon ch’io m’armi,
+sì che, se loco m’è tolto più caro,
+io non perdessi li altri per miei carmi. 111
+
+"Vedo, padre mio, che il destino mi si sta avvicinando, per colpirmi così duramente, che sarebbe ancora più tragico se non resistessi; perché è bene che io mi armi di provvidenza [che io sia provvidente], in modo che se mi è tolto il luogo più caro [Firenze], devo fare in modo che non perde gli altri luoghi per i miei carmi"
+
+> Giù per lo mondo sanza fine amaro,
+e per lo monte del cui bel cacume
+li occhi de la mia donna mi levaro, 114
+> 
+> e poscia per lo ciel, di lume in lume,
+ho io appreso quel che s’io ridico,
+a molti fia sapor di forte agrume; 117
+
+Inferno --> Purgatorio --> Paradiso
+Se io scrivo tutto ciò che ho visto molti non lo gradiranno
+
+> e s’io al vero son timido amico,
+temo di perder viver tra coloro
+che questo tempo chiameranno antico». 120
+> 
+> La luce in che rideva il mio tesoro
+ch’io trovai lì, si fé prima corusca,
+quale a raggio di sole specchio d’oro; 123
+
+Se io però non parlo non avrò la gloria poetica. Il fatto di chiedere consiglio fa risplendere l'anima ancora di più
+
+> indi rispuose: «Coscïenza fusca
+o de la propria o de l’altrui vergogna
+pur sentirà la tua parola brusca. 126
+> 
+> Ma nondimen, rimossa ogne menzogna,
+tutta tua visïon fa manifesta;
+e lascia pur grattar dov’ è la rogna. 129
+
+Certamente chi ha la coscienza sporca non lo gradirà, ma tu, rimossa ogni menzogna, racconta tutto ciò che hai visto e non preoccuparti delle conseguenze.
+
+> Ché se la voce tua sarà molesta
+nel primo gusto, vital nodrimento
+lascerà poi, quando sarà digesta. 132
+> 
+> Questo tuo grido farà come vento,
+che le più alte cime più percuote;
+e ciò non fa d’onor poco argomento. 135
+
+Perché se ciò non sarà gradito sul momento, sarà molto positiva una volta recepita.
+Questo tuo grido farà come il vento che percuote le alte cime.
+
+> Però ti son mostrate in queste rote,
+nel monte e ne la valle dolorosa
+pur l’anime che son di fama note, 138
+> 
+> che l’animo di quel ch’ode, non posa
+né ferma fede per essempro ch’aia
+la sua radice incognita e ascosa, 141
+> 
+> né per altro argomento che non paia».
+
+Questo è il motivo per cui a Dante è stato permesso di vedere il Paradiso, il Purgatorio e l'Inferno: per essere una medicina, che colpisce come il vento i famosi, perché l'ascoltatore non si interessa di chi è sconosciuto e dei fatti poco noti.
