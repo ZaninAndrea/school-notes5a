@@ -326,3 +326,9 @@ $$
 $$
 \lim_{x\to 1}\frac{\ln{x}}{3x-3}=\lim_{x\to 1}\frac{\frac{1}{x}}{3}=\frac{1}{3}
 $$
+
+### Problemi di ottimizzazione
+> Tra tutti i rettangoli inscritti in una circonferenza di raggio $r$ determina quello di perimetro massimo
+
+## Massimo assoluto
+$x_0$ è un punto di massimo assoluto se $f(x)\le f(x_0) \forall x \in D$

@@ -201,12 +201,30 @@ Dopo aver fatto filosofia con il martello e distrutto tutto è ora di ricreare q
 Zaratustra è un saggio che viaggia per il mondo in un percorso spirituale che rappresenta le varie tappe del superuomo che porta il suo messaggio nel mondo.
 
 ## Eterno ritorno
-Dottrina sul tempo
+Dottrina sul tempo: il tempo è ciclico.
 È il pensiero più profondo, perché costringe a diventare superuomini o morire sotto questo pensiero.
 
 PENSIERO NON-UBERMENSH
 La creazione acquista significato perché dopo c'è il disvelamento. Si vive nella storia per aspettare l'apocalisse.
 Sono pio adesso per entrare in paradiso, non sperpero per avere più avanti.
+La storia è un susseguirsi di eventi che giunge ad uno scopo.
 
 PENSIERO UBERMENSCH
-Il tempo è un cerchio, quindi dato che non acquista senso per un qualcosa che verrà, ciò che facio deve avere un senso in sè.
+Il tempo è un cerchio, quindi dato che non acquista senso per un qualcosa che verrà, ciò che faccio deve avere un senso in sè.
+
+L'ubermensch va oltre all'uomo.
+
+L'idea del tempo ciclico non è una dottrina scientifica, ma un test esistenziale,come vivresti se fosse così?
+
+Agirò quindi solo in modo da elevare la mia esistenza.
+
+## Passaggio di Zaratustra
+Zaratustra viene presentato come un profeta, un eroe. Il nano cerca di trattenere Zaratustra.
+Si fermano di fronte ad una porta carraia, la porta è il presente e la strada avanti e indietro è il futuro e il passato.
+Il nano riconosce che il tempo è un cerchio, ma Zaratustra ritiene che il nano non abbia compreso le implicazioni di ciò.
+Zaratustra racconta la storia di un pastore con un serpente nella bocca (simbolo del tempo), per liberarsene lo morde e dopo ride. È una metafora per l'uomo che affronta l'eterno ritorno in maniera attiva e ne esce ancora più forte: un ubermensch.
+
+## Nichilismo
+Con nichilismo si intende l'idea che i valori siano nulla. Così come di fronte all'idea dell'eterno ritorno i superuomo reagisce considerandola un'occasione di trovare senso in ogni azione da lui compiuta, alla stessa maniera di fronte alla notizia che non c'è Dio, che i valori sono nulla, ci sono 2 possibili atteggiamenti:
+- nichilismo passivo (atteggiamento di Schopenhauer): depressione
+- nichilismo attivo: constatare che è lui che deve creare i suoi valori

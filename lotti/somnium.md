@@ -271,3 +271,19 @@ Al di sopra della luna tutte le cose sono eterne. La terra, quella  che è centr
 Ed io ammirate queste cose volgevo tuttavia gli occhi alla terra più volte, allora l'Africano: Sento, disse, che tu contempli la sede e la casa degli uomini anche ora. Se a te sembra piccola questa [la terra], come è [ut est], guarda [imperativo futuro] sempre queste cose del cielo, disprezza quelle umane.
 Tu infatti quale fama dalla parola degli uomini. Tu vedi sulla terra in luoghi dispersi e angusti e in quelli stessi quasi come delle macchie dove si abita.
 Sono così lontani tra loro che nessuna cosa può passare dagli uni agli altri.
+
+## Gruppo Gir
+> Cernis autem eandem terram quasi quibusdam redimitam et circumdatam cingulis, e quibus duos maxime inter se diversos et caeli verticibus ipsis ex utraque parte subnixos obriguisse pruina vides, medium autem illum et maximum solis ardore torreri.
+
+Capisci d'altra parte che la stessa Terra è quasi recintata [redimitam] e circondata da zone [cingulis], tra le quali [e quibus] vedi le 2, enormememente diverse tra di loro [inter se] e poste sotto le volte del cielo da una parte e dall'altra, sono irrigidite dal gelo. D'altronde quella in mezzo [medium] e grandissima [maximus] è arsa dall'ardore del sole 
+
+**obriguissse** è un infinito
+
+> Duo sunt habitabiles, quorum australis ille, in quo, qui insistunt, adversa vobis urgent vestigia, nihil ad vestrum genus; hic autem alter subiectus aquiloni, quem incolitis, cerne quam tenui vos parte contingat! Omnis enim terra, quae colitur a vobis, angustata verticibus, lateribus latior, parva quaedam insula est circumfusa illo mari, quod 'Atlanticum', quod 'magnum', quem 'Oceanum' appellatis in terris; qui tamen tanto nomine quam sit parvus, vides. 
+
+Due sono abitabili, delle quali quella australe, nella quale, quelli che ci vivono [ci insistono sopra], premono impronte [urgent vestigia] opposte alle vostre, niente (che riguardi la) alla vostra gente.
+Invece quest'altra esposta all'Aquilone [vento del Nord], che voi abitate, capisci che piccola parte vi riguarda.
+
+Le 2 abitabili sono le zone tra i poli e la fascia dell'equatore
+
+Il ! è per cerne, ma il resto della frase è un'interrogativa indiretta

@@ -28,3 +28,125 @@ i(t)=\frac{\epsilon}{R}e^{-\frac{t}{RC}}
 $$
 
 Notare che l'intensità decresce alla stessa maniera sia in un circuito di carica che di scarica
+
+## Circuiti in corrente alternata
+In un circuito a corrente alternata la tensione segue la seguente formula
+
+$$
+V=V_{\text{max}} \sin{\omega t}
+$$
+
+E l'intensità
+
+$$
+I=I_{\text{max}} \sin{\omega t}
+$$
+
+### Fasori
+Per lavorare con i circuiti a corrente alternata si usano i **fasori**, ossia vettori rotanti in senso antiorario con velocità angolare pari ad $\omega$ e il cui modulo è pari a $V_{\text{max}}$ o $I_{\text{max}}$
+
+Tensione e corrente sono in fase se i fasori sono allineati.
+
+#### Valori efficaci
+Ricorda che
+
+$$
+\begin{aligned}
+\cos{2x} &= 1- 2 \sin^2{x} \\
+\sin^2{x}&=\frac{1-\cos{2x}}{2}
+\end{aligned}
+$$
+
+Dato che $P=I^2R$ per trovare la potenza media voglio utilizzare il valore quadratico medio della corrente.
+
+$$
+i^2=i^2_{\text{max}}\sin^2{\omega t}
+$$
+
+![correnteEfficacie.PNG](images/correnteefficacie.png)
+
+Il cui valore quadratico medio (grandezza al quadrato media sotto radice) è $\frac{1}{\sqrt{2}}x_{\text{max}}$, questa corrente è detta corrente efficace.
+
+### Circuito capacitivo
+Circuito con un alternatore e un condensatore
+
+Ricordiamo che 
+
+$$
+V=V_{\text{max}} \sin{\omega t}
+$$
+
+Per la legge della maglia
+$$
+\begin{aligned}
+V(t)-\frac{q(t)}{C}&=0\\
+q(t)&=CV_{\text{max}}\sin{\omega t}
+\end{aligned}
+$$
+
+Derivando otteniamo
+
+$$
+i(t)=C\omega V_{\text{max}}\cos{\omega t}
+$$
+
+Dato che $V$ è in funzione del seno e $I$ del coseno, non sono in fase ($V$ è in ritardo di $\frac{\pi}{2}$).
+
+In analogia con la resistenza scriviamo $I_{\text{eff}}=\frac{V_{\text{eff}}}{X_C}$ con $X_C=\frac{1}{\omega C}$, quest'ultima misura è detta **reattanza capacitiva** e si misura in $\Omega$
+
+**La potenza media è nulla**, quindi in media il condensatore non consuma energia.
+
+$$
+\begin{aligned}
+P&=iv\\
+&=C\omega V_{\text{max}} \cos{\omega t}  V_{\text{max}} \sin{\omega t}\\
+&=\frac{C\omega V^2_{\text{max}} \sin{2 \omega t}}{2}
+\end{aligned}
+$$
+
+
+### Circuito resistivo
+Circuito con alternatore e resistenza.
+I e V sono in fase
+
+
+### Circuito RC alternato
+Circuito con alternatore, resistenza e condensatore.
+
+Possiamo combinare circuito resistivo e capacitivo usando il metodo dei fasori: la differenza di potenziale ai capi dell'alternatore è la somma dei fasori V del circuito resistivo e del circuito capacitivo.
+
+L'**impedenza** di un circuito RC è un analogo della resistenza per questo circuito ed è definita come
+
+$$
+Z=\sqrt{R^2 + X_C^2}=\sqrt{R^2+{(\frac{1}{\omega C})}^2}
+$$
+
+Dato $\theta$ l'angolo compreso tra fasore del circuito resistivo e faso del circuito RC
+$$
+\cos{\theta}=\frac{R}{Z}
+$$
+
+La potenza media di questo circuito è
+$$
+\begin{aligned}
+P_m &= I_{\text{eff}}^2 R = I_{\text{eff}}I_{\text{eff}}R = I_{\text{eff}}\frac{V_{\text{eff}}}{Z}R \\
+P_m &=I_{\text{eff}}V_{\text{eff}}\cos{\theta}
+\end{aligned}
+$$
+
+### Circuito induttivo
+Circuito con alternatore e induttanza
+
+Partiamo dal teorema della maglia
+$$
+\begin{aligned}
+V-L\frac{di}{dt}&=0\\
+di &= \frac{V_{max}}{L}\sin{(\omega t)} \;dt\\
+\int di &= \int \frac{V_{max}}{L}\sin{(\omega t)}\; dt \\
+i &= -\frac{V_{max}}{\omega L}\cos{(\omega t)}+\text{costante}
+\end{aligned}
+$$
+
+La tensione è in andicipo di $\frac{\pi}{2}$
+
+Chiamiamo reattanza induttiva $X_L=\omega L$, che si misura in $\Omega$
