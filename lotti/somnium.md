@@ -279,7 +279,7 @@ Capisci d'altra parte che la stessa Terra è quasi recintata [redimitam] e circo
 
 **obriguissse** è un infinito
 
-> Duo sunt habitabiles, quorum australis ille, in quo, qui insistunt, adversa vobis urgent vestigia, nihil ad vestrum genus; hic autem alter subiectus aquiloni, quem incolitis, cerne quam tenui vos parte contingat! Omnis enim terra, quae colitur a vobis, angustata verticibus, lateribus latior, parva quaedam insula est circumfusa illo mari, quod 'Atlanticum', quod 'magnum', quem 'Oceanum' appellatis in terris; qui tamen tanto nomine quam sit parvus, vides. 
+> Duo sunt habitabiles, quorum australis ille, in quo, qui insistunt, adversa vobis urgent vestigia, nihil ad vestrum genus; hic autem alter subiectus aquiloni, quem incolitis, cerne quam tenui vos parte contingat! 
 
 Due sono abitabili, delle quali quella australe, nella quale, quelli che ci vivono [ci insistono sopra], premono impronte [urgent vestigia] opposte alle vostre, niente (che riguardi la) alla vostra gente.
 Invece quest'altra esposta all'Aquilone [vento del Nord], che voi abitate, capisci che piccola parte vi riguarda.
@@ -287,3 +287,28 @@ Invece quest'altra esposta all'Aquilone [vento del Nord], che voi abitate, capis
 Le 2 abitabili sono le zone tra i poli e la fascia dell'equatore
 
 Il ! è per cerne, ma il resto della frase è un'interrogativa indiretta
+
+vobis potrebbe essere *comparatio compendiaria*
+
+> Omnis enim terra, quae colitur a vobis, angustata verticibus, lateribus latior, parva quaedam insula est circumfusa illo mari, quod 'Atlanticum', quod 'magnum', quem 'Oceanum' appellatis in terris; qui tamen tanto nomine quam sit parvus, vides. 
+
+Infatti tutta la terra, che è abitata da voi, limitata dai poli, più larga nei fianchi è per così dire una piccola isola circondata da quel mare, che voi in terra chiamate 'Atlantico', 'Grande' e 'Oceano'; vedi quanto questo sia piccolo pur con un nome così grande.
+
+*angustata verticibus, lateribus latior* è un chiasmo
+*qui* in *qui tamen tanto* è un nesso del relativo.
+
+## Gruppo Ape
+> Ex his ipsis cultis notisque terris num aut tuum aut cuiusquam nostrum nomen vel Caucasum hunc, quem cernis, transcendere potuit vel illum Gangem tranatare? Quis in reliquis orientis aut obeuntis solis ultimis aut aquilonis austrive partibus tuum nomen audiet?
+
+Da queste stesse terre abitate e conosciute forse il tuo nome o il nome di qualcun altro di noi ha mai potuto trascendere questo Caucaso, che vedi qui, o ha potuto oltrepassare a nuoto quel Gange?
+
+Chi mai sentirà il tuo nome nelle rimanenti parti o del sole che sorge o dell'ultimo sole che tramonta o dell'aquilone o dell'austro?
+
+*num* interrogativa
+*austrive* ve enclitico che sta per *vel*
+
+> Quibus amputatis cernis profecto, quantis in angustiis vestra se gloria dilatari velit. Ipsi autem, qui de nobis loquuntur, quam loquentur diu? 
+
+Eliminate queste vedi certamente, in quanto grandi ristrettezze la vostra gloria si vuole dilatare. Inoltre gli stessi, che parlano di noi, quanto a lungo parleranno?
+
+Qu ibus amputatis --> ablativo assoluto e quibus nesso
