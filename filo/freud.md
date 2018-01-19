@@ -6,6 +6,8 @@ L'Io è la parte razionale, mentre la parte irrazionale è l'Es.
 ## Interpretazione dei sogni
 L'Interpretazione dei sogni è l'opera più importante di Freud. Secondo Freud is sogni sono il veicolo per comprendere cosa avviene nella nostra mente irrazionale.
 
+L'Io quando ricorda un sogno lo ricorda in una maniera in cui sia accettabile, quindi dobbiamo accettarlo.
+
 ## Compendio di psicoanalisi
 Freud scrive "Compendio di psicoanalisi" poco prima di morire. La psicoanalisi si propone di curare i disturbi nevrotici.
 

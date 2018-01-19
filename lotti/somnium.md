@@ -311,4 +311,19 @@ Chi mai sentirà il tuo nome nelle rimanenti parti o del sole che sorge o dell'u
 
 Eliminate queste vedi certamente, in quanto grandi ristrettezze la vostra gloria si vuole dilatare. Inoltre gli stessi, che parlano di noi, quanto a lungo parleranno?
 
-Qu ibus amputatis --> ablativo assoluto e quibus nesso
+Quibus amputatis --> ablativo assoluto e quibus nesso
+
+> Quin etiam si cupiat proles illa futurorum hominum deinceps laudes unius cuiusque nostrum a patribus acceptas posteris prodere, tamen propter eluviones exustionesque terrarum, quas accidere tempore certo necesse est, non modo non aeternam, sed ne diuturnam quidem gloriam assequi possumus. 
+
+Che anzi se quella stirpe [illa prole] di uomini futuri desiderasse [cupiat] tramandare successivamente ai posteri [deinceps prodere posteris]  gli elogi [laudes] di ciascuno di noi apprese dagli antenati [accepta a patribus], tuttavia [tamen] a causa **delle alluvioni e degli incendi delle terre**, è inevitabile [necesse est] che queste accadano in un tempo preciso [qiuas accidere tempore certo]. Non possiamo conseguire [assequi] una gloria non solo non eterna [non modo non eternam], ma nemmeno [ne quidem] durevole [diuturnam]
+
+*assequi*, da *ad-sequor*, è infinito deponente della 3a
+
+> Quid autem interest ab iis, qui postea nascentur, sermonem fore de te, cum ab iis nullus fuerit, qui ante nati sunt — qui nec pauciores et certe meliores fuerunt viri —
+
+D'altra parte che cosa importa [quid interest] che, da quelli che nasceranno dopo, ci saranno discorsi su di te, visto che non c'è stato nessun (discorso) da quelli che sono nati prima, che furono uomini sicuramente non minori (in numero) e certamente migliori.
+
+*quid* introduce un'interrogativa diretta
+*fore* futuro di sum
+*nascentur nati sunt* poliptoto
+*postea nascentur, sermonem fore, nullus fuerit, ante nati sum* chiasmo
