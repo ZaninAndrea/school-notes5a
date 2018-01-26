@@ -147,17 +147,17 @@ nulla è più gradito [*acceptius*] infatti a quel dio supremo, che regge ogni m
 
 > Hic ego, etsi eram perterritus non tam mortis metu quam insidiarum a meis, quaesivi tamen, viveretne ipse et Paulus pater et alii, quos nos extinctos esse arbitraremur. 
 
-A questo punto, io sebbene fossi spaventato non tanto per la paura della morte, quanto per la paura delle insidie da parte dei miei (parenti), chiesi tuttavia se vivesse lui stesso e se vivesse mio padre Paolo e tutti gli altri che noi riteniamo che siano estinti.
+A questo punto io [*hic ego*], sebbene [*etsi*] fossi spaventato [*erat peterritus*] non tanto per la paura [*metu*] della morte, quanto [*quam*] per (la paura del)le insidie da parte dei miei (parenti) [*insidiarum a meis*], chiesi tuttavia [*quaesivi tamen*] se vivesse [*viveretne*] lui stesso [*ipse*] e se vivesse (mio) padre Paolo [*Paulus pater*] e tutti gli altri [*et alii*], che noi riteniamo [*ques nos arbitraremur*] che siano estinti [*extintos esse*].
 
-'not tam mortis metu quam insidiarum' --> ellissi del secondo termine di paragone (manca metu)
+*not tam mortis metu quam insidiarum* --> ellissi del secondo termine di paragone (manca metu)
 
 Comparatio compendiaria --> il genitivo legato al secondo termine di paragone assume il caso del secondo termine di paragone. In questa frase non è così.
 
-viveretne --> ne enclitico --> valore interrogativo disgiuntivo
+*viveretne* --> ne enclitico --> valore interrogativo disgiuntivo
 
 > Immo vero, inquit, hi vivunt, qui e corporum vinclis tamquam e carcere evolaverunt, vestra vero, quae dicitur vita, mors est. Quin tu aspicis ad te venientem Paulum patrem? Quem ut vidi, equidem vim lacrimarum profudi, ille autem me complexus atque osculans flere prohibebat.
 
-Eccome [*immo vero*], disse, loro vivono, questi che sono volati via dai vincoli dei corpi, come da una prigione, invece la vostra che definite vita è morte. Non vedi padre Paolo che sta avvicinandosi a te. Appena [*ut*] lo [*quem*] vidi lui, scoppiai in lacrime e lui d'altra parte abbracciandomi mi proibiva di piangere.
+Eccome [*immo vero*], rispose [*inquit*], loro vivono [*hi vivunt*], questi [*qui*] che sono volati via [*evolaverunt*] dai vincoli dei corpi [*e corporum vinclis*], come da una prigione, invece [*vero*] la vostra [*vestra*] che definite vita [*quae dicitur vita*] è morte [*mors est*]. Perché non [*quin*] vedi [*aspicis*] padre Paolo [*Paulum patrem*] che sta avvicinandosi a te [*ad te venientem*]? Appena lo vidi [*ut quem vidi*], scoppiai in lacrime e lui d'altra parte [*ille autem*] abbracciatomi e baciatomi [*me complexus atque osculans*] mi proibiva di piangere [*flere prohibeat*].
 
 aspicis --> participio congiunto
 
@@ -167,14 +167,16 @@ chiaro riferimento al fedone di platone
 
 > Atque ego ut primum fletu represso loqui posse coepi, Quaeso, inquam, pater sanctissime atque optume, quoniam haec est vita, ut Africanum audio dicere, quid moror in terris? quin huc ad vos venire propero? 
 
-Bloccato il pianto non appena cominciai a poter parlare [*coepi loqui posse*], ti prego padre ottimo, visto che questa è la vita, perchè mi attardo in terra. 
+E io [*atuqe ego*] non appena [*ut*] bloccato il primo pianto [*primum fletu represso*]  cominciai a poter parlare [*coepi loqui posse*], ti prego padre pio e ottimo [*quaeso pater sanctissime  atque optume*], dissi [*inquam*], visto che [*quoniam*] questa è la vita [*haec est vitam*], come sento [*ut audio*] l'Africano dire [*Africanum dicere*], perchè mi attardo in terra [*quid moror in terris*]? Perché non [*quin*] mi affretto a venire [*propero venire*] da qui [*huc*] a voi [*ad vos*]?
 
 > Non est ita, inquit ille. Nisi enim deus is, cuius hoc templum est omne, quod conspicis, istis te corporis custodiis liberaverit, huc tibi aditus patere non potest
 
-No [non è così *non est ita*], disse lui. Infatti se [*nisi*] quel dio [*deus is*], del quale è tutto questo spazio sacro [*templum*], non ti avrà liberato dalle tue [*istis te*] catene del corpo, non ti può essere aperto l'accesso [*aditus*] per te qui
+Non è così [*non est ita*], disse lui [*inquit ille*]. Infatti se [*enim nisi*] quel dio [*is deus*], del quale è tutto questo spazio sacro [*cuius est omne hoc templum*], che vedi [*quod conspicis*], non [*nisi* di prima] ti avrà liberato [*te liberaverit*] dalle tue catene del corpo [*istis corporis custodiis*], non ti può [*tibi non potest*] essere aperto l'accesso [*patere aditus*] a questo luogo [*huc*]
 
 *temno*: tagliare in greco --> *templum* spazio tagliato nel cielo, che gli aruspici facevano mentalmente per i loro vaticinii --> spazio sacro --> tempio
-Possiamo quindi tradurlo con un significato più simile a quello antico : *luogo sacro*
+Possiamo quindi tradurlo con un significato più simile a quello antico: *luogo sacro*
+
+*patere* da *pateo*
 
 > Homines enim sunt hac lege generati, qui tuerentur illum globum, quem in hoc templo medium vides, quae terra dicitur, hisque animus datus est ex illis  sempiternis ignibus, quae sidera et stellas vocatis, quae globosae et rotundae, divinis animatae mentibus,  circulos suos orbesque conficiunt celeritate mirabili.
 

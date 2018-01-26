@@ -14,8 +14,11 @@ L'uomo ha paura del dionisiaco e quindi sceglie l'apollineo.
 ## Su verità e menzogna in senso extramorale
 L'uomo crede di essere speciale perché intelligente, ma l'intelligenza è solo un mezzo per la conservazione.
 
-Perché l'uomo vuole la verità? Si accorda con gli altri uomini per utilità o per noia di avere la stessa visione in modo da limitare il più brutale omnium contra omnes (Hobbes).  
-**La verità quindi è mentire tutti quanti nello stesso modo**.
+L'uomo si accorda con gli altri uomini per utilità o per noia di avere la stessa visione in modo da limitare il più brutale omnium contra omnes (Hobbes).  
+La pulsione dell'uomo verso la verità in realtà è verso l'autoconservazione.
+
+La realtà è un chaoes e ci siamo inventati la verità per cercare di riordinarlo, ma ci riusciamo solo in parte.
+**La verità quindi è mentire tutti quanti nello stesso modo, mentire non è immorale**.
 
 La menzogna viene percepita dalla società come un pericolo e quindi la bandisce colui che mente. La truffa non viene punita perché truffa in sè, ma per il danno che arreca.
 
@@ -35,10 +38,21 @@ Analizza il modo in cui la società occidentale ha concepito la storiografia:
 
 La storia è utile se ci permette di essere attivi nel presente
 
+## Periodo illuminista
+Durante il suo periodo illuminista Nietzsche vuole **rischiarare la cultura** e i valori nella società.  
+Durante questo periodo scrive 3 opere:
+- **Umano, troppo umano**
+- Gaia scienza
+- Genealogia della morale
+
+Paul Ricoeur, filosofo francese, dice che Nietzsche sottopone le certezze dell’occidente alla **scuola del sospetto**: tutti i valori dell’Occidente (morale, bontà, misericordia) vanno sottoposti a un’indagine. Questo implica di essere inattuali. I valori non valgono di per sé, ma vengono fatti valere dall’uomo.
+
+Ricouer accosta a Nietzsche anche Marx e Freud: sono tutti i pensatori che hanno insegnato a sospettare e ad andare dietro le apparenze. Marx sospetta che dietro la democrazia parlamentare c’è un rapporto di dominio di classe. Freud mostra che la nostra coscienza è soltanto una piccola zona della mente e in realtà dietro di essa vi sono delle movitazioni irrazionali e inconfessabili che ci muovono. 
+
 ## Umano troppo umano
 **La vita è illogica**, ma noi tentiamo inutilmente di far venire fuori la logica.
 
-Inizialmente ci sono uomini che sono uguali in forza e che si distruggerebbero a vicenda combattendo, quindi si accorda per scambiarsi qualcosa: questa è la giustizia. La giustizia è dunque compensazione e scambio che parte dal pressuposto di forze uguali.
+Inizialmente ci sono uomini che sono uguali in forza e che si distruggerebbero a vicenda combattendo, quindi si accordano per scambiarsi qualcosa: questa è la giustizia. La giustizia è dunque compensazione e scambio che parte dal pressuposto di forze uguali.
 
 È sorta poco a poco la parvenza che un'azione giusta sia un'azione altruistica, che è andata a sostituire la giustizia originale. Dato che l'altruismo è un valore difficile da raggiungere è diventato anche più prezioso.  
 Questa nuova giustizia è perversa, perché non serve all'autoconservazione.
@@ -53,7 +67,7 @@ Esistono 2 tipi di mroali:
 Per Nietzsche non solo alcuni, ma **tutti i valori non hanno valore**, da cui l'annuncio "Dio è morto", ossia è morta l'origine di tutti i valori.  
 Fino ad ora l'uomo ha acquisito i valori da fuori, adesso ognuno deve crearsi una propria morale.
 
-**Wille zur Macht**: volontà di potenza. Simile alla volontà di Schopenhauer, che però è un espressione della nostra individualità.
+**Wille zur Macht**: volontà di potenza, è la forza vitale. Simile alla volontà di Schopenhauer, che però è un espressione della nostra individualità.
 
 **Ubermensch**: un uomo che non è schiavo di volontà esterne, che non riconosce limiti alla sua volontà di potenza. Traducibile come superuomo o oltreuomo
 
@@ -64,9 +78,9 @@ Zaratustra è un saggio che viaggia per il mondo in un percorso spirituale che r
 
 ### Le tre metamorfosi
 Il cammino della coscienza dagli idoli della superstizione e dalle menzogne della morale al dionisiaco e al superuomo viene raffigurato da Nietzsche in 3 tappe:  
-1. Il **cammello** che rappresenta l'uomo che si piega davanti alla maestà di Dio
-2. Il **leone** che reagisce e combatte i falsi idoli, sconfigge i valori che gli venivano imposti
-3. Il **fanciullo** che esprime l'essenza dionisiaca della libertà umana, è un nuovo inizio
+1. **cammello** che rappresenta l'uomo che si piega davanti alla maestà di Dio, lo spirito crede che la sua realizzazione sia sottoporre sé stesso a tutte le privazioni gravose, anteporre gli altri a sé
+2. **leone** ("Io voglio") che reagisce e combatte e sconfigge il drago ("Tu devi), che rappresenta i valori tradizionali, il leone però vive solo per contrapporsi hai valori tradizionali e ciò non ha senso, dobbiamo arrivare al ...
+3. **fanciullo** che esprime l'essenza dionisiaca della libertà umana, è un nuovo inizio, dopo aver abbattuto la tradizione il fanciullo è in grado di creare qualcosa di nuovo. Il fanciullo è l'ubermensch
 
 ### Eterno ritorno
 Dottrina sul tempo: il tempo è ciclico, ossia torneranno infinite volte gli eventi che stiamo vivendo.  
@@ -84,9 +98,9 @@ E.g. Sono pio adesso per entrare in paradiso, non sperpero per avere più soldi 
 #### Pensiero ubermensch
 Il tempo è un cerchio, di conseguenza le mie azioni devono avere senso in sé, perché non ci sarà un momento del disvelamento.  
 
-L'idea del tempo ciclico non è una dottrina scientifica, ma un test esistenziale,come vivresti se fosse così?
+L'idea del tempo ciclico non è una dottrina scientifica, ma un test esistenziale: come vivresti se fosse così?
 
-Agirò quindi solo in modo da elevare la mia esistenza.
+L'altruismo è negativo, devi agire solo in modo da elevare la tua esistenza.
 
 ### La visione e l'enigma
 Zaratustra sta salendo su per un monte, ma viene trattenuto da un nano, lo spirito di gravità. Si fermano di fronte ad una porta carraia (attraverso cui passa una strada). Zaratustra dice al nano:"guarda questa porta, due sentieri conducono a essa il passato e il futuro che sono due eternità infinite indietro e in avanti. La porta è il presente.  
@@ -94,7 +108,7 @@ Zaratustra sta salendo su per un monte, ma viene trattenuto da un nano, lo spiri
 Zaratustra domanda al nano se secondo lui questi due sentieri si incontreranno mai?
 Il nano riconosce che il tempo è un cerchio, ma Zaratustra ritiene che il nano non abbia compreso le implicazioni di ciò.
 
-Per far comprendere al nano l'importanza di ciò racconta la storia di un pastore con un serpente nella bocca (simbolo del tempo), per liberarsene lo morde e dopo non è più lo stesso, è diventato un ubermensch.
+Per far comprendere al nano l'importanza di ciò racconta la storia di un pastore con un serpente nella bocca (simbolo dell'eterno ritorno), per liberarsene lo morde e dopo non è più lo stesso, è diventato un ubermensch.
 
 Di fronte all'eterno ritorno potremmo essere tentati di ritenere che la nostra vita sia già accaduta e non abbiamo controllo sulla nostra vita, quello che vuole qui dire è che dobbiamo prendere una forte decisione e non saremo più in pericolo, ci trasformeremo in ubermensch.
 
