@@ -160,8 +160,7 @@ Comparatio compendiaria --> il genitivo legato al secondo termine di paragone as
 Eccome [*immo vero*], rispose [*inquit*], loro vivono [*hi vivunt*], questi [*qui*] che sono volati via [*evolaverunt*] dai vincoli dei corpi [*e corporum vinclis*], come da una prigione, invece [*vero*] la vostra [*vestra*] che definite vita [*quae dicitur vita*] è morte [*mors est*]. Perché non [*quin*] vedi [*aspicis*] padre Paolo [*Paulum patrem*] che sta avvicinandosi a te [*ad te venientem*]? Appena lo vidi [*ut quem vidi*], scoppiai in lacrime e lui d'altra parte [*ille autem*] abbracciatomi e baciatomi [*me complexus atque osculans*] mi proibiva di piangere [*flere prohibeat*].
 
 aspicis --> participio congiunto
-vinclis --> sincopato di vinculis
-quem --> nesso del relativo
+
 chiaro riferimento al fedone di platone
 
 ### Capitolo 7
@@ -169,8 +168,6 @@ chiaro riferimento al fedone di platone
 > Atque ego ut primum fletu represso loqui posse coepi, Quaeso, inquam, pater sanctissime atque optume, quoniam haec est vita, ut Africanum audio dicere, quid moror in terris? quin huc ad vos venire propero? 
 
 E io [*atuqe ego*] non appena [*ut*] bloccato il primo pianto [*primum fletu represso*]  cominciai a poter parlare [*coepi loqui posse*], ti prego padre pio e ottimo [*quaeso pater sanctissime  atque optume*], dissi [*inquam*], visto che [*quoniam*] questa è la vita [*haec est vitam*], come sento [*ut audio*] l'Africano dire [*Africanum dicere*], perchè mi attardo in terra [*quid moror in terris*]? Perché non [*quin*] mi affretto a venire [*propero venire*] da qui [*huc*] a voi [*ad vos*]?
-
-*quoaniam haec est vitam* --> interrogativa indiretta
 
 > Non est ita, inquit ille. Nisi enim deus is, cuius hoc templum est omne, quod conspicis, istis te corporis custodiis liberaverit, huc tibi aditus patere non potest
 
@@ -183,18 +180,20 @@ Possiamo quindi tradurlo con un significato più simile a quello antico: *luogo 
 
 > Homines enim sunt hac lege generati, qui tuerentur illum globum, quem in hoc templo medium vides, quae terra dicitur, hisque animus datus est ex illis sempiternis ignibus, quae sidera et stellas vocatis, quae globosae et rotundae, divinis animatae mentibus, circulos suos orbesque conficiunt celeritate mirabili.
 
-Gli uomini infatti [*homines enim*] sono stati generati [*sunt generati*] con questa legge [*hac lege*], perché [*qui*] proteggessero [*tuerentur*] di quel globo [*illum globum*], che tu vedi [*quem vides*] al centro [*medium*] di questo spazio [*hoc templo*], che è detto Terra [*quae terra dicitur*] e a questi è stato dato [*hisque datus est*] uno spirito [*animus*] da quei fuochi eterni [*ex illis sempiternis ignibus*], che voi chiamate stelle e costellazioni [*quae sidera et stellas vocatis*], che sferiche e circolari [*quae globosae et rotundae*], animate dalla mente divina [*divinis animatae mentibus*], compiono [*conficiunt*] i loro circoli e orbite [*circulos suos orbesque*] a velocità mirabile [*celeritate mirabili*].
+Gli uomini infatti [*homines enim*] sono stati generati [*sunt generati*] con questa legge [*hac lege*], affinché [*qui*] proteggessero [*tuerentur*] di quel globo [*illum globum*], che tu vedi [*quem vides*] al centro [*medium*] di questo spazio [*hoc templo*], che è detto Terra [*quae terra dicitur*] e a questi è stato dato [*hisque datus est*] uno spirito [*animus*] da quei fuochi eterni [*ex illis sempiternis ignibus*], che voi chiamate stelle e costellazioni [*quae sidera et stellas vocatis*], che sferiche e circolari [*quae globosae et rotundae*], animate dalla mente divina [*divinis animatae mentibus*], compiono [*conficiunt*] i loro circoli e orbite [*circulos suos orbesque*] a velocità mirabile [*celeritate mirabili*].
 
 *hac lege*: valore prolettico
 *qui* con valore finale
 *globosae et rotundae* e *circulos orbesque* endiadi
 
 
-> Quare et tibi, Publi, et piis omnibus retinendus animus est in custodia corporis nec iniussu eius, a quo  ille est vobis datus, ex hominum vita migrandum est,  ne munus humanum adsignatum a deo defugisse videamini
+> Quare et tibi, Publi, et piis omnibus retinendus animus est in custodia corporis nec iniussu eius, a quo ille est vobis datus, ex hominum vita migrandum est, ne munus humanum adsignatum a deo defugisse videamini
 
-Perciò da te, Publio, e da tutti quelli dotati di pietas l'anima deve essere conservata nella prigione del corpo, e senza il consenso di colui dal quale tutto è dato non si deve migrare dalla vita degli uomini, perché voi non sembriate aver fuggito il compito umano assegnato dagli dei.
+Perciò [*quare*] da te [*tibi*], Publio, e da tutti quelli dotati di pietas [*omnibus piis*] l'anima deve essere conservata [*animus est retinendus*] nella prigione del corpo [*in custodia corporis*], e senza il consenso [*iniussu*] di colui [*eius*] dal quale [*dal quale*] essa è data a voi [*ille est vobis  datus*] non [*nec*] si deve migrare dalla vita degli uomini [*ex hominum vita migrandum est*], perché non [*ne*] sembriate [*videamini*] aver fuggito [*defugisse*] il compito umano [*munus humanum*] assegnato dagli dei [*adsignatum a deo*].
 
 *iniussu*: senza il consenso, si trova solo all'ablativo
+*retinendus* e *migrandum* gerundivi
+*videamini* da *videor* deponente
 
 ### Capitolo 8
 > Sed sic, Scipio, ut avus hic tuus, ut ego, qui te genui, iustitiam cole et pietatem, quae cum magna in parentibus et propinquis, tum in patria maxima est
@@ -203,19 +202,14 @@ Scipione, così come [*ut*] il tuo avo e così come io che ti ho generato, colti
 
 climax in chiasmo *magna in parentibus in patria maxima*
 *cum tum* correlativo
-allitterazione della p: *parentibus propinquis patria*
 
 > ea vita via est in caelum et in hunc coetum eorum, qui iam vixerunt, et corpore laxati illum incolunt locum, quem vides (erat autem is splendidissimo candore inter flammas circus elucens), quem vos, ut a Graiis accepistis, orbem lacteum nuncupatis; ex quo omnia mihi contemplanti praeclara cetera et mirabilia videbantur.
 
 questa vita è la via verso cielo e verso quella riunione di coloro, che hanno vissuto, e sciolti [*laxati*] dal corpo, abitano quel luogo, che vedi (era questo un circolo risplendente di splendidissimo candore tra le fiamme), che voi, come avete appreso dai Greci, chiamate Via Lattea; e da quel luogo a me che contemplavo tutte le cose gli altri [corpi celesti] apparivano illustri e mirabili [*praeclara et mirabilia*]
 
-*nuncupatis* verbo ricercato
-
 > Erant autem eae stellae, quas numquam ex hoc loco vidimus, et eae magnitudines omnium, quas esse numquam suspicati sumus, ex quibus erat ea minima, quae ultima a caelo, citima \<a\> terris luce lucebat aliena.
 
 C'erano anche stelle, che noi non abbiamo mai visto da questo luogo, e le grandezze e le dimensioni di tutte erano tali, quali noi mai avremmo immaginato che ci fossero, tra queste era la più piccola quella che più lontana dal cielo e più vicina alla Terra, brillava di luce non propria.
-
-*luce lucebat* figura etimologica riferita alla Luna
 
 >  Stellarum autem globi terrae magnitudinem facile vincebant. Iam vero ipsa terra ita mihi parva visa est, ut me imperii nostri, quo quasi punctum eius attingimus, paeniteret.
 
