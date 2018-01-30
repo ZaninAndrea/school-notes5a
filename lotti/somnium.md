@@ -178,11 +178,12 @@ Possiamo quindi tradurlo con un significato più simile a quello antico: *luogo 
 
 *patere* da *pateo*
 
-> Homines enim sunt hac lege generati, qui tuerentur illum globum, quem in hoc templo medium vides, quae terra dicitur, hisque animus datus est ex illis  sempiternis ignibus, quae sidera et stellas vocatis, quae globosae et rotundae, divinis animatae mentibus,  circulos suos orbesque conficiunt celeritate mirabili.
+> Homines enim sunt hac lege generati, qui tuerentur illum globum, quem in hoc templo medium vides, quae terra dicitur, hisque animus datus est ex illis sempiternis ignibus, quae sidera et stellas vocatis, quae globosae et rotundae, divinis animatae mentibus, circulos suos orbesque conficiunt celeritate mirabili.
 
-Gli uomini infatti sono stati generati con questa legge, perché proteggessero di quel globo, che tu vedi al centro [*medium*] di questo spazio, che è detto Terra e a questi è stato dato uno spirito [*animus*] da quei fuochi eterni, che voi chiamate stelle e costellazioni, che sferiche e circolari, animate dalla mente divimna, compiono i loro e orbite
+Gli uomini infatti [*homines enim*] sono stati generati [*sunt generati*] con questa legge [*hac lege*], perché [*qui*] proteggessero [*tuerentur*] di quel globo [*illum globum*], che tu vedi [*quem vides*] al centro [*medium*] di questo spazio [*hoc templo*], che è detto Terra [*quae terra dicitur*] e a questi è stato dato [*hisque datus est*] uno spirito [*animus*] da quei fuochi eterni [*ex illis sempiternis ignibus*], che voi chiamate stelle e costellazioni [*quae sidera et stellas vocatis*], che sferiche e circolari [*quae globosae et rotundae*], animate dalla mente divina [*divinis animatae mentibus*], compiono [*conficiunt*] i loro circoli e orbite [*circulos suos orbesque*] a velocità mirabile [*celeritate mirabili*].
 
 *hac lege*: valore prolettico
+*qui* con valore finale
 *globosae et rotundae* e *circulos orbesque* endiadi
 
 
