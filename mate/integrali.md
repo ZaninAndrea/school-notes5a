@@ -49,4 +49,90 @@ $$
 \end{aligned}
 $$
 
-#### Composizione di funzioni
+#### Integrali di funzioni razionali fratte
+$$
+\int \frac{N(x)}{D(x)} dx
+$$
+
+**Se $N(x)$ ha grado maggiore di D(x) si fa la divisione**
+
+Esempio
+$$
+\int \frac{x^3+2x^2+x+1}{x^2+1} dx
+$$
+
+$$
+\begin{aligned}
+&+x^3 &+2x^2 &+x &+1\div x^2+1=x+2-\frac{1}{x^2+1}\\
+&-x^3 & &-x \\
+
+\end{aligned}
+$$
+
+**Se il grado di N(x) è minore di D(x)**
+**Denominatore di grado 1**
+
+$$
+\int \frac{1}{ax+b} dx
+$$
+
+Uso il logaritmo
+
+Esempio
+$$
+\begin{aligned}
+&\int \frac{1}{2x+3}dx \\
+&\frac{1}{2} \int \frac{2}{2x+3} dx \\
+&\frac{1}{2} \ln{\mid 2x+3 \mid} + c
+\end{aligned}
+$$
+
+**Grado 2 con $\Delta \gt 0$**
+Cerco di scomporlo in 2 frazioni con denominatore di grado 1
+
+$$
+\int \frac{px+q}{(x-x_1)(x-x_2)}dx=\int\frac{A}{x-x_1}dx+\int \frac{B}{x-x_2}dx
+$$
+
+**Grado 2 con $\Delta=0$**
+
+$$
+\int \frac{px+q}{ax^2+bx+c}dx=\int\frac{A}{a(x-x_1)}+\frac{B}{(x-x_2)^2}dx
+$$
+
+Alternativamente posso "aggiustare" il numeratore in modo che sia la derivata del denominatore
+
+**Grado 2 con $\Delta \lt 0$**
+Esempio 1
+
+$$
+\begin{aligned}
+&\int \frac{1}{x^2+x+1}dx=\\
+&\int \frac{1}{(x^2+x+\frac{1}{4})+\frac{3}{4}} dx=\\
+&\int\frac{1}{\frac{3}{4}\big[\frac{4}{3}(x+\frac{1}{2})^2+1\big]}dx=\\
+\frac{4}{3}&\int\frac{1}{\big[\frac{2}{\sqrt{3}}(x+\frac{1}{2}) \big]^2+1}dx=\\
+\frac{4}{3}\frac{\sqrt{3}}{2}&\int\frac{\frac{2}{\sqrt{3}}}{\big[\frac{2}{\sqrt{3}}(x+\frac{1}{2}) \big]^2+1}dx=\\
+&\frac{4}{3}\frac{\sqrt{3}}{2}\arctg{(\frac{2}{\sqrt{3}}(x+\frac{1}{2}))}+c
+\end{aligned}
+$$
+
+**Grado 2 con $\Delta \lt 0$ e numeratore di grado 1**
+$$
+\begin{aligned}
+&\int\frac{2x+1}{x^2+4x+5}dx\\
+&\int\frac{2x+4}{x^2+4x+5}dx-\int\frac{3}{x^2+4x+5}dx\\
+&\ln{(x^2+4x+5)}-\int\frac{3}{x^2+4x+5}dx
+\end{aligned}
+$$
+
+#### Sostituzioni particolari
+**Caso 1**
+
+$$
+\int\frac{1}{\sqrt{x^2 \pm a^2}}dx
+$$
+
+Si usa la sostituzione
+$$
+t=x+\sqrt{x^2\pm a^2}
+$$

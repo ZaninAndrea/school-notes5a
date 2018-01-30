@@ -31,3 +31,19 @@ I profani alla medicina sono più vicini alla verità in questo caso.
 Freud è riuscito a curare persone da deliri, ossessioni, ... scoprendo in che modo nascosto si formano queste idee patologiche, con la scoperta i sintomi si risolvono assoggettando l ídea.
 
 Quando l'Io dorme emergono dall'Es dei contenuti che ci preoccupano, che normalmente non arrivano alla vita psichica.
+
+Nella fase orale si manifestano anche i primi impulsi sadici, che però diventano molto più importanti nella fase anale (o sadico-anale). Secondo Freud il sadismo è un mix di libido e e tendenze distruttive.
+Nella fase fallica è rilevante solo il genitale maschile ed è il punto in cui lo sviluppo maschile e femminile si dividono, il maschio entra nella fase edipica.
+Queste tre fasi si sovrappongono più che sostituirsi, ma alla fine, con la fase genitale, i genitali diventano predominanti, alcuni piaceri vengono conservati, mentre altri vengono respinti.
+
+Secondo Freud normalmente la libido viene incanalata nella sessualità, ma a volte per conflitti antichi irrisolti qualcosa va storto, la libido viene fissata in altre forme di soddisfazione.
+A volte questa fissazione impedisce all'Io di svolgere le sue attività normali, allora si dice nevrosi.
+La psicoanalisi si propone di curare queste nevrosi. La psicosi invece è una malattia mentale per cui c'è un allentamento del rapporto tra Io e realtà e queste non sono risolvibili dalla psicoanalisi.
+
+Gli uomini hanno pulsioni, gli animali istinti. Le pulsioni sono ignorabili dall'uomo, ma provocano anche nevrosi.
+
+Freud è il primo ad introdurre la cura attraverso il dialogo, in questo processo l'Io del paziente si allea con l'Io del dottore e ripercorre gli episodi traumatici che hanno impedito lo sviluppo pulsionale senza opporre resistenza, in questo modo può superare quel blocco che ha avuto.
+
+Durante la terapia psicoanalitica il paziente sviluppa sentimenti di ostilità e amore (transfert), perché rivive l'amore per i genitori.
+
+La terapia ha lo scopo di allargare l'estensione dell'Io e a trovare una soddisfazione dell'Es che sia accettabile, ossia una sublimazione.
