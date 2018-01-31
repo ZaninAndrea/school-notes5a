@@ -137,6 +137,21 @@ $$
 t=x+\sqrt{x^2\pm a^2}
 $$
 
+**Caso 2**
+$$
+\begin{aligned}
+\int\sqrt{9-x^2}\:dx
+\end{aligned}
+$$
+
+Uso la sostituzione
+$$
+\begin{aligned}
+x&=2\sin{t}\\
+dx&=3\cos{t}
+\end{aligned}
+$$
+
 #### Integrazione per parti
 L'integrazione per parti sfrutta la **derivata del prodotto**
 
