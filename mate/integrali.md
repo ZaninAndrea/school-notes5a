@@ -149,6 +149,18 @@ $$
 \begin{aligned}
 \int x \cdot \sin{(x)} \: dx &= x(-\cos{x})-\int 1\cdot (-cos(x))dx\\
 &= x\cos{(x)}+\sin{(x)}+c
+\end{aligned}
+$$
 
+Caso particolare $\int \cos^2{x}$
+
+$$
+\begin{aligned}
+\int \cos^2{x}\:dx&=\int\cos{x}\cos{x}\:dx\\
+&=\cos{x}\sin{x}-\int -\sin{x}\sin{x}\: dx\\
+&=\cos{x}\sin{x}+\int \sin^2{x} \: dx \\
+&=\cos{x}\sin{x}+\int 1 \: dx -\int \cos^{2}{x}\:dx\\
+2\int \cos^2{x}\:dx&=\cos{x}\sin{x}+x +c\\
+\int \cos^2{x}\:dx&=\frac{\cos{x}\sin{x}}{2}+\frac{x}{2} +c
 \end{aligned}
 $$
