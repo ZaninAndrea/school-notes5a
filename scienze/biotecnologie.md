@@ -100,3 +100,48 @@ Per questo 2 campioni di DNA provenienti dalla stessa persona avranno le bande c
 Si preferisce usare **DNA mitocondriale**, perché ha una variabilità maggiore, riduce quindi il rischio di trovare 2 persone con le stesse sequenze.
 
 #### Incollare il DNA
+La **DNA ligasi** è in grado di legare assieme frammenti di DNA.
+
+#### Identificare un frammento di DNA
+Supponiamo di aver separato una serie di frammenti di DNA, per individuare un particolare frammento posso creare un frammento a filamento singolo con le basi complementari, detto **sonda**. La sonda si lega solo al filamento corrisponendente.
+
+I frammenti di DNA devono essere a filamento singolo, devo quindi **denaturarlo**, ad esempio con alte temperature (95°C o più).
+
+L'agarosio non è adatto ad ibridare i filamenti, quindi i frammenti vengono trasferiti su una membrana attraverso pressione.
+
+La sonda è marcata in modo da riconoscere dove si è legata.
+
+Questa tecnica è detta **Southern blotting**.
+
+#### Copiare il DNA
+La **DNA polimerasi** è in grado di leggere un filamento stampo e produrre il complementare. Ha però bisogno di un **primer** con l'estremità 3' libera.
+
+La **trascrittasi inversa**, presente ad esempio nel virus HIV, permette di trascrivere RNA in DNA.
+
+Usare la trascrittasi inversa permette di utilizzare RNA come materiale genetico di base, questo ha il vantaggio dello **splicing**.
+
+Lo splicing permette di rimuovere gli **introni** (parti non codificanti dell'RNA), mantenendo solo gli **esoni** (parti codificanti).
+
+Durante questo processo gli esoni possono essere eliminati alcuni esoni, questo processo è lo **splicing alternativo** e permette da un gene di produrre molti RNA diversi.
+
+Quindi se vogliamo selezionare un gene scegliamo l'RNA maturo, che ha già perso gli esoni e introni non necessari e poi ricreaimo il DNA con la trascrittasi inversa.
+
+Scegliere l'RNA ha anche il vantaggio che devo pescare solo tra i geni espressi invece che tra tutti i geni dell'organismo, perché solo quelli espressi danno origine a RNA.
+
+#### Amplificare il DNA
+La **PCR** (polymerase chain reaction) permette di amplificare in modo selettivo una regione del DNA.
+
+La PCR richiede:
+- il frammento di DNA da riprodurre
+- i primer necessari alla polimerasi
+- i deossinucleotidi da cui produrre il DNA
+- una **DNA polimerasi particolare** ricavata dal *Termus aquaticus* (Taq), i cui enzimi non si denaturano nemmeno a temperature alte.
+
+Il sistema sfrutta una variazione ciclica di temperatura:
+- 94°C: il DNA si denatura
+- 55°C: inserisco i primer
+- 72°C: la Taq polimerasi sintetizza
+
+Il ciclo si ripete molte volte e ogni volta riparte con una quantità maggiore di DNA.
+
+All'inizio viene prodotto DNA oltre il frammento interessato, ma diventa minoritario in pochi cicli.

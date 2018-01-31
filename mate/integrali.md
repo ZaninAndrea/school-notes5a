@@ -136,3 +136,19 @@ Si usa la sostituzione
 $$
 t=x+\sqrt{x^2\pm a^2}
 $$
+
+#### Integrazione per parti
+L'integrazione per parti sfrutta la **derivata del prodotto**
+
+$$
+\int f(x)g'(x)dx=f(x)g(x)-\int f'(x)g(x)dx
+$$
+
+Esempio 1
+$$
+\begin{aligned}
+\int x \cdot \sin{(x)} \: dx &= x(-\cos{x})-\int 1\cdot (-cos(x))dx\\
+&= x\cos{(x)}+\sin{(x)}+c
+
+\end{aligned}
+$$
