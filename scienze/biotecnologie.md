@@ -145,3 +145,27 @@ Il sistema sfrutta una variazione ciclica di temperatura:
 Il ciclo si ripete molte volte e ogni volta riparte con una quantità maggiore di DNA.
 
 All'inizio viene prodotto DNA oltre il frammento interessato, ma diventa minoritario in pochi cicli.
+
+#### Sequenziare il DNA
+Il metodo Sanger inventato nel 1975 permette di riconoscere la sequenza delle basi azotate di un campione di DNA.
+
+La tecnica è ancora utilizza, con qualche modifica per sfruttare i computer.
+
+La tecnica si basa su **terminatori fluorescenti**, ossia basi azotate marcate che chiudono la catena. Queste basi azotate sono private dell'ossigeno sul carbonio 3 (*didesossiribonucleotide*), necessario per l'estensione della catena.
+
+Oltre ai terminatori servono il campione di DNA, primer, DNA polimerasi, deossinucleotidi.
+
+La DNA polimerasi entra in azione e allunga la catena, finché **casualmente aggiunge un terminatore**, producendo quindi sequenze di lunghezza diversa.
+
+"Riordino" la sequenza con l'**elettroforesi**, poi illumino le sequenze e il colore mi indica il suo terminatore.
+
+Con tanti frammenti sono sicuro di avere catene con il terminatore su ogni base possibile e quindi di avere la sequenza di tutto il campione.
+
+Lavorare con sequenze lunghe è problematico, quindi si tagliano e si sequenziano le sequenze corte, che poi vengono *riassemblate* analizzando le svorapposizioni digitalmente.
+
+##### Progetto Genoma
+Il progetto genoma ha sequenziato tutto il genoma umano nell'arco di 15 anni.
+
+Ci ha permesso di scoprire che la maggior parte del DNA umano è **DNA spazzatura** e che vi sono solo 25.000 geni, contro i 100.000 ritenuti probabili in precedenza.
+
+Il mappaggio dei geni inoltre ha avuto ricadute importanti nella medicina, nella comprensione delle malattie geniche.
