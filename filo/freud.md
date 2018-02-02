@@ -47,3 +47,11 @@ Freud è il primo ad introdurre la cura attraverso il dialogo, in questo process
 Durante la terapia psicoanalitica il paziente sviluppa sentimenti di ostilità e amore (transfert), perché rivive l'amore per i genitori.
 
 La terapia ha lo scopo di allargare l'estensione dell'Io e a trovare una soddisfazione dell'Es che sia accettabile, ossia una sublimazione.
+
+## Critica a Freud
+### Pensiero di Jung
+Tutti abbiamo una serie di **simboli** che sono sedimentati nella nostra mente, indipendenti dalla cultura. E.g. il mare e l'aria.
+
+La nostra vita è fatta per realizzare il nostro **Sé**, ossia il progetto del noi che dobbiamo diventare, questo è nascosto da una maschera che l'individuo indossa: la **Persona**, ossia quello che la società vuole da noi.
+
+Jung sosteneva che dentro ogni uomo e ogni donna ci sono una parte maschile e una femminile. La parte maschile della femmina è l'**Animus**, quella femminile dell'uomo è l'**Anima**.

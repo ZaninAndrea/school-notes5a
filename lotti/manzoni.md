@@ -26,6 +26,16 @@ La trama si divide in
 - Renzo va a Milano dove viene coinvolto nei tumulti e dopo essersi liberato dall'arresto fugge
 - Fra Cristoforo scioglie il voto di Lucia e i 2 promessi diventano sposi
 
+Una divisione alternativa è:
+- Capitoli 1-8: vicende borghigiane
+- Capitoli 9-10: Lucia e la Signora (Monaca di Monza), con la prima digressione su Gertrude
+- Capitoli 11-17: Avventure cittadine di Renzo
+- Capitoli 18-19: digressione sulla storia di Milano e sulll'Innominato
+- Capitoli 20-27: Lucia e l'Innominato
+- Capitoli 28-32: digressione sulla carestia
+- Capitoli 33-35: Renzo torna a Milano
+- Capitoli 36-38: Ricongiungimento di Renzo e Lucia e lieto fine
+
 
 I Promessi Sposi sono un romanzo storico, a cavallo tra finzione e realtà. Manzoni parla di politica (Lombardia sottomessa dagli Spagnoli), della condizione dei poveri, della crescita di Renzo.
 
@@ -39,3 +49,8 @@ I promessi sposi furono importantissimi per la presenza del cattolicesimo, le te
 Gadda fu appassionatissimo di Manzoni. 
 
 Manzoni conclude nel 1831 che romanzo storico sia una contraddizione.
+
+Per ogni testo le 3 domande saranno:
+- Di cosa parla?
+- Quali sono gli elementi significativi?
+- Come si inserisce nel percorso svolto?
