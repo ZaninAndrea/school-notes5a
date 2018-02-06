@@ -159,6 +159,20 @@ dx&=3\cos{t}
 \end{aligned}
 $$
 
+**Parametriche**
+In alcuni casi è utile sostituire utilizzando le parametriche
+$$
+\begin{aligned}
+\sin{x}&=\frac{2\tg{\frac{x}{2}}}{1+\tg^2{\frac{x}{2}}}\\
+\cos{x}&=
+\end{aligned}
+$$
+
+Usando poi la sostituzione
+$$
+t=\tg{\frac{x}{2}}
+$$
+
 #### Integrazione per parti
 L'integrazione per parti sfrutta la **derivata del prodotto**
 
