@@ -169,3 +169,34 @@ Il progetto genoma ha sequenziato tutto il genoma umano nell'arco di 15 anni.
 Ci ha permesso di scoprire che la maggior parte del DNA umano è **DNA spazzatura** e che vi sono solo 25.000 geni, contro i 100.000 ritenuti probabili in precedenza.
 
 Il mappaggio dei geni inoltre ha avuto ricadute importanti nella medicina, nella comprensione delle malattie geniche.
+
+Ciò ha anche avuto ricardute filosofiche, ad esempio la profilazione genetica al momento dell'assunzione, per evitare di assumere potenziali malati.
+
+#### CRISPR
+
+https://www.youtube.com/watch?v=jAhjPd4uNFY
+
+I batteri contengono una sequenza in cui viene **conservata una porzione del DNA virale** in modo da poterlo in successive infezioni. 
+Quando un secondo virus tenta di infettare la cellula il DNA virale viene subito riconosciuto e il batterio produce un RNA guida, una copia in RNA del DNA virale e un enzima **Cas9**.
+
+L'enzima Cas9 utilizzando i 2 frammnti di RNA riconosce ed elimina il DNA virale.
+
+I genetisti stanno utilizzando questo enzima per tagliare una sezione di DNA predefinita e sostituirla poi con un'altra, mescolata in soluzione.
+
+CRISPR permette di studiare l'effetto di un gene inattivandolo.
+
+#### Clonaggio del DNA
+A differenza della PCR il clonaggio
+- avviene *in vivo*, questo ha il vantaggio di sfruttare i sistemi di correzione errori della cellula
+- non necessita di conoscere la sequenza da clonare, perché non devo creare un primer
+- è più accurato
+
+I **vettori** di clonaggio sono plasmidi, virus e cromosomi artificiali.
+
+Un **plasmide** è un anello di DNA, che porta informazioni accessorie, come la resistenza ad un farmaco. Esso ha sempre la zona ORI (origine della duplicazione) e una regione adatta per l'inserimento.
+Si può sfruttare una resistenza specifica del batterio come selezione, ad esempio somministrando un antibiotico e vedendo quali batteri sopravvivono.
+
+I plasmidi possono essere trasferiti per coniugazione, ossia attraverso il **pilo sessuale**.
+
+Nelle piante si può utilizzare l'***agrobacterium tumefacens***, che trasporta un plasmide che si integra nel DNA dei vegetali. Possiamo quindi sfruttare questo plasmide come vettore.
+Per questa tecnica è particolarmente utile la tecnica delle colture cellulari.
