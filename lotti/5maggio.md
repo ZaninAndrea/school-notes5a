@@ -1,3 +1,10 @@
+---
+category: "Lotti"
+title: "5 Maggio"
+index: 1
+draft: false
+---
+
 # 5 Maggio - Manzoni
 Ci sono 3 protagonisti:
 - Manzoni

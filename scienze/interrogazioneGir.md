@@ -1,3 +1,12 @@
+---
+category: "Scienze"
+title: "Interrogazione gir"
+index: 3
+draft: true
+---
+
+
+
 # Interrogazione gir
 - aldosi e chetosi: legame carbonilico interno e terminale
 - formula di glucosio e fruttosio

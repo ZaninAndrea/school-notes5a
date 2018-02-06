@@ -1,3 +1,10 @@
+---
+category: "Lotti"
+title: "Montale"
+index: 6
+draft: false
+---
+
 # Montale RAI5
 ## Date storm
 - Nasce a Genova nel 1896

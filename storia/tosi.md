@@ -1,3 +1,11 @@
+---
+category: "Storia"
+title: "Tosi"
+index: 7
+draft: true
+---
+
+
 # Tosi
 Riva viene liberata dai tedeschi nel 1945
 Nell'Italia del Nord si è instaurata la Repubblica Sociale di Salò, ha come leader Mussolini.

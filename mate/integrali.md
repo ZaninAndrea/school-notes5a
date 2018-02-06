@@ -1,3 +1,10 @@
+---
+category: "Matematica"
+title: "Integrali"
+index: 6
+draft: false
+---
+
 # $\int$ntegrali
 ## Integrali indefiniti
 $F(x)$ è primitiva di $f(x)$ in un intervallo $I$ se $F(x)$ è derivabile e $F'(x)=f(x)$

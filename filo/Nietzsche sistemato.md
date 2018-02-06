@@ -1,3 +1,10 @@
+---
+category: "Filosofia"
+title: "Nietzsche"
+index: 4
+draft: false
+---
+
 # Nietzsche
 Si ispira a Schopenhauer e ai suoi studi di filologia greca.  
 La sua idea fondamentale è che il criterio di giudizio delle filosofienon sia la verità, ma se sono salutari, ossia se esprimono la volontà di potenza.

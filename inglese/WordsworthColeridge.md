@@ -1,3 +1,10 @@
+---
+category: "Inglese"
+title: "Wordsworth and Coleridge"
+index: 1
+draft: false
+---
+
 # Wordsworth and Coleridge
 ## Wordsworth
 ### Life

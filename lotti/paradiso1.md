@@ -1,3 +1,10 @@
+---
+category: "Lotti"
+title: "Paradiso I"
+index: 7
+draft: false
+---
+
 # Paradiso I
 
 http://divinacommedia.weebly.com/paradiso-canto-i.html

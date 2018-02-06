@@ -1,3 +1,10 @@
+---
+category: "Lotti"
+title: "Paradiso XII"
+index: 11
+draft: false
+---
+
 # Paradiso Canto XII
 
 > Sì tosto come l’ultima parola

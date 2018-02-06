@@ -1,3 +1,10 @@
+---
+category: "Scienze"
+title: "Biotecnologie"
+index: 2
+draft: false
+---
+
 # Biotecnologie
 Le biotecnologie possono essere definite come 
 

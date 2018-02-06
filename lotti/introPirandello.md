@@ -1,3 +1,10 @@
+---
+category: "Lotti"
+title: "Pirandello"
+index: 3
+draft: false
+---
+
 # Pirandello
 La moglie era impazzita dopo il tracollo economico
 Nobel per la letteratura

@@ -1,5 +1,11 @@
+---
+category: "Scienze"
+title: "Chimica organica"
+index: 1
+draft: false
+---
+
 # Chimica organica
-[[toc]]
 ## Regole di nomenclatura degli alcani
 La catena principale è quella più lunga e da il nome all’alcano (e.g. 7 $C$ → eptano) con desinenza -ano.
 

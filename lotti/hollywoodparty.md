@@ -1,3 +1,10 @@
+---
+category: "Lotti"
+title: "Hollywood party"
+index: 2
+draft: false
+---
+
 # Hollywood party
 - introduzoine schematica
 - sintesi della trama

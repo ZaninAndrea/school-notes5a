@@ -1,3 +1,10 @@
+---
+category: "Lotti"
+title: "Somnium"
+index: 14
+draft: false
+---
+
 # Somnium
 ## Capitolo 1
 *Hac vita migro* → questa vita migrare (trasmigrazione dell’anima)

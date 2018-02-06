@@ -1,3 +1,10 @@
+---
+category: "Lotti"
+title: "Paradiso VI"
+index: 9
+draft: false
+---
+
 # Canto VI
 http://divinacommedia.weebly.com/paradiso-canto-vi.html
 

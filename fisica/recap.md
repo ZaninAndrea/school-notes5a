@@ -1,3 +1,11 @@
+---
+category: "Fisica"
+title: "recap"
+index: 6
+draft: true
+---
+
+
 # Recap
 ## Termodinamica
 1 - Qual'è il principio zero della termodinamica?

@@ -1,3 +1,10 @@
+---
+category: "Lotti"
+title: "Paradiso XV"
+index: 12
+draft: false
+---
+
 # Paradiso Canto XV
 
 > Benigna volontade in che si liqua

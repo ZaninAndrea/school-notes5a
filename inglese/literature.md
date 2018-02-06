@@ -1,3 +1,10 @@
+---
+category: "Inglese"
+title: "Literature"
+index: 2
+draft: false
+---
+
 # The Romantic Era
 It develops from 1776 (year of the American Revolution) to 1837.
 

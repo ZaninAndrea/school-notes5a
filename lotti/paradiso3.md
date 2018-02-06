@@ -1,3 +1,10 @@
+---
+category: "Lotti"
+title: "Paradiso III"
+index: 8
+draft: false
+---
+
 # Paradiso III Canto
 
 http://divinacommedia.weebly.com/paradiso-canto-iii.html

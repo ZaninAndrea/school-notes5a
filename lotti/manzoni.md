@@ -1,3 +1,10 @@
+---
+category: "Lotti"
+title: "Manzoni"
+index: 5
+draft: false
+---
+
 # Manzoni
 Mazoni nasce a Milano, è figlio di Giulia Beccaria e del Conte Manzoni, trascorre 10 anni in collegio. Nel 1805 si trasferisce a Manzoni, nel 1810 si converte al cattolicesimo. Nel 1833 resta vedovo e moriranno anche 8 dei suoi 10 figli e la sua seconda moglie durante la sua vita.
 

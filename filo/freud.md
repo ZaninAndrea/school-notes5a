@@ -1,3 +1,10 @@
+---
+category: "Filosofia"
+title: "Freud"
+index: 5
+draft: false
+---
+
 # Sigmund Freud
 Freud è principalmente un medico e fondatore della psicoanalisi, ma è importante per la filosofia, perché sostiene che la razionalità è soltanto uno stratagemma che gli esseri umani hanno elaborato per sopravvivere, perché **la vera realtà psichica è di fondo irrazionale**.
 

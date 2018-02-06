@@ -1,3 +1,12 @@
+---
+category: "Lotti"
+title: "Lettura intensiva"
+index: 4
+draft: false
+---
+
+
+
 # Lettura intensiva
 - non si può costruire una gerarchi nell'educazione basata sull'utilità
 - lo scopo dell'istruzione avanzata è formare e selezionare persone intelligenti e apaci di comprendere la realtà

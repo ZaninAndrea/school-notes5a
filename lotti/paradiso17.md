@@ -1,3 +1,10 @@
+---
+category: "Lotti"
+title: "Paradiso XVII"
+index: 13
+draft: false
+---
+
 # Paradiso XVII
 
 > Qual venne a Climenè, per accertarsi

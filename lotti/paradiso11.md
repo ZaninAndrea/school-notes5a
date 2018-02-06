@@ -1,3 +1,10 @@
+---
+category: "Lotti"
+title: "Paradiso XI"
+index: 10
+draft: false
+---
+
 # Prima Lettura
 ## Paradiso X
 Tommaso d'Aquino: io fui tra gli agnelli guidati da Domenico
