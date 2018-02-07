@@ -206,4 +206,41 @@ Si può sfruttare una resistenza specifica del batterio come selezione, ad esemp
 I plasmidi possono essere trasferiti per coniugazione, ossia attraverso il **pilo sessuale**.
 
 Nelle piante si può utilizzare l'***agrobacterium tumefacens***, che trasporta un plasmide che si integra nel DNA dei vegetali. Possiamo quindi sfruttare questo plasmide come vettore.
-Per questa tecnica è particolarmente utile la tecnica delle colture cellulari.
+Per questa tecnica è particolarmente utile l'utilizzo di colture cellulari.
+
+Un'alternativa ai plasmidi, limitati nella lunghezza dei pezzi di DNA che possono trasportare, sono i **virus**, che hanno capacità  di trasporto superiore.
+
+Infine è possibile anche creare un **cromosoma artificiale**, in genere si usano dei lieviti, per l'affinità tra il loro DNA e quello di specie animali. Questi cromosomi possono trasportare sequenze anche molto lunghe.
+Il lievito oltre a duplicarsi e duplicare quindi il DNA può anche esprimerlo.
+
+##### Metodi fisici di inserimento del vettore
+Per inserire  il vettore nella cellula ci sono più metodi.
+
+Uno di questi è l'**elettroforazione**: con uno shock elettrico si creano delle piccole fratture nella parete cellulare che permetteranno al vettore di entrare.
+
+Si può anche usare la **trasfezione**, ossia inserire con un ago sottilissimo un frammento di DNA, che verrà integrato dalla cellula ospite credendo di dover riparare un danno subito.
+
+Possiamo anche usare il **cannone genico**, il DNA accoppiato con materiale inerte (come oro o tungsteno) viene letteralmente sparato nelle cellule.
+
+##### Metodi chimici di inserimento del vettore
+DNA in soluzione con fosfato di calcio  viene naturalmente integrato nel DNA della cellula.
+
+I liposomi, ossia piccole vesciocole lipidiche contenenti DNA, tendono naturalmente a fondersi con la membrana cellulare e rilasciare all'interno il DNA.
+
+Possiamo utilizzare i virus sia con la trasduzione generalizzata, sia con il cilo litico e lisogeno, ossia il virus si integra nella cellula e aspetta che essa si riproduca, poi ad un certo punto si attiva prendendo il controllo della cellula e facendole produrre il proprio DNA.
+
+##### Geni marcatori
+Possiamo identificare se una cellula ha integrato il DNA utilizzando vari **marcatori**: resistenza agli antibiotici, GFP (green fluorescent protein), ...
+
+##### Biblioteche del DNA
+Posso utilizzare queste cellule con DNA inserito per conservare un determinato frammento di DNA
+
+#### Un esempio di applicazione: l'insulina
+Nel 1980 si concludono le sperimentazioni sull'uomo della produzione batterica di insulina. Al giorno d'oggi quasi tutta l'insulina somministrata ai diabetici è batterica.
+
+L'insulina è normalmente prodotta dal **pancreas** nelle isole del Langherans. 
+Nei diabetici va introdotta esternamente, dato che il loro pancreas non la produce.
+
+L'insulina stimola la diffusione facilitata del glucosio, stimola la sintesi del glicogeno, ...
+
+Prima della sintesi batterica l'insulina veniva estratta dai pancreas di suini e bovini, con i collegati alti costi di estrazione e purificazione e il rischio di trasferimento di virus.
