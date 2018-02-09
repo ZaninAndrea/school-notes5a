@@ -345,3 +345,35 @@ D'altra parte che cosa importa [quid interest] che, da quelli che nasceranno dop
 *fore* futuro di sum
 *nascentur nati sunt* poliptoto
 *postea nascentur, sermonem fore, nullus fuerit, ante nati sum* chiasmo
+
+## Capitolo 16
+L'Africano parla a Scipione dell'anno cosmico, quello corrente è in corso dalla morte di Romolo ed è passato solo 1/20 di esso. La conclusione ribadisce la nullità della gloria terrena.
+
+> praesertim cum apud eos ipsos, a quibus audiri nomen nostrum potest, nemo unius anni memoriam consequi possit.
+
+Soprattutto perché [praesertim cum] presso quelli stessi [apud eos ipsos] dai quali il nostro nome può essere sentito [a quibus adiri nomen nostrum potest], nessuno può conseguire la memoria [nemo consequi possit memoriam] di un anno [unius anni].
+
+*potest possit* poliptoto
+
+>  Homines enim populariter annum tantummodo solis, id est unius astri, reditu metiuntur;
+
+Infatti gli uomini comunemente [enim homines populariter] misurano l'anno soltanto con il ritorno del sole [metiuntur annum tantummodo reditu solis], cioè di un solo astro [id est unius astri].
+
+> cum autem ad idem, unde semel profecta sunt, cuncta astra redierint eandemque totius caeli discriptionem longis intervallis rettulerint, tum ille vere vertens annus appellari potest; in quo vix dicere audeo, quam multa hominum saecula teneantur. 
+
+quando invece tutti gli astri [cum autem cuncta astra] saranno ritornati nello stesso punto [redierint idem], da cui partirono una volta [unde profecta sunt semel] e quando (loro) avranno ripetuto [rettulerint] lo stesso disegno di tutto il cielo [eandem totius caeli discriptiones] dopo lunghi intervalli [longis intervalli], allor a può essere chiamato [tum ille potest appellari] a ragione un anno che si volge [vere vertens annus].
+Nel quale a fatica [in quo vix] oso dire [dicere audeo] quante generazioni di uomini siano contenute [quam multa hominum saecula teneantur].
+
+redierint, da redeo composto di eo
+audeo, ossia osare, *audeo, ausus sum, audere*
+
+> Namque ut olim deficere sol hominibus exstinguique visus est, cum Romuli animus haec ipsa in templa penetravit, quandoque ab eadem parte sol eodemque tempore iterum defecerit, tum signis omnibus ad principium stellisque revocatis expletum annum habeto; cuius quidem anni nondum vicesimam partem scito esse conversam. 
+
+Infatti come il sole sembrò spegnersi ed estinguersi agli uomini[namque ut sol visus est deficere exstinguique hominus], quando l'animo di Romoo [cum Romuli animus] penetrò in questo stesso spazio [haec ipsa in templa penetravit], allo stesso modo [sic sottinteso] ogni volta che il sole dalla stessa parte e nello stesso tempo una seconda volta [quandoque sol eadem parte eodemque tempore iterum] sarà scomparso [defecerit], allora tutte le le costellazioni e stelle richiamate al punto di partenza [revocatis signis stellisque omnibus ad principium] avrai un anno compiuto [habeto annum expletum]. Di questo anno [cuius anni] sappi [scito] la ventesima parte [vicesimam partem] ancora non è passata [nondum esse conversam].
+
+si riferisce all'apoteosi di Romolo.
+dall'ultima frase possiamo dedurre che l'anno dura (716-149)*20 = 11340 anni
+iterum $\ne$ iter
+deficere extingui dittologia sinonimica
+templum come al solito
+haec ci mostra il punto di vista (altrimenti avrebbe usato ille)
