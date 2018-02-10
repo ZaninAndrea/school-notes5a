@@ -200,3 +200,26 @@ $$
 \int \cos^2{x}\:dx&=\frac{\cos{x}\sin{x}}{2}+\frac{x}{2} +c
 \end{aligned}
 $$
+
+## Integrali definiti
+Prendo una funzione $f$ continua e positiva in $[a,b]$
+
+
+
+$$
+\begin{aligned}
+\Delta x &= \frac{b-a}{n}\\
+s_n&=\Delta x \cdot m_1+\Delta x \cdot m_2 +...+\Delta x m_n\\
+S_n&=\Delta x \cdot M_1+\Delta x \cdot M_2 +...+\Delta x M_n\\
+s_n&\le\text{Area sottesa}\le S_n\\
+\lim_{n\to+\infty}s_n&=\lim_{n\to+\infty}S_n=\text{Area sottesa}=\int_a^b f \: dx
+\end{aligned}
+$$
+
+Per calcolare l'integrale definito
+$$
+\begin{aligned}
+F&=\int f \: dx \\
+\int_a^b f\: dx &= F(b)-F(a)
+\end{aligned}
+$$
