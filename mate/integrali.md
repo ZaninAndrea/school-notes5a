@@ -136,7 +136,13 @@ $$
 **Caso 1**
 
 $$
-\int\frac{1}{\sqrt{x^2 \pm a^2}}dx
+\int\frac{1}{\sqrt{x^2 \pm a^2}}\:dx
+$$
+
+oppure
+
+$$
+\int \sqrt{x^2 \pm a^2}\: dx
 $$
 
 Si usa la sostituzione
