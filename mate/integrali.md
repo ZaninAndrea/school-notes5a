@@ -154,7 +154,7 @@ $$
 Uso la sostituzione
 $$
 \begin{aligned}
-x&=2\sin{t}\\
+x&=3\sin{t}\\
 dx&=3\cos{t}
 \end{aligned}
 $$
