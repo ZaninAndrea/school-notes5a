@@ -246,18 +246,45 @@ L'insulina stimola la diffusione facilitata del glucosio, stimola la sintesi del
 Prima della sintesi batterica l'insulina veniva estratta dai pancreas di suini e bovini, con i collegati alti costi di estrazione e purificazione e il rischio di trasferimento di virus.
 
 ##### Ottenere il gene per la sostanza desiderata
-Da una cellula di pancreas con la **trascriptasi inversa** traduciamo ogni messaggero nel DNA a filamento singolo corrispondente. Questo filamento singolo viene duplicato successivamente da una DNA polimerasi.
-
-Non selezioniamo solo il messaggero per l'insulina, ma **tutti i messaggeri presenti nella cellula**.
-
 Per ottenere l'mRNA estraiamo il materiale genetico dalla cellula. Per farlo possiamo usare varie tecniche, ad esempio rompere le cellule per osmosi oppure con degli enzimi che tagliano la membrana.
 
 Per separare il materiale genetico dal resto della cellula distrutta usiamo la **centrifugazione differenziale**. Ossia usiamo la centrifugazione per riordinare le particelle in strati in base al peso molecolare.
 
-##### Inserire il gene nel microrganismo
-I plasmidi utilizzati conferivano la resistenza a 2 anitbiotici, l'enzima di restrizione scelto tagliava il gene che dava la resistenza a uno dei 2.
+Con la **trascriptasi inversa** traduciamo ogni messaggero nel DNA a filamento singolo corrispondente. Questo filamento singolo viene duplicato successivamente da una DNA polimerasi.
 
-In questo modo possiamo riconoscere il batterio che abbia ricevuto il gene umano in base alla resistenza agli antibiotici:
+Non selezioniamo solo il messaggero per l'insulina, ma **tutti i messaggeri presenti nella cellula**.
+
+##### Inserire il gene nel microrganismo
+I plasmidi utilizzati conferiscono la resistenza a **2 antibiotici**, l'enzima di restrizione scelto taglia il gene che dava la resistenza a uno dei 2.
+
+In questo modo possiamo riconoscere il batterio che abbia ricevuto il gene umano in base alla **resistenza agli antibiotici**:
 - resistente ad un solo antibiotico --> ha il gene umano
 - resistente ad entrambi --> non ha il gene umano
 - non resistente --> non ha il plasmide
+
+Al cDNA ottenuto dalle cellule di pancreas aggiungiamo una sequenza di DNA riconosciuta dagli enzimi di restrizione, in modo da formare le sticky ends che permettono là inserimento nel plasmide.
+
+##### Il cloning del gene
+I plasmidi tendono naturalmente ad entrare nei batteri.
+
+A questo punto iniziamo la **coltura delle cellule**, ma ==non sappiamo se le cellule hanno preso il plasmide, se il plasmide ha integrato il gene umano e se il gene integrato è quello dell'insulina==.
+
+Con una garza sterile si tampona la piastra di coltura e poi appoggiando il tampone su altre piastre mantenendo l'orientazione, in modo da **copiare la piastra**.
+
+##### Selezionare i batteri con un gene umano
+Come spiegato precedentemente ==in base alla resistenza agli antibiotici possiamo identificare i batteri che hanno integrato un gene umano==: quelle che hanno la resistenza solo ad un antibiotico.
+
+Una volta individuata la posizione possiamo usare una delle altre copie della piastra per continuare il processo, dato che per identificare il batterio dobbiamo ucciderlo.
+
+##### Identificare il gene corretto
+Su un disco di plastica della stessa forma della piastra di petri "aggancio" degli **anticorpi anti-insulina**.
+Per sovrapposizione alla piastra di coltura l'anticorpo aggancierà l'insulina prelevandole dalla colonia batterica.
+
+Successivamente per identificare la posizione dell'insulina utilizzo una seconda piastra di petri con **anticorpi anti-insulina marcati** (radioattivi), sempre per sovrapposizione gli anticorpi si agganciano all'insulina e quindi ==sul disco di plastica avrò degli anticorpi marcati nella posizione corrispondente a batteri che stanno producendo insulina.==
+
+Abbiamo identificato il batterio che ha integrato il gene dell'insulina!
+
+Un ulteriore complicazione che non abbiamo approfondito è la sostituzione della regione di controllo umana con quella batterica.
+
+##### Raccogliere il prodotto
+Per purificare il prodotto della sintesi fatta dal batterio possiamo usare vari metodi, tra cui la cromatografia su colonna.
