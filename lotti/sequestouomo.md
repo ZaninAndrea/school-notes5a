@@ -1,0 +1,3 @@
+# Se questo è un uomo
+1. Nella descrizione dei preparativi della partenza assumono particolare rilievo le madri e i bambini: quale profonda contraddizione si esprime nel comportamento delle madri che ripongono fasce e giocattoli preparandosi a un viaggio verso la morte?
+2. «Arbeit macht frei», "il lavoro rende liberi", è scritto sulla porta del campo. Ti sembra che questa sentenza abbia qualche corrispondenza con l'organizzazione della vita e del lavoro nel campo? Perché?
