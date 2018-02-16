@@ -288,3 +288,37 @@ Un ulteriore complicazione che non abbiamo approfondito è la sostituzione della
 
 ##### Raccogliere il prodotto
 Per purificare il prodotto della sintesi fatta dal batterio possiamo usare vari metodi, tra cui la cromatografia su colonna.
+
+### I colori delle biotecnologie
+#### Biotecnologie rosse - Medicina
+##### Diagnostica
+Per riconoscere se una malattia è di origine batterica abbiamo più tecniche:
+- **coltura in ambiente selettivo**, se il batterio non cresce nell'ambiente selettivo non è il batterio che supponevo
+- **antibiogramma**: controllare la vulnerabilità di un batterio ad un antibiotico per scegliere quello più efficacie
+
+==Alcuni batteri non sono coltivabili== in tempi ragionevoli o richiedono misure di sicurezza estreme, quindi dobbiamo usare tecniche alternative.
+Ad esempio: amplifico il DNA con la PCR e poi con delle sonde specifiche riconosco il DNA caratteristico del batterio
+
+Con i marcatori possiamo anche identificare un tumore, perché tumori a organi diversi secernono sostanze diverse e riconoscibili.
+
+##### Prodotti naturali ad uso farmaceutico
+==Alcune piante producono sostanze utili a scopo terapeutico==, invece che coltivare la piante ed estrarre la sostanza desiderata, utilizziamo le biotecnologie per produrla.
+
+##### Animali transgenici per la produzione di farmaci
+Diverse sostanze, in particolare legate alla terapia per problemi di coagulazione del sangue, sono molto **complesse e costose da coltivare**.
+
+Un'alternativa è farle produrre ad un animale. Ad esempio il maiale può essere usato per produrre proteina C inserendo il gene corrispondente e la regione di controllo della produzione del latte in un embrione, che poi viene impiantato.
+Quando il maiale inizierà a produrre latte produrrà anche proteina C in esso.
+
+##### Animali transgenici per studiare e sperimentare farmaci
+Un animale viene indotto a sviluppare una malattia umana in modo da poi testare dei farmaci.
+
+Possiamo anche disattivare un gene per vedere che effetto si produce.
+Per farlo posso creare una sequenza genica nella quale al gene che voglio inattivare è sostituito con una resistenza ad un **antibiotico** e successivamente un gene che rende la cellula vulnerabile ad un **antivirale**.
+Se avviene la **ricombinazione omologa** solo il gene da inattivare viene sostituito e quindi al gene da disattivare viene rimpiazzato il gene con la resistenza antibiotica.
+Se la **ricombinazione è non omologa** invece sia il gene della resistenza antibiotica sia quella della sensibilità antivirale vengono sostituiti ad un tratto di DNA diverso, quindi viene mantenuto anche il gene originale.
+
+Le situazioni finali possibili sono:
+- resistente agli antibiotici e a sensibile all'antivirale: ricombinazione non omologa, quindi il gene è mantenuto
+- resistente agli antibiotici, ma non sensibile all'antivirale: ricombinazione omologa, il gene è stato rimosso
+- non resistente agli antibiotici: non è avvenuta ricombinazione, il gene è mantenuto
