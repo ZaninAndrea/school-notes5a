@@ -152,9 +152,7 @@ $$
 
 **Caso 2**
 $$
-\begin{aligned}
-\int\sqrt{9-x^2}\:dx
-\end{aligned}
+\int\sqrt{9-x^2}dx
 $$
 
 Uso la sostituzione
@@ -170,7 +168,7 @@ In alcuni casi è utile sostituire utilizzando le parametriche
 $$
 \begin{aligned}
 \sin{x}&=\frac{2\tg{\frac{x}{2}}}{1+\tg^2{\frac{x}{2}}}\\
-\cos{x}&=
+\cos{x}&=\frac{1-\tg^2{\frac{x}{2}}}{1+\tg^2{\frac{x}{2}}}
 \end{aligned}
 $$
 
