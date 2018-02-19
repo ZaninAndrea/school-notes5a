@@ -62,3 +62,15 @@ Tutti abbiamo una serie di **simboli** che sono sedimentati nella nostra mente, 
 La nostra vita è fatta per realizzare il nostro **Sé**, ossia il progetto del noi che dobbiamo diventare, questo è nascosto da una maschera che l'individuo indossa: la **Persona**, ossia quello che la società vuole da noi.
 
 Jung sosteneva che dentro ogni uomo e ogni donna ci sono una parte maschile e una femminile. La parte maschile della femmina è l'**Animus**, quella femminile dell'uomo è l'**Anima**.
+
+Jung ritiene inoltre che gli eventi non si susseguano solo per rapporti causali. 
+
+### Altre critiche
+==L'idea di sviluppo psichico di Freud è maschilista.==
+
+In alcune tribù in cui i bambini vengono allevati da tutta la tribù non compare il complesso di Edipo. Quindi Freud non ha spiegato generalmente la mente umana, ma solo nel contesto della Vienna del 1800.
+
+Freud ritiene che sia essenziale nello sviluppo del bambino ==imparare a sottostare all'autorità== del padre.
+Deleuze e Guattari ritengono che questa visione non sia la realtà, ma al massimo una consuetudine della civiltà occidentale atta a mantenere l'**ordine pubblico**
+
+Inoltre dal punto di vista epistemologico la psicoanalisi non potrà mai essere scienza, perché ipotizza la presenza di un inconscio che per definizione non è accessibile.
