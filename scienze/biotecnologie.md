@@ -5,12 +5,11 @@ index: 2
 draft: false
 ---
 
-# Biotecnologie
 Le biotecnologie possono essere definite come 
 
 > ogni tecnologia che utilizza organismi viventi o loro componenti sub-cellulari purificati al fine di ottenere notevoli quantità di prodotti utili oppure per migliorare le caratteristiche di piante e animali o per sviluppare microrganismi utili per specifici usi
 
-## Biotecnologie classiche
+# Biotecnologie classiche
 Le bitoecnologie classiche comprendono attività come la fermentazione,la lievitazione, l'incrocio e la selezione artificiale.
 
 Tutte gli organismi sono soggetti a **variabilità genomica**, e.g. crossing over dei cromosomi, coniugazione batterica (2 batteri si scambiano geni).
@@ -30,11 +29,11 @@ Oltre alla selezione artificiale abbiamo introdotto:
 
 Il limite delle biotecnologie classiche è che non possiamo selezionare un singolo gene e che possiamo fare incroci solo tra specie molto vicine dal punto di vista genetico.
 
-## Nuove biotecnologie
-### Tecnologia delle colture cellulari
+# Nuove biotecnologie
+## Tecnologia delle colture cellulari
 Possiamo coltivare singole cellule in vitro invece che interi organismi, ci\o permette di ridurre notevolmente i tempi di ricerca.
 
-#### Cellule vegetali
+### Cellule vegetali
 I vegetali si prestano particolarmente a questa tecnologia in quanto è più facile indurre un processo di **dedifferenziazione**. Con questo processo si può partendo da una foglia riprodurre l'intera pianta.
 
 Il procedimento è:
@@ -48,7 +47,7 @@ Questa tecnologia permette di:
 - fare rapidi screening e modifiche del corredo genetico
 - favorisce la conservazione di piante in vita
 
-#### Cellule animali
+### Cellule animali
 **Sistema modello** una riproduzione in piccola scala dell'ambiente in cui un farmaco/cosmetico/... verrà utilizzato per fare test.
 
 Queste colture vengono utilizzare oer:
@@ -64,7 +63,7 @@ Procedimento:
 
 Tra le linee cellulari degne di nota c'è quella di Henrietta Lacks.
 
-#### Cellule staminali
+### Cellule staminali
 Le cellule staminali sono cellule non differenziate che continuano a dividersi.
 
 Ci sono vari tipi di cellule staminali:
@@ -82,15 +81,15 @@ Il problema è che il virus potrebbe modificare altri geni.
 
 Le cellule staminali pluripotenti, perché non le sappiamo controllare, vengono invece utilizzare quelle unipotenti per rigenerare tessuti.
 
-### Tecnologia del DNA ricombinante
-#### Tagliare il DNA
+## Tecnologia del DNA ricombinante
+### Tagliare il DNA
 Gli **enzimi di restrizione** sono estratti dai batteri, che li usano per difendersi dai virus, e sono in grado di riconoscere e tagliare alcune sequenze di dna.
 
 Alcuni enzimi possono fare un taglio assimmetrico altri un taglio netto. Nel caso del taglio assimetrico si generano delle estremità che hanno solo una metà della catena e sono quindi **coesive** (sticky ends).
 
 Mescolando DNA con estremità coesive con il tratto di DNA che voglio inserire, alle cui estremità ho aggiunto le stesse sequenze che l'enzima ha tagliato, i 2 tendono a legarsi "riparando" il DNA.
 
-#### Separare miscele di frammenti di DNA
+### Separare miscele di frammenti di DNA
 Per separare frammenti di DNA di **lunghezze diverse** si può usare l'**elettroforesi su gel di agarosio**.
 
 Si forma uno strato di gel di agarosio nel quale sono stati "incisi" dei **pozzetti** al momento della gelificazione.
@@ -106,10 +105,10 @@ Per questo 2 campioni di DNA provenienti dalla stessa persona avranno le bande c
 
 Si preferisce usare **DNA mitocondriale**, perché ha una variabilità maggiore, riduce quindi il rischio di trovare 2 persone con le stesse sequenze.
 
-#### Incollare il DNA
+### Incollare il DNA
 La **DNA ligasi** è in grado di legare assieme frammenti di DNA.
 
-#### Identificare un frammento di DNA
+### Identificare un frammento di DNA
 Supponiamo di aver separato una serie di frammenti di DNA, per individuare un particolare frammento posso creare un frammento a filamento singolo con le basi complementari, detto **sonda**. La sonda si lega solo al filamento corrisponendente.
 
 I frammenti di DNA devono essere a filamento singolo, devo quindi **denaturarlo**, ad esempio con alte temperature (95°C o più).
@@ -120,7 +119,7 @@ La sonda è marcata in modo da riconoscere dove si è legata.
 
 Questa tecnica è detta **Southern blotting**.
 
-#### Copiare il DNA
+### Copiare il DNA
 La **DNA polimerasi** è in grado di leggere un filamento stampo e produrre il complementare. Ha però bisogno di un **primer** con l'estremità 3' libera.
 
 La **trascrittasi inversa**, presente ad esempio nel virus HIV, permette di trascrivere RNA in DNA.
@@ -135,7 +134,7 @@ Quindi se vogliamo selezionare un gene scegliamo l'RNA maturo, che ha già perso
 
 Scegliere l'RNA ha anche il vantaggio che devo pescare solo tra i geni espressi invece che tra tutti i geni dell'organismo, perché solo quelli espressi danno origine a RNA.
 
-#### Amplificare il DNA
+### Amplificare il DNA
 La **PCR** (polymerase chain reaction) permette di amplificare in modo selettivo una regione del DNA.
 
 La PCR richiede:
@@ -153,7 +152,7 @@ Il ciclo si ripete molte volte e ogni volta riparte con una quantità maggiore d
 
 All'inizio viene prodotto DNA oltre il frammento interessato, ma diventa minoritario in pochi cicli.
 
-#### Sequenziare il DNA
+### Sequenziare il DNA
 Il metodo Sanger inventato nel 1975 permette di riconoscere la sequenza delle basi azotate di un campione di DNA.
 
 La tecnica è ancora utilizza, con qualche modifica per sfruttare i computer.
@@ -170,7 +169,7 @@ Con tanti frammenti sono sicuro di avere catene con il terminatore su ogni base 
 
 Lavorare con sequenze lunghe è problematico, quindi si tagliano e si sequenziano le sequenze corte, che poi vengono *riassemblate* analizzando le svorapposizioni digitalmente.
 
-##### Progetto Genoma
+#### Progetto Genoma
 Il progetto genoma ha sequenziato tutto il genoma umano nell'arco di 15 anni.
 
 Ci ha permesso di scoprire che la maggior parte del DNA umano è **DNA spazzatura** e che vi sono solo 25.000 geni, contro i 100.000 ritenuti probabili in precedenza.
@@ -179,7 +178,7 @@ Il mappaggio dei geni inoltre ha avuto ricadute importanti nella medicina, nella
 
 Ciò ha anche avuto ricardute filosofiche, ad esempio la profilazione genetica al momento dell'assunzione, per evitare di assumere potenziali malati.
 
-#### CRISPR
+### CRISPR
 
 https://www.youtube.com/watch?v=jAhjPd4uNFY
 
@@ -192,7 +191,7 @@ I genetisti stanno utilizzando questo enzima per tagliare una sezione di DNA pre
 
 CRISPR permette di studiare l'effetto di un gene inattivandolo.
 
-#### Clonaggio del DNA
+### Clonaggio del DNA
 A differenza della PCR il clonaggio
 - avviene *in vivo*, questo ha il vantaggio di sfruttare i sistemi di correzione errori della cellula
 - non necessita di conoscere la sequenza da clonare, perché non devo creare un primer
@@ -213,7 +212,7 @@ Un'alternativa ai plasmidi, limitati nella lunghezza dei pezzi di DNA che posson
 Infine è possibile anche creare un **cromosoma artificiale**, in genere si usano dei lieviti, per l'affinità tra il loro DNA e quello di specie animali. Questi cromosomi possono trasportare sequenze anche molto lunghe.
 Il lievito oltre a duplicarsi e duplicare quindi il DNA può anche esprimerlo.
 
-##### Metodi fisici di inserimento del vettore
+#### Metodi fisici di inserimento del vettore
 Per inserire  il vettore nella cellula ci sono più metodi.
 
 Uno di questi è l'**elettroforazione**: con uno shock elettrico si creano delle piccole fratture nella parete cellulare che permetteranno al vettore di entrare.
@@ -222,20 +221,20 @@ Si può anche usare la **trasfezione**, ossia inserire con un ago sottilissimo u
 
 Possiamo anche usare il **cannone genico**, il DNA accoppiato con materiale inerte (come oro o tungsteno) viene letteralmente sparato nelle cellule.
 
-##### Metodi chimici di inserimento del vettore
+#### Metodi chimici di inserimento del vettore
 DNA in soluzione con fosfato di calcio  viene naturalmente integrato nel DNA della cellula.
 
 I liposomi, ossia piccole vesciocole lipidiche contenenti DNA, tendono naturalmente a fondersi con la membrana cellulare e rilasciare all'interno il DNA.
 
 Possiamo utilizzare i virus sia con la trasduzione generalizzata, sia con il cilo litico e lisogeno, ossia il virus si integra nella cellula e aspetta che essa si riproduca, poi ad un certo punto si attiva prendendo il controllo della cellula e facendole produrre il proprio DNA.
 
-##### Geni marcatori
+#### Geni marcatori
 Possiamo identificare se una cellula ha integrato il DNA utilizzando vari **marcatori**: resistenza agli antibiotici, GFP (green fluorescent protein), ...
 
-##### Biblioteche del DNA
+#### Biblioteche del DNA
 Posso utilizzare queste cellule con DNA inserito per conservare un determinato frammento di DNA
 
-#### Un esempio di applicazione: l'insulina
+### Un esempio di applicazione: l'insulina
 Nel 1980 si concludono le sperimentazioni sull'uomo della produzione batterica di insulina. Al giorno d'oggi quasi tutta l'insulina somministrata ai diabetici è batterica.
 
 L'insulina è normalmente prodotta dal **pancreas** nelle isole del Langherans. 
@@ -245,7 +244,7 @@ L'insulina stimola la diffusione facilitata del glucosio, stimola la sintesi del
 
 Prima della sintesi batterica l'insulina veniva estratta dai pancreas di suini e bovini, con i collegati alti costi di estrazione e purificazione e il rischio di trasferimento di virus.
 
-##### Ottenere il gene per la sostanza desiderata
+#### Ottenere il gene per la sostanza desiderata
 Per ottenere l'mRNA estraiamo il materiale genetico dalla cellula. Per farlo possiamo usare varie tecniche, ad esempio rompere le cellule per osmosi oppure con degli enzimi che tagliano la membrana.
 
 Per separare il materiale genetico dal resto della cellula distrutta usiamo la **centrifugazione differenziale**. Ossia usiamo la centrifugazione per riordinare le particelle in strati in base al peso molecolare.
@@ -254,7 +253,7 @@ Con la **trascriptasi inversa** traduciamo ogni messaggero nel DNA a filamento s
 
 Non selezioniamo solo il messaggero per l'insulina, ma **tutti i messaggeri presenti nella cellula**.
 
-##### Inserire il gene nel microrganismo
+#### Inserire il gene nel microrganismo
 I plasmidi utilizzati conferiscono la resistenza a **2 antibiotici**, l'enzima di restrizione scelto taglia il gene che dava la resistenza a uno dei 2.
 
 In questo modo possiamo riconoscere il batterio che abbia ricevuto il gene umano in base alla **resistenza agli antibiotici**:
@@ -264,19 +263,19 @@ In questo modo possiamo riconoscere il batterio che abbia ricevuto il gene umano
 
 Al cDNA ottenuto dalle cellule di pancreas aggiungiamo una sequenza di DNA riconosciuta dagli enzimi di restrizione, in modo da formare le sticky ends che permettono là inserimento nel plasmide.
 
-##### Il cloning del gene
+#### Il cloning del gene
 I plasmidi tendono naturalmente ad entrare nei batteri.
 
 A questo punto iniziamo la **coltura delle cellule**, ma ==non sappiamo se le cellule hanno preso il plasmide, se il plasmide ha integrato il gene umano e se il gene integrato è quello dell'insulina==.
 
 Con una garza sterile si tampona la piastra di coltura e poi appoggiando il tampone su altre piastre mantenendo l'orientazione, in modo da **copiare la piastra**.
 
-##### Selezionare i batteri con un gene umano
+#### Selezionare i batteri con un gene umano
 Come spiegato precedentemente ==in base alla resistenza agli antibiotici possiamo identificare i batteri che hanno integrato un gene umano==: quelle che hanno la resistenza solo ad un antibiotico.
 
 Una volta individuata la posizione possiamo usare una delle altre copie della piastra per continuare il processo, dato che per identificare il batterio dobbiamo ucciderlo.
 
-##### Identificare il gene corretto
+#### Identificare il gene corretto
 Su un disco di plastica della stessa forma della piastra di petri "aggancio" degli **anticorpi anti-insulina**.
 Per sovrapposizione alla piastra di coltura l'anticorpo aggancierà l'insulina prelevandole dalla colonia batterica.
 
@@ -286,12 +285,12 @@ Abbiamo identificato il batterio che ha integrato il gene dell'insulina!
 
 Un ulteriore complicazione che non abbiamo approfondito è la sostituzione della regione di controllo umana con quella batterica.
 
-##### Raccogliere il prodotto
+#### Raccogliere il prodotto
 Per purificare il prodotto della sintesi fatta dal batterio possiamo usare vari metodi, tra cui la cromatografia su colonna.
 
-### I colori delle biotecnologie
-#### Biotecnologie rosse - Medicina
-##### Diagnostica
+## I colori delle biotecnologie
+### Biotecnologie rosse - Medicina
+#### Diagnostica
 Per riconoscere se una malattia è di origine batterica abbiamo più tecniche:
 - **coltura in ambiente selettivo**, se il batterio non cresce nell'ambiente selettivo non è il batterio che supponevo
 - **antibiogramma**: controllare la vulnerabilità di un batterio ad un antibiotico per scegliere quello più efficacie
@@ -301,16 +300,16 @@ Ad esempio: amplifico il DNA con la PCR e poi con delle sonde specifiche riconos
 
 Con i marcatori possiamo anche identificare un tumore, perché tumori a organi diversi secernono sostanze diverse e riconoscibili.
 
-##### Prodotti naturali ad uso farmaceutico
+#### Prodotti naturali ad uso farmaceutico
 ==Alcune piante producono sostanze utili a scopo terapeutico==, invece che coltivare la piante ed estrarre la sostanza desiderata, utilizziamo le biotecnologie per produrla.
 
-##### Animali transgenici per la produzione di farmaci
+#### Animali transgenici per la produzione di farmaci
 Diverse sostanze, in particolare legate alla terapia per problemi di coagulazione del sangue, sono molto **complesse e costose da coltivare**.
 
 Un'alternativa è farle produrre ad un animale. Ad esempio il maiale può essere usato per produrre proteina C inserendo il gene corrispondente e la regione di controllo della produzione del latte in un embrione, che poi viene impiantato.
 Quando il maiale inizierà a produrre latte produrrà anche proteina C in esso.
 
-##### Animali transgenici per studiare e sperimentare farmaci
+#### Animali transgenici per studiare e sperimentare farmaci
 Un animale viene indotto a sviluppare una malattia umana in modo da poi testare dei farmaci.
 
 Possiamo anche disattivare un gene per vedere che effetto si produce.
@@ -322,3 +321,40 @@ Le situazioni finali possibili sono:
 - resistente agli antibiotici e a sensibile all'antivirale: ricombinazione non omologa, quindi il gene è mantenuto
 - resistente agli antibiotici, ma non sensibile all'antivirale: ricombinazione omologa, il gene è stato rimosso
 - non resistente agli antibiotici: non è avvenuta ricombinazione, il gene è mantenuto
+
+#### Terapia genica
+L'idea di base è ==sostituire un gene difettoso con uno funzionante==.
+
+Non è applicata sulle **cellule germinali** per via delle implicazioni etiche.
+Viene utilizzata invece sulle **cellule somatiche**.
+
+Fu utilizzata per curare la **ADA-SCID** (una grave immunodeficienza). Le cellule immunitarie vengono prelevate, coltivate in laboratorio ed in esse con un virus viene inserito il gene corretto, una volta amplificate in coltura vengono reinserite nel paziente.
+2/8 pazienti svilupparono però una leucemia. La tecnica venne poi migliorata e questo problema fu risolto.
+
+Il trasferimento del gene può essere fatto su colture in vitro o direttamente sui tessuti del paziente.
+
+#### La tecnologia antisenso
+Questa tecnica verrà rimpiazzata da crispr.
+
+In alcune situazioni ==a cellula produce un RNA complementare al messaggero==, che tende ad appaiarsi con esso in modo da inattivarlo.
+
+Possiamo creare degli anti-RNA sintetici per silenziare un gene, le modalità di produzione di questo anti-RNA sono varie.
+
+### Biotecnologie verdi - agricoltura
+#### Resistenza ai parassiti
+La **piralide** è un insetto che danneggia il mais rendendolo non commestibile. La soluzione tradizionale sono i pesticidi, che però ha il problema della tossicità ambientale e dell'adattamento degli insetti.
+
+Il **Bacillus thuringiensis** produce una proteina tossica per gli insetti, ma innocua per l'uomo e per l'ambiente. Inoltre la tossina è tossica per ingestione, quindi innocua per gli insetti che non vogliono mangiare la pianta.
+Inizialmente la tossina veniva spruzzata come un pesticida sulle piante, poi il gene corrispondente è stato introdotto direttamente nella pianta.
+
+La sensibilità alla tossina è data da un **allele recessivo**, quindi se permettiamo agli insetti di svilupparsi in zone rifugio (alcuni filari di mais non trattati genicamente) non si svilupperà la resistenza. 
+
+#### Resistenza agli erbicidi
+Per uccidere le **piante infestanti** si utilizzano erbicidi a largo spettro, che uccidono tutto tranne una pianta che abbiamo reso resistente.
+
+Il caso del **glifosato** è particolarmente interessante dal punto di vista mediatico, perché è stato soggetto a molte campagne ambientaliste data la sua probabile cancerosità, ignorando il fatto che la dose contenuta negli alimenti è diversi ordini di grandezza minore a quella dannosa.
+
+#### Il golden rice
+Per evitare la carenza di vitamina A legata ad un'alimentazione basata solo sul riso venne creato ==il golden rice, geneticamente modificato per produrre il precursore della vitamina A e ferro==.
+
+Una versione con ulteriori miglioramenti èil **green super rice**.
