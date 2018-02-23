@@ -126,3 +126,22 @@ La **madre di Cecilia** affida la figlia morta ad un monatto assicuradosi che ve
 | pietà | Il monatto si impietosisce e promette di trattare dignitosamente la bambina. La pietà vince sui sentimenti aspri suscitati dalla peste |
 
 Appare lampante l'assenza dell'intervento della Provvidenza (cosmo) e il conseguente caos della peste. La madre però simboleggia un tentativo di riorganizzare il caos
+
+## Il Cardinal Borromeo
+Viene descritta la vita del ==cardinal Borromeo, uomo pio e puro==, che non ha mai cercato il potere, ma anzi ha dedicato la sua vita al servizio degli altri.
+
+| Focus | Descrizione |
+| ----- | ----------- |
+| sant'uomo | Borremeo viene descritto come pio e purissimo. *La sua vita è come un ruscello che, scaturito limpido dalla roccia, senza ristagnare né intorbidarsi mai, in un lungo corso per diversi terreni, va limpido a gettarsi nel fiume.* |
+
+La santità del Cardinal Borromeo ricostituisce il cosmo nei Promessi Sposi dopo le varie vicende di caos.
+
+## Il Cardinal Borromeo e l'Innominato
+Il Cardinal Borromeo riceve una visita inaspettata dell'Innominato e lo incontra malgrado le proteste del cappellano.
+
+| Focus | Descrizione |
+| ----- | ----------- |
+| ciane | *noi non possiamo mai parlare di certe cose, perché monsignore dice che le son ciance*, il cardinale non si occupa delle faccende politiche evidenziate dal cappellano |
+| zelo | *Lo zelo fa de' nemici*, lo zelo del cardinale potrebbe dargli problemi, ma lui riceve comunque l'Innominato |
+
+Il cosmo rappresentato dal cardinale affronta il caos dell'Innominato e non vacilla.
