@@ -358,3 +358,8 @@ Il caso del **glifosato** è particolarmente interessante dal punto di vista med
 Per evitare la carenza di vitamina A legata ad un'alimentazione basata solo sul riso venne creato ==il golden rice, geneticamente modificato per produrre il precursore della vitamina A e ferro==.
 
 Una versione con ulteriori miglioramenti èil **green super rice**.
+
+# Considerazioni conclusive
+I geni una volta estratti dall'organismo non sono più qualificabili come animali, vegetali o batterici, non ha quindi senso parlaredi "cibo frankenstein".
+
+Gli OGM sono molto più controllati del cibo normale
