@@ -208,8 +208,6 @@ $$
 ## Integrali definiti
 Prendo una funzione $f$ continua e positiva in $[a,b]$
 
-
-
 $$
 \begin{aligned}
 \Delta x &= \frac{b-a}{n}\\
@@ -226,4 +224,18 @@ $$
 F&=\int f \: dx \\
 \int_a^b f\: dx &= F(b)-F(a)
 \end{aligned}
+$$
+
+## Calcolo dei volumi
+### Volumi di solidi di rotazione
+Possiamo calcolare il volume ottenuto dalla rotazione di un'area.
+
+#### Rotazione attorno all'asse x
+Analogamente agli integrali di area divido il volume in tanti "dischi" appena maggiori o appena minori del volume cercato.
+
+Ogni disco piccolo ha come volume $\pi m^2 \Delta x$ e ogni disco grande $\pi M^2 \Delta x$.
+Il volume del solido sarà quindi
+
+$$
+V=\pi \int_a^b [f(x)]^2 \:dx
 $$
