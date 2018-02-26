@@ -24,4 +24,45 @@ Scrive 11 tesi contro Feuerbach:
 - per liberare l'uomo non basta conoscere la verità, l'uomo si trasforma solo se si impegna in una prassi rivoluzionaria. L'uomo deve cambiare il suo modo di agire non solo di pensare.
 - ci si deve domandare perché l'uomo ha esigenza di estranearsi nella divinità, dobbiamo capire perché il concreto abbia avuto bisogno dell'astratto.
     - La famiglia terrena non funziona e quindi abbiamo bisogno di inventarci una famiglia divina.
-    - Secondo Marx l'umanità continua a mutare. Inoltre l'umanità di Feuerbach secondo Marx è astratta e manca della storia.
+- Secondo Marx l'umanità continua a mutare. Inoltre l'umanità di Feuerbach secondo Marx è astratta e manca della storia, per Marx è essenziale l'aspetto  delle condizioni, in particolare le condizioni di lavoro
+
+Anche Marx parte da Hegel.
+
+Marx dice che l'uomo è un ente che deve continuamente riprodurre le condizioni materiali della sua esistenza.
+Ossia l'essere umano deve continuamente lavorare
+
+Nell'opera *Manoscritti economicofilosofici* Marx spiega come la condizione lavorativa dell'uomo sia alienata nella società industriale, ossia all'individuo viene tolta la sua essenza.
+
+> L'operaio diventa tanto più povero tanto è maggiore la ricchezza che produce
+> L'operaio diventa una merce tanto più vile tanto maggiore è la quantità di merce che produce
+
+Secondo Marx questa è una necessità intrinseca dell'aumento della produzione.
+
+Il lavoro nell'epoca capitalista non è più quindi la realizzazione dell'uomo, ma è lo svilimento dell'uomo.
+
+Mentre il lavoro "artigiano" produce un bene che contiene l'essenza dell'uomo, il lavoro "industriale" produce un bene che è estraneo all'uomo.
+
+> Il prodotto del lavoro si contrappone a esso come un essere estraneo, come una potenza indipendente dal lavoro che la produce
+
+L'estraneazione dell'uomo dal lavoro avviene nell'atto stesso della produzione e non solo nel prodotto.
+
+Il lavoro non è quindi il soddisfacimento di un bisogno, ma solo un mezzo per soddisfare bisogni estranei.
+
+Se le condizioni di lavoro sono alienanti l'essere umano si sente animali lavorando (la più umana delle attività) e si sente umano nel mangiare, bere, procreare (attività più animali).
+
+Quando si lavora in condizioni alienate i rapporti stessi tra i lavoratori sono alienati: il compagno di lavoro diventa un potenziale rivale.
+
+Il **modo di produzione** è dato dalla tecnologia e dai rapporti sociali che sono compatibili con questa tecnologia.
+Storicamente i modi di produzione sono stati collegati a diverse ricchezze
+| Periodo | Ricchezza | Classe dominante |
+| ------- | --------- | ---------------- |
+| antichità | schiavi | uomini liberi |
+| medioevo | terra | feudatari |
+| società industriale | capitale | borghesia | 
+
+I rapporti sociali dipendono dalla tecnologia e non il contrario.
+
+La base tecnologica produttiva è detta **struttura**.
+La cultura, il diritto, la religione invece sono la **sovrastruttura**
+
+In futuro si arriverà naturalmente al socialismo.
