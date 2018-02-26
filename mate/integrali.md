@@ -239,3 +239,14 @@ Il volume del solido sarà quindi
 $$
 V=\pi \int_a^b [f(x)]^2 \:dx
 $$
+
+#### Rotazione attorno all'asse y
+Invece di $f$ uso la sua inversa e come estremi dell'integrale uso gli estremi su y, non su x.
+
+Altrimenti c'è un metodo alternativo. Invece di formare il nostro solido con monete impilate lo posso formare con tanti tubi verticali l'uno dentro l'altro
+
+Ognuno dei tubi ha come area laterale $2\pi r h = 2\pi x f(x)$, quindi il volume del solido di rotazione diventa
+
+$$
+V=2\pi \int_a^b x f(x)\: dx
+$$
