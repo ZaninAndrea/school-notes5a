@@ -250,3 +250,74 @@ Ognuno dei tubi ha come area laterale $2\pi r h = 2\pi x f(x)$, quindi il volume
 $$
 V=2\pi \int_a^b x f(x)\: dx
 $$
+
+## Lunghezza di una curva
+Calcolare la lunghezza di un tratto di curva.
+
+Divido la curva in tanti segmentini che la approssimano. La lunghezza del segmento generico $\overline{P_i P_{i+1}}$ è
+
+$$
+\overline{P_i P_{i+1}} = \sqrt{(x_{i+1}-x_i)^2+(f(x_{i+1})-f(x_i))^2}
+$$
+
+sfruttando il teorema del valore medio di Lagrange
+
+$$
+m=\frac{f(x_{i+1})-f(x_i)}{x_{i+1}-x_i}=f'(c)
+$$
+
+quindi
+
+$$
+\begin{aligned}
+\overline{P_i P_{i+1}} &= \sqrt{(x_{i+1}-x_i)^2+f'(c_i)^2(x_{i+1}-x_i)^2}\\
+&=(x_{i+1}-x_i)\sqrt{1+f'(c_i)^2}
+\end{aligned}
+$$
+
+La lunghezza della curva è
+
+$$
+\begin{aligned}
+L&=\lim_{n\to +\infty} \sum_{i=0}^n \overline{P_i P_{i+1}} \\
+&=\int_a^b \sqrt{1+f'(x)^2} \: dx
+\end{aligned}
+$$
+
+## Aree laterali di solidi
+Divido il solido in tanti cilindri. L'area laterale di un cilindro è 
+
+$$
+2\pi \int_a^b f(x)\sqrt{1+f'(x)^2} \: dx
+$$
+
+## Integrali impropri
+### Integrali con un numero finito di punti di discontinuità
+#### f continua in $[a,b)$
+$$
+\begin{aligned}
+A&=\int_a^b f(x)\: dx \\
+&=\lim_{z\to b^-}\int_a^z f(x) \: dx
+\end{aligned}
+$$
+
+Se il limite è finito l'integrale si dice convergente, se è infinito si dice divergente.
+Se il limite non esiste si dice indeterminato.
+
+#### f continua in $(a,b]$
+$$
+\begin{aligned}
+A&=\int_a^b f(x)\: dx \\
+&=\lim_{z\to a^+}\int_z^b f(x) \: dx
+\end{aligned}
+$$
+
+#### f non continua in $c \in [a,b]$
+$$
+A=\lim_{z\to c^-}\int_a^z f(x) \: dx + \lim_{t\to c^+}\int_t^b f(x) \: dx
+$$
+
+### Integrali in un intervallo illimitato
+$$
+\int_a^{+\infty}f(x)\: dx = \lim_{z\to +\infty}\int_a^z f(x) \: dx
+$$

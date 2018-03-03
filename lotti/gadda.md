@@ -53,3 +53,21 @@ all'inizio del 37 inizia a scrivere la cognizione del dolore.
 Gadda è un borghese e non ama la campagna
 
 i Maiali (contadini) e il gorgonozola sono amati e odiati da Gadda.
+
+descrive Mussolini in maniera dispregiativa e l'Italia come sottomessa sessualmente alla virilità di Mussolini.
+
+Gadda a 57 anni viene assunto alla Rai
+
+## Quer pasticciaccio brutto de via merulana
+La stesura del pasticciaccio dura molti anni e si ispira ad un fatto di cronaca.
+
+Don Ciccio deve indagare su un furto e omicidio, la donna uccisa era una conoscenza di Don Ciccio
+
+Il romanzo poliziesco classici è consolatorio, alla fine si scopre il colpevole, ma la vita non lo è. Per questo, non per le condizioni di salute, il pasticciaccio è incompleto
+
+Gadda si è arreso al caos del mondo.
+
+Nel momento del successo di Gadda, lui inizia ad avere manie di persecuzione e smette di scrivere per sempre (link a manzoni), sistema invece editorialmente i suoi vecchi scritti.
+
+gadda vuole comunicare stando dentro questa poltiglia della lingua. Gadda scrive in una lingua barocca mai sentita
+

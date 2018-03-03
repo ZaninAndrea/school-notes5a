@@ -39,3 +39,5 @@ Luce non polarizzata invece
 $$
 I=\frac{1}{2}I_0
 $$
+
+Il polarizzatore ha un asse di trasmissione
