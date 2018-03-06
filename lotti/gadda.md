@@ -2,72 +2,62 @@
 Gadda nasce a Milano nel 1893, studia **ingegneria** all'università.
 
 ==Nel 1915 partecipa da volontario alla Grande Guerra==, in questo periodo scrive un diario di guerra.
+Gadda conviveva con il dubbio di non valere nulla, Gadda sperava nella guerra di avere un'occasione di riscatto, ma non fu così.
+
 A Caporetto viene fatto prigioniero e quando torna a casa a guerra finita scopre che il fratello è morto, questo fu per lui un trauma fortissimo che alterò il suo rapporto con la patria e il patriottismo.
 
 Per un periodo si trasferisce in Argentina, dove lavora come ingegnere.
 
 Nel Giugno 1926 pubblica i suoi primi 4 racconti, in uno di questi, _**La morte di Puk**_, tratta il tema della morte attraverso la morte di un cane che rappresenta tutte le morti.
 
-Nel 1938 inizia a pubblicare a puntate _**La Cognizione del Dolore**_
+Negli anni 30 inizia ad imporsi sulla scena letteraria e nel 1938 inizia a pubblicare a puntate _**La Cognizione del Dolore**_, per il quale nel 1963 vince il Prix International de Literature.
 
-# Vita
-nasce a milano nel 1893
+Nel 1944 lascia Firenze e scrive un **trattato antifascista**. Descrive Mussolini in maniera dispregiativa e l'Italia come sottomessa sessualmente alla virilità di Mussolini.
 
-nel 1912 si iscrive ad Ingegneria
-nel 1915 partecipa volontario alla WWI
-nel 1917 viene fatto prigioniero a Caporetto
+Lavora un anno alla rai ma poi smette per concentrarsi sul pasticciaccio.
 
-Si trasferisce in Argentina
-
-
-inizia a scrive il pasticciaccio
-
-fa un anno alla Rai, ma smette per concentrarsi sul pasticciaccio
-
-vince il Prix International de Literature per la cognizione del Dolore
+# Temi e stile
+==L'opera di Gadda tende a concentrarsi su pochi temi fondamentali==, è ossessionato dalla morte, dal male, dalla famiglia, dalla guerra, dal rapporto con la madre, ma anche da molte piccole cose che risalgono alla sua vita privata e sociale.
 
 > il pasticcio e il disordine mi annientano e non posso fare nulla se non vi è ordine
 
-l'opera di Gadda tende a concentrarsi su pochi temi fondamentali
+Gadda è sia scrittore che filosofom autodidatta.
+Dal punto di vista filosofico si avvicina a **Wittgestein**, non arriva mai ad un sistema: sono meditazioni.
+La fonte primaria della sua filosofia è se stesso.
 
-Gadda è ossessionato dalla morte, dal male, dalla famiglia, dalla guerra, dal rapporto con la madre, ma anche da molte piccole cose.
+Scrive _**La meditazione milanese**_, Gadda stabilisce un nesso tra tutte le cose materiali e immateriali, ==ogni oggetto è comprensibile solo se scomposto nelle sue minime parti e se al contempo è inserito nel contesto di tutte le sue relazioni==.
+La ricerca della verità per Gadda sembra essere una forma di nevrosi.
 
-Gadda conviveva con il dubbio di non valere nulla, Gadda sperava nella guerra di avere un'occasione di riscatto, ma non fu così.
+In molti affermano che Gadda sia uno scrittore **barocco**, Gadda risponde invece che è il mondo ad essere barocco.
 
-La morte in guerra del fratello rappresentò per Gadda un trauma terribile, che alterò profondamente anche il suo rapporto con la patria e il suo patriottismo.
-Il fratello viene ripreso più volte in La cognizione del Dolore
+In lui ==convivono una forte volontà ordinatrice e la tendenza ad aggiungere dettagli==.
 
-Gadda fugge dalla madre con la quale ha continue incomprensioni.
+L'elemento caratteristico di Gadda è la **poltiglia linguistica** e il plurilinguismo
 
-Pubblica i suoi primi 4 racconti su Solaria. 
+# Opere
+In 2 mesi scarsi Gadda riempie tre quaderni di riflessioni filosofiche, un testo chiave pubblicato dopo la sua morte, essenziale per capire le ragioni dietro la sua vita letteraria.
 
-Gadda è sia scrittore che filosofo. Dal punto di vista filosofico si avvicina a Wittgestein, non arriva mai ad un sistema, sono meditazioni, la fonte primaria della sua filosofia è se stesso.
+Inizia ad essere scrittore a tempo pieno nel 1940
 
-Scrive La meditazione milanese, Gadda stabilisce un nesso tra tutte le cose materiali e immateriali, ogni oggetto è comprensibile solo se scomposto nelle sue minime parti e se al contempo è inserito nel contesto di tutte le sue relazioni.
+## La Cognizione del Dolore
+Nel 1937 inizia a scrivere La cognizione del Dolore. Fu molto piu che un romanzo, fu un processo interamente interpretato da Gadda.
 
-Questa volontà di scomposizione si ritrova in tutte le sue pagine
+Il romanzo esce in 7 puntate su una rivista fiorentina ed è ambientato in un villaggio sudamericano.
 
-In molti affermano che Gadda sia uno scrittore barocco, Gadda risponde invece che è il mondo ad essere barocco.
+Il fratello è un personaggio ripreso più volte nel romanzo.
 
-In gadda convivono una forte volontà ordinatrice e la tendenza ad aggiungere dettagli
+Utilizza la metafora dei Maiali per i contadini. Gadda ama la pace, la tranquillità, non vuole avere in torno maiali (contadini).
 
-negli anni 30 inizia ad imporsi sulla scena letteraria
+La narrazione è vista come strumento per scoprire la sia verità, riscattare la sua inesistita giovinezza.
+
+## Quer pasticciaccio brutto de via Merulana
+
+=============
+APPUNTI MIEI
+============
+# Vita
 
 Gadda si trasferisce a Trieste e diventa scrittore a tempo pieno. Qui scrive l'Adalgisa
-
-Gadda ha un forte plurilinguismo
-
-
-# La cognizione del dolore
-all'inizio del 37 inizia a scrivere la cognizione del dolore.
-
-Gadda è un borghese e non ama la campagna
-
-i Maiali (contadini) e il gorgonozola sono amati e odiati da Gadda.
-
-descrive Mussolini in maniera dispregiativa e l'Italia come sottomessa sessualmente alla virilità di Mussolini.
-
-Gadda a 57 anni viene assunto alla Rai
 
 ## Quer pasticciaccio brutto de via merulana
 La stesura del pasticciaccio dura molti anni e si ispira ad un fatto di cronaca.
@@ -89,3 +79,31 @@ L'ekfrasis interpreta erroneamente il quadro dicendo che il personaggio sia un d
 L'immagine ritratta è in realtà Zeusi che per ritrarre la bellezza utilizza una **docta varietas**: utilizza più modelle prendendo le parti migliori di ognuna.
 
 La docta varietas di Gadda passa attraverso il fraintendimento.
+
+==============
+Appunti resolo
+==============
+
+GADDA
+Pubblica la cognizione del dolore a puntate
+Si trasferisce a Firenze, frequenta poeti
+
+Tutto Gadda può essere trovato in un brano del suo diario di guerra, scritto a 23 anni.
+
+Giancarlo Roscioni scrive che Gadda gode fama di scrittore dalle inesauribili risorse espressive.
+
+LA FILOSOFIA
+
+Il novecento guarda il mondo precipitando, l'800 da un balcone.
+
+1937, inizia a scrivere la cognizione del dolore. 
+
+QUER PASTICCIACCIO BRUTTO DE VIA MERULANA
+
+Continua a lavorare al pasticciaccio. In ogni Giallo c'è una matassa che va sbrogliato.
+Don Ciccio Ingravati, poliziotto filosofo. Ha il compito di mettere ordine nel disordine.
+Si svolge a Roma durante il fascismo, si deve indagare sull'omicidio di una donna e su un furto di gioielli.
+Gadda Milanese/Fiorentino si immerge nel dopoguerra romanesco. 
+
+Gadda non finisce il Pasticciaccio. Il romanzo poliziesco è consolatorio. Gadda ha tentato di misurare la realtà e si arreso al caos dell'uomo.
+1963 la cognizione del dolore, vince un premio che gli dà una risonanza internazionale
