@@ -1,4 +1,16 @@
 # Vita
+Gadda nasce a Milano nel 1893, studia **ingegneria** all'università.
+
+==Nel 1915 partecipa da volontario alla Grande Guerra==, in questo periodo scrive un diario di guerra.
+A Caporetto viene fatto prigioniero e quando torna a casa a guerra finita scopre che il fratello è morto, questo fu per lui un trauma fortissimo che alterò il suo rapporto con la patria e il patriottismo.
+
+Per un periodo si trasferisce in Argentina, dove lavora come ingegnere.
+
+Nel Giugno 1926 pubblica i suoi primi 4 racconti, in uno di questi, _**La morte di Puk**_, tratta il tema della morte attraverso la morte di un cane che rappresenta tutte le morti.
+
+Nel 1938 inizia a pubblicare a puntate _**La Cognizione del Dolore**_
+
+# Vita
 nasce a milano nel 1893
 
 nel 1912 si iscrive ad Ingegneria
@@ -7,7 +19,6 @@ nel 1917 viene fatto prigioniero a Caporetto
 
 Si trasferisce in Argentina
 
-nel 1938 inizia a pubblicare a puntate la cognizione del Dolore
 
 inizia a scrive il pasticciaccio
 
@@ -28,7 +39,7 @@ Il fratello viene ripreso più volte in La cognizione del Dolore
 
 Gadda fugge dalla madre con la quale ha continue incomprensioni.
 
-Pubblica i suoi primi 4 racconti su Solaria. In uno di questi (la morte di Puk) tratta il tema della morte, attraverso la morte di un cane che rappresenta tutte le morti.
+Pubblica i suoi primi 4 racconti su Solaria. 
 
 Gadda è sia scrittore che filosofo. Dal punto di vista filosofico si avvicina a Wittgestein, non arriva mai ad un sistema, sono meditazioni, la fonte primaria della sua filosofia è se stesso.
 
@@ -71,3 +82,10 @@ Nel momento del successo di Gadda, lui inizia ad avere manie di persecuzione e s
 
 gadda vuole comunicare stando dentro questa poltiglia della lingua. Gadda scrive in una lingua barocca mai sentita
 
+### Capitol 6
+ekfrasis --> descrizione di opere d'arte. In relazione al *visibile parlare* della cornici intarsiate del purgatorio
+
+L'ekfrasis interpreta erroneamente il quadro dicendo che il personaggio sia un dottore, mentre è un pittore.
+L'immagine ritratta è in realtà Zeusi che per ritrarre la bellezza utilizza una **docta varietas**: utilizza più modelle prendendo le parti migliori di ognuna.
+
+La docta varietas di Gadda passa attraverso il fraintendimento.

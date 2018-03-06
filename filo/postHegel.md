@@ -66,3 +66,18 @@ La base tecnologica produttiva è detta **struttura**.
 La cultura, il diritto, la religione invece sono la **sovrastruttura**
 
 In futuro si arriverà naturalmente al socialismo.
+
+Weber al contratio di Marx ritiene che la religione determini il comportamento delle persone e quindi i metodi di produzione
+
+Il passaggio da un modo di produzione all'altro avviene con una rivoluzione.
+Marx parla di un rovesciamento dialettico da capitalismo a socialismo, che avverrà nel momento di completa maturazione del capitalismo.
+Anche per Marx la storia segue una logica.
+
+Il **profitto** è la differenza tra capitale investito e guadagno.
+Il **saggio di profitto** indica il rapporto tra guadagni e investimenti.
+
+La classe dominante è in grado di imporre dei salari inferiori al valore effettivo del lavoro, la differenza tra il lavoro effettivo e il lavoro pagato è il **Plus Lavoro**.
+
+Il plus lavoro viene incamerato dal capitalista, nonostante sia prodotto dal lavoratore.
+
+David Ricardo idea la **legge plumbea dei salari**: i salari tendono asintoticamente a raggiungere il livello più basso possibile.
