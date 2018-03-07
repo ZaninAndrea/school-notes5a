@@ -30,4 +30,34 @@ Esempi di inibitori enzimatici sono molti farmaci.
 
 Quando il prodotto della reazione è un inibitore si ha **inibizione a feedback**, in questo modo la produzione si adatta dinamicamente alla concentrazione del prodotto.
 
-Nella **regolazione enzimatica** degli enzimi lavorano sull'attività di altri enzimi modificandoli, ad esempio aggiungendo un gruppo fosfato necessario all'attività dell'enzima modificato.
+Nella **regolazione enzimatica** degli enzimi lavorano sull'attività di altri enzimi modificandoli, ad esempio aggiungendo un gruppo fosfato necessario all'attività dell'enzima modificato (fosforilazione).
+
+Un esempio importante sono il tripsinogeno e il chimotripsinogeno prodotti inattivi dal pancreas e scissi per dare la forma attiva. In questo modo controllando la scissione controlliamo l'attività enzimatica.
+
+La regolazione della produzione di enzimi avviene con una struttura simile all'**operone**.
+
+Anche **pH e temperatura** influenzano l'attività di un enzima, e.g. la pepsina è particolarmente attiva in ambiente acido.
+
+# Vie metaboliche
+==Le vie metaboliche sono sequenze di reazioni catalizzate da enzimi.==
+
+I vantaggi di dividere l'elaborazione di un prodotto in varie tappe permette di riutilizzare parti in comune di più vie metaboliche e una migliore gestione dell'energia (e.g. dissipazione del calore).
+
+Le vie metaboliche sono **compartimentalizzate**: le reazioni metabolica sono isolate in alcune zone della cellula in modo da non interferire tra loro.
+
+Una via metabolica si dice **catabolica** se demolisce composti complessi in composti semplici. Queste reazioni liberano energia.
+Una via metabolica è invece **anabolica** se produce composti complessi da composti semplici. Queste reazioni assorbono energia.
+Se le vie metabolica vanno in doppio senso si dicono **anfiboliche**
+
+Le vie metaboliche possono essere **convergenti** (se vie diverse producono le stesse molecole), **divergenti** (se vie diverse parto dagli stessi prodotti), **cicliche** (se partono dalla e arrivano alla stessa sostanza).
+
+Un importante prodotto di convergenza e divergenza è l'**Acetil coenzima A**, un tioestere prodotto dalla condensazione di un tiolo (molecola con il gruppo -SH), il coenzima A, e l'acido acetico.
+
+## Catabolismo e anabolismo
+Il catabolismo è generalmente ossidativo, mentre l'anabolismo è riducente.
+
+==Vie cataboliche e anaboliche sono connesse attraverso ATP e simili== che acquistano elettroni nelle reazioni cataboliche e li cedono in quelle anaboliche.
+
+## Ossidazione
+Le reazioni di ossidazione producono energia perché ==gli elettroni passano da gusci esterni a gusci interni==, l'accettore finale è infatti l'ossigeno, che cattura elettroni a bassissimo livello energetico.
+

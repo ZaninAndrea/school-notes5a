@@ -6,7 +6,17 @@ draft: false
 ---
 
 # Paradiso III Canto
+## Riassunto
+Dante vede degli spiriti evanescenti e ==crede siano un riflesso== quindi si gira, ma non era un riflesso quindi torna a guardare gli spiriti (errore opposto a Narciso).
 
+La prima a parlare è **Piccarda**, che spiega come loro siano nel Cielo più basso del Paradiso perché sono state costrette ad infrangere un voto.
+Aggiunge inoltre che ==non desiderano una condizione migliore,== perché la carità divina glielo impedisce.
+
+Piccarda era una monaca, ma fu rapita e costretta a violare i suoi voti, rimase però fedele a questi nello spirito.
+
+Infine Piccarda introduce **Costanza d'Altavilla**.
+
+## Analisi approfondita
 http://divinacommedia.weebly.com/paradiso-canto-iii.html
 
 > Quel sol che pria d’amor mi scaldò ’l petto,		
