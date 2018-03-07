@@ -37,3 +37,40 @@ I carriarmati sono diventati molto più efficienti.
 I francesi fuggendo dai tedeschi si raggruppano a Dunkirk, i tedeschi non approfittano della situazione per sterminarli, probabilmente sperando di stringere un patto con l'Inghilterra.
 
 Il 14 Giugno i Tedesci entrano a parigi
+
+L'Italia era troppo male per partecipare ad una guerra, ma partecipa comunque: inizialmente si definisce non belligerante, poi dice di "aver bisogno di alcune migliaia di morti da far pesare al tevolo delle trattative", quindi entra in guerra.
+Questa guerra non è coordinata con la Germania, bensì in parallelo.
+
+Le operazioni militari italiane sulle alpi vanno male fin da subito, nell'ottobre del 1940 apre un ulteriore fronte sui balcani "spezzeremo le reni alla Grecia".
+Invece i greci resistono senza scontri in campo aperto.
+
+Gli inglesi occupano salonicco.
+
+La Francia armistizia nel 22 Giugno 1940.
+Hitler vuole che l'armistizio sia firmato nello stesso luogo in cui la Germania firmò l'armistizio nel 1918.
+L'armistizio viene firmato da Philippe Petain, la parte Nord diventa tedesca e la parte Sud diventa uno stato il cui governo filonazista ha sede ha Vichy.
+
+Charles de Gaulle parla ai francesi dall'esilio tramite Radio Londra.
+
+Churchill inizialmente voleva contrattare con HItler, ma cambia idea e decide di fronteggiarlo, si ritrova quindi ad avere una guerra marittima.
+
+Londra viene bombardata per 57 notti consecuitive.
+La Royal Air Force prevale nei cieli.
+
+Churchill nel discorso d'insediamento disse "non ho nulla da offrire se non sangue, fatica, lacrime e sudore".
+
+Hitler pianificò anche l'invasione dell'Inghilterra.
+
+La Germania viene in aiuto dell'Italia e invade la Jugoslavia e conquista tutti i Balcani in un mese.
+
+La flotta francese venne affondata subito dopo l'armistizio dagli inglesi.
+
+Gli Italiani combattono bene sui mari.
+
+Anche in Somalia gli italiani perdono dagli inglesi.
+
+L'Italia vince in Etiopia e viene instaurato il Nebu.
+
+Arrivano gli Africa corps e Rommel fu il generale più famoso, il cui celebre avversario fu Montgomery.
+
+L'operazione Barbarossa mira a conquistare Leningrado, Mosca, Stalingrado e riesce con successo.
