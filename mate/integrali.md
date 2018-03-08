@@ -226,6 +226,9 @@ F&=\int f \: dx \\
 \end{aligned}
 $$
 
+Per usare il cambio di variabile negli integrali definiti devo sostituire anche gli estremi dell'integrale.
+
+
 ## Calcolo dei volumi
 ### Volumi di solidi di rotazione
 Possiamo calcolare il volume ottenuto dalla rotazione di un'area.
@@ -321,3 +324,17 @@ $$
 $$
 \int_a^{+\infty}f(x)\: dx = \lim_{z\to +\infty}\int_a^z f(x) \: dx
 $$
+
+## Integrali particolari
+### Funzione gaussiana
+$$
+\int_{-\infty}^{+\infty}e^{-x^2}dx=\sqrt{\pi}
+$$
+
+x di grado dispari
+
+$$
+\int x \cdot e^{-x^2}dx=-\frac{1}{2}e^{-x^2}+c
+$$
+
+x di grado pari si usa per parti e si sfrutta l'integrale noto
