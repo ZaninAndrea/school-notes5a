@@ -107,3 +107,18 @@ Gadda Milanese/Fiorentino si immerge nel dopoguerra romanesco.
 
 Gadda non finisce il Pasticciaccio. Il romanzo poliziesco è consolatorio. Gadda ha tentato di misurare la realtà e si arreso al caos dell'uomo.
 1963 la cognizione del dolore, vince un premio che gli dà una risonanza internazionale
+
+
+Appunti non sistemati
+=====================
+
+## Capitolo 1
+
+## Capitolo 6 - Garbuglio telefonico
+La telefonata viene riferita come un garbuglio di telefonate che si sovrappongono, inoltre ==la narrazione entra nella telefonata senza soluzione di continuità==.
+
+Fa un **riferimento all'Eneide** con il personaggio di Enea Retalli, figlio di Anchise e Venere Procacci.
+
+Il testo in questo brano naufraga: si sovrappongono le informazioni relative all'indagine, alla spedizione di parmigiano e all'operazione dell'ammiraglio.
+
+Questo testo riflette l'essenza del pasticciaccio: il mondo è un enorme guazzabuglio, che passa attraverso il plurilinguismo, il miscuglio di fonti e il fraintendimento.

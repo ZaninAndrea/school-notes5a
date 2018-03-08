@@ -377,3 +377,28 @@ iterum $\ne$ iter
 deficere extingui dittologia sinonimica
 templum come al solito
 haec ci mostra il punto di vista (altrimenti avrebbe usato ille)
+
+
+> Quocirca si reditum in hunc locum desperaveris, in quo omnia sunt magnis et praestantibus viris, quanti tandem est ista hominum gloria, quae pertinere vix ad unius anni partem exiguam potest?
+
+Se dispererai del ritorno in quel luogo [si reditum in hunc locum desperaveris], nel quale ci sono tutte le cose [in quo omina sunt] per gli uomini grandi e valenti [magnis et praestantibus viris], dunque [tandem] che valore può avere [quanti est] codesta (tua) gloria degli uomini [ista hominum gloria], la quale può riguardare [quae pertinere potest] a stento [vix] una parte esigua di un singolo anno [ad unius anni partem]. 
+
+Si intende che questo è il luogo al quale tutti vogliono arrivare, è il luogo in cui ci sono tutte le speranze
+
+quanti: aggettivo di stima
+
+c'è una volontà di distaccarsi dalla gloria terrena
+
+> Igitur, alte spectare si voles atque hanc sedem et aeternam domum contueri, neque te sermonibus vulgi dederis nec in praemiis humanis spem posueris rerum tuarum!
+
+Allora [igitur], se vorrai guardare in alto [si voles spectare alte] e anche contemplare questa sede ed eterna dimora [atque contueri hanc sedem et aeternam domum], non dedicarti alle parole del volgo [neque te dederis sermonibus vulgi] e non porre la speranza delle tue imprese [nec posueris tuarum rerum] nelle ricompense terrene [in preamiis humanis].
+
+endiadi: *hanc sedem et aeternam domum*
+hanc: punto di vista
+ne + congiuntivo esortativo: tradurre con imperativo negativo
+
+> Suis te oportet illecebris ipsa virtus trahat ad verum decus; quid de te alii loquantur, ipsi videant! Sed loquentur tamen;
+
+Occorre [oportet] che la virtù stessa trascini [ipsa virtus trahat] con le sue lusinghe [suis illecebris] verso il vero decoro [ad verum decus]; che cosa dicano gli altri su di te [quid de te alii loquantur], loro lo vedano [ipsi videant]! Ma ne parleanno comunque [sed loquentur tamen]
+
+*ipsi videant* si può tradurre liberamente lascia che parlino
