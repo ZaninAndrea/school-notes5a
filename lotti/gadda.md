@@ -122,3 +122,15 @@ Fa un **riferimento all'Eneide** con il personaggio di Enea Retalli, figlio di A
 Il testo in questo brano naufraga: si sovrappongono le informazioni relative all'indagine, alla spedizione di parmigiano e all'operazione dell'ammiraglio.
 
 Questo testo riflette l'essenza del pasticciaccio: il mondo è un enorme guazzabuglio, che passa attraverso il plurilinguismo, il miscuglio di fonti e il fraintendimento.
+
+## Capitolo 5 - Il pediatra
+Virginia sente dire che ci sia un **pediatra** nel palazzo, però la parola viene storpiata in _**piedatra**_, quindi lei lo associa a don Lorenzo, che aveva piedi grandi.
+
+| Focus | Descrizione |
+| ----- | ----------- |
+| garbuglio linguistico | la storpiatura della parola pediatra porta ad un fraintendimento |
+
+Questo passo mostra un chiaro esempio di caos, in quanto il fraintedimento è centrale allo svolgimento della storia e perché vengono fornite informazioni superflue 
+
+## Capitolo 8 - I due santi. Gli alluci e la luce
+
