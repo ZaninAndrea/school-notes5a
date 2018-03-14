@@ -141,3 +141,13 @@ Il brigadiere Pestalozzi ha un guasto al motore della moto e nota un affresco di
 | luce | La luce assieme agli alluci è un elemento essenziale dell'arte. Accoppia un elemento artisticamente rilevante ad uno che non lo è: *«Fiat lux!» E gli alluci furono* | 
 
 Un'analisi satirica e fuorviante della storia dell'arte si unisce a tratti di analisi accurata, non si riesce più a distinguere il vero dal falso, è quindi un esempi di Caos.
+
+## Capitolo 9 - I gioielli
+Trovano una borsa, dopo aver ipotizzato il contenuto, "*nocciuole, forse? o un gruzzolo di bottoni? o un rosario?*", lo aprono e vi trovano molti gioelli, che vengono descritti con minuzia in particolare per quanto concerne il colore e la forma.
+
+| Focus | Descrizione |
+| ----- | ----------- |
+| fraintendimento | I gioeilli nel sacchetto vengono fraintesi per nocciole, bottoni o un rosario |
+| forme e colori | i gioeilli hanno forme spigolose o sinuose: *serpere o il poligonare degli ori* e vari colori: *o verde splendido o rosso splendido, o azzurro notte* | 
+
+Gadda contrappone il caos del fraintendimento e della lingua al cosmo dell'accurata descrizione e della natura geometrica e mineralogica della descrizione.
