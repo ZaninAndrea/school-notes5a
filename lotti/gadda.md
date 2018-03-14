@@ -133,4 +133,11 @@ Virginia sente dire che ci sia un **pediatra** nel palazzo, però la parola vien
 Questo passo mostra un chiaro esempio di caos, in quanto il fraintedimento è centrale allo svolgimento della storia e perché vengono fornite informazioni superflue 
 
 ## Capitolo 8 - I due santi. Gli alluci e la luce
+Il brigadiere Pestalozzi ha un guasto al motore della moto e nota un affresco di Due Santi. Inizia una descrizione che poi si concentra sugli **alluci** e sfocia in una digressione sugli alluci nella storia dell'arte e sull'**importanza della luce**.
 
+| Focus | Descrizione |
+| ----- | ----------- |
+| alluci | è un'analisi satirica della storia dell'arte raffigurativa dei santi. *Essi ebbero anche  nei piedi, lo strumento fisico del loro itinerante apostolato* |
+| luce | La luce assieme agli alluci è un elemento essenziale dell'arte. Accoppia un elemento artisticamente rilevante ad uno che non lo è: *«Fiat lux!» E gli alluci furono* | 
+
+Un'analisi satirica e fuorviante della storia dell'arte si unisce a tratti di analisi accurata, non si riesce più a distinguere il vero dal falso, è quindi un esempi di Caos.
