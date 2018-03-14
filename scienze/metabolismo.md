@@ -61,3 +61,49 @@ Il catabolismo è generalmente ossidativo, mentre l'anabolismo è riducente.
 ## Ossidazione
 Le reazioni di ossidazione producono energia perché ==gli elettroni passano da gusci esterni a gusci interni==, l'accettore finale è infatti l'ossigeno, che cattura elettroni a bassissimo livello energetico.
 
+## Composti a elevata energia libera di idrolisi
+La creatina può diventare fosfocreatina "consumando" un'ATP in ADP. 
+
+Nel momento dello sforzo la fosfocreatina rilascia il gruppo fosfato rigenerando ATP.
+
+È preferibile all'ATP perché più facile da immagazzinare.
+
+# Metabolismo dei carboidrati
+La sostanza chiave per il metabolismo dei carboidrati è il **glucosio**, che possiamo ottenere per alimentazione o per glicogenolisi.
+
+Il glucosio può subire glicolisi e diventare **acido piruvico**, che poi può subire meetabolisom terminale (sviluppando completamente la sua energia: 30 ATP) o fermentazione (meccanismo di emergenza in assenza di ossigeno: 2 ATP).
+
+## Glicolisi
+Via anaerobica, che avviene nel citoplasma, produce 2 molecole di acido piruvico da una di glucosio.
+
+Reazione:
+
+$$
+C_6H_{12}O_6+2ADP+2P_i+2NAD \rightarrow 2C_3H_4O_3 + 2ATP + 2NADH + 2H^+
+$$
+
+La glicolisi in realtà è fatta di 10 reazioni intermedie, la produzione inizia con una spesa di 2 ATP per rendere le molecole più reattive.
+Queste molecole poi produrranno 4 ATP.
+Si producono anche dei $NADH$, che poi potranno diventare ATP.
+
+Gli enzimi metabolici sono spesso in forma fosforilata.
+
+### Fase di preparazione
+Un gruppo fosfato si lega al carbonio 6, l'enzima che lavora in questa reazione è l'**esochinasi**.
+
+Per renderla ancora più reattiva la molecole viene prima trasformata in fruttosio 6-fosfato dalla **fosfoesoso isomerasi**.
+
+Il fruttosio 6-fosfato potrebbe prendere altre vie metaboliche, per questo viene aggiunto un secondo gruppo fosfato che lo obbliga a procedere nella glicolisi. L'enzima che aggiunge il secondo fosfato è la **fosfofruttochinasi** .
+Questo enzima viene inibito da ATP e citrato, mentre è attivato da AMP e ADP, in questo modo il ciclo è regolato in base alla necessità di energia.
+
+La molecola del fruttosio 1,6-bifosfato si rompe per le forti repulsioni interne e otteniamo diidrossiacetone fosfato e gliceraldeide 3-fosfato, il diidrossiacetone fosfato viene subito convertito in gliceraldeide 3-fosfato per isomeria.
+
+### Fase di rendimento
+Il carbonio del gruppo aldeidico si ossia da +1 a +3. Il $NAD^+$ si riduce diventando $NADH+H^+$. Il carbonio lega un ossigenoo legato ad un gruppo fosfato.
+
+Il fosfato che è stato precedentemente agganciato allo zucchero viene trasferito ad un ADP producendo un ADP.
+Questo processo è detto **fosforilazione a livello del substrato**, ossia il gruppo fosfato passa direttamente da ADP a ATP.
+
+L'ultimo gruppo fosfato è difficile da estrarre in quella forma, la molecola viene quindi resa più instabile spostando il gruppo fosfato dal carbonio 3 al 2. Poi l'enolasi fa rilasciare acqua e infine il gruppo fosfato viene ceduto ad una ADP producendo una ATP.
+
+Il prodotto finale è il piruvato.
