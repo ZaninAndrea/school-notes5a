@@ -71,3 +71,26 @@ y&=e^{-\ln{x}}\bigg[\int x e^{\ln{x}}dx+c \bigg]\\
 \end{aligned}
 $$
 
+## Secondo ordine
+$$
+ay'' + by' + cy = f(x)
+$$
+
+Il primo passaggio sarà risolvere l'equazione caratteristica:
+$$
+ay'' + by' + cy = 0
+$$
+
+I vari casi dipendono da $a,b,c$:
+- $\Delta \gt 0$: 2 soluzioni distinte $r_1,r_2$ e la soluzione dell'equazione caratteristica è:
+$$
+y=c_1 e^{r_1 x} + c_2 e^{r_2 x} 
+$$
+- $\Delta = 0$: 2 soluzioni coincidenti $r$, la soluzione dell'equazione caratteristica è:
+$$
+y=e^{rx}(c_1+c_2)
+$$
+- $\Delta \lt 0$: 2 soluzioni complesse $\alpha \pm i\beta$
+$$
+y=e^{\alpha x}(c_1 \cos{\beta x} + c_2 \sin{\beta x})
+$$
