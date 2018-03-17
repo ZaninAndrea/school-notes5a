@@ -74,3 +74,39 @@ L'Italia vince in Etiopia e viene instaurato il Nebu.
 Arrivano gli Africa corps e Rommel fu il generale più famoso, il cui celebre avversario fu Montgomery.
 
 L'operazione Barbarossa mira a conquistare Leningrado, Mosca, Stalingrado e riesce con successo.
+
+Nel Luglio del 1943 gli alleati sbarcano in Sicilia.
+
+Mussolini viene dimissionato il 25 Luglio 1943.
+
+A sud si forma il Regno del Sud, controllato almeno formalmente dal Re d'Italia.
+A Nord si forma la repubblica di Salò 
+
+Al Sud riprendono vita i partiti antifascisti che formano il comitato di liberazione nazionale
+
+Quando l'Italia smette di combattere i soldati:
+- tornano a casa
+- vengono imprigionati dai tedeschi
+- vengono uccisi nei vari eccidi come l'eccidio di Cefalonia (6000 morti complessivi)
+
+L'eccidio di Cefalonia è generalmente considerato l'iniziodella resistenza, anche perché pare che la resistenza di Cefalonia sia stata decisa democraticamente.
+
+I soldati che scelgono di non combattere sono detti badogliani
+
+Inoltre c'è l'Alpenvorland in cui hanno il controllo le SS non la repubblica di Salò.
+
+Poi abbiamo le Brigate Garibaldi che afferiscono al partito comunista.
+
+Partito d'azione
+
+Molti Italiani diventano partigiani, ma sono impreparati ad essa.
+
+Vengono organizzate riunioni plenarie, il che rende più facile sventare l'intera organizzazione con un unico traditore o catturato.
+Quindi abbiamo i martiri del 28 Giugno, in molti vengono uccisi a casa loro.
+
+Il partito comunista guidato da Palmiro Togliatti, detto il Migliore, da luogo alla svolta  di Salerno: convince il PC e le altre forze politiche a collaborare con il re e il governo.
+Togliatti era in contatto con Mosca, quindi è possibile che abbia ricevuto direttive precise dal partito russo.
+
+A Marzo viene organizzato uno sciopero generale in tutto il Nord Italia, che però è difficile interpretare dal punto di vista politico.
+
+La guerra partigiana fu effettivamente efficacie nel liberare il Nord, il contributo della resistenza fu essenziale alla vittoria americana.

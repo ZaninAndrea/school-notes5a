@@ -41,3 +41,7 @@ I=\frac{1}{2}I_0
 $$
 
 Il polarizzatore ha un asse di trasmissione
+
+
+# Modelli atomici
+## Modello di Rutherford
