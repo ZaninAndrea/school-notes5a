@@ -107,3 +107,16 @@ Questo processo è detto **fosforilazione a livello del substrato**, ossia il gr
 L'ultimo gruppo fosfato è difficile da estrarre in quella forma, la molecola viene quindi resa più instabile spostando il gruppo fosfato dal carbonio 3 al 2. Poi l'enolasi fa rilasciare acqua e infine il gruppo fosfato viene ceduto ad una ADP producendo una ATP.
 
 Il prodotto finale è il piruvato.
+
+## Fermentazione lattica
+Nel caso di **condizioni anaerobe** avviene la fermentazione lattica, che non ha lo scopo di produrre energia, bensì produrre il **NAD+** necessario alla glicolisi.
+
+Produce **lattato**, che in condizioni aerobe viene revertito a piruvato.
+
+## Fermentazione alcolica
+La fermentazione alcolica ha una fase intermedia in cui il piruvato viene trasformato in acetaldeide liberando $CO_2$.
+
+Successivamente viene prodotto l'**etanolo**.
+
+# Il metabolismo terminale
+Ricordiamo l'**ipotesi endosimbiontica** riguardante i mitocondri.
