@@ -120,3 +120,38 @@ Successivamente viene prodotto l'**etanolo**.
 
 # Il metabolismo terminale
 Ricordiamo l'**ipotesi endosimbiontica** riguardante i mitocondri.
+I mitocondri hanno 2 membrane di rivestimento, una esterna ed una interna ripiegata per aumentare la superficie.
+
+L'acido piruvico si trova quasi sempre in forma ionizzata, motivo per cui lo chiamiamo piruvato.
+
+## Decarbossilazione in condizioni aerobe
+Il piruvato entra nel mitocondrio per **trasporto attivo** e si lega al CoA formando **Acetil-CoA** e nel farlo si ossida quindi trasforma un $NAD^+$ in $NADH+H^+$.
+
+L'Acetil-CoA entra nel ciclo di Krebs, ricordiamo che l'Acetil-CoA poteva derivare anche da lipidi e amminoacidi, non solo carboidrati.
+
+## Ciclo di Krebs
+Otteniamo il citrato (6 atomi di carbonio) tramite condensazione dell'acetil-CoA con l'**ossalacetato** (4 atomi di carbonio).
+
+Il citrato viene ossidato 4 volte in più tappe, dando 3 NAD e un FAD e una fosforilazione che produce un ATP.
+
+Il citrato (che ha un gruppo alcolico terziario) viene trasformato in alcol secondario in modo da potersi ossidare.
+
+Fino a questo punto l'ossigeno non è stato utilizzato e la resa in $ATP$ è molto bassa.
+
+Il ciclo di Krebs è regolato tramite inibizione a feedback.
+
+## Trasporto degli elettroni
+Nella membrana mitocondriale ci sono dei **trasportatori di elettroni** formati da proteine e coenzimi e collocati in sequenze specifiche.
+
+Nel complesso 1 il NADH si ossida e cede gli elettroni al trasportatore, questi vengono ceduti al complesso 2 e nel trasferimento ==si abbassa il loro livello di energia==.
+L'energia che si libera viene usata per spostare protoni nella camera interna tra 2 membrane.
+Questo ciclo si ripete nei passaggi tra il complesso 2-3-4.
+
+Il FADH subisce lo stesso processo ma inizia con un livello energetico più basso, ha quindi una resa minore.
+
+Questi elettroni a bassa energia vengono catturati dall'ossigeno, grazie alla sua grande elettronegatività.
+La **riduzione dell'ossigeno** origina molecole di acqua.
+
+## Produzione di ATP
+Il **gradiente elttrochimico** formato dall'accumulo di protoni li fa fluire attraverso l'ATP sintasi e nel farlo forniscono all'**ATP sintasi** l'energia per caricare l'ADP di un gruppo fosfato producendo ATP.
+
