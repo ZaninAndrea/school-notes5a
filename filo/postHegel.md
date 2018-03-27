@@ -48,7 +48,7 @@ L'estraneazione dell'uomo dal lavoro avviene nell'atto stesso della produzione e
 
 Il lavoro non è quindi il soddisfacimento di un bisogno, ma solo un mezzo per soddisfare bisogni estranei.
 
-Se le condizioni di lavoro sono alienanti l'essere umano si sente animali lavorando (la più umana delle attività) e si sente umano nel mangiare, bere, procreare (attività più animali).
+Se le condizioni di lavoro sono alienanti l'essere umano si sente animale lavorando (la più umana delle attività) e si sente umano nel mangiare, bere, procreare (attività più animali).
 
 Quando si lavora in condizioni alienate i rapporti stessi tra i lavoratori sono alienati: il compagno di lavoro diventa un potenziale rivale.
 
@@ -81,3 +81,5 @@ La classe dominante è in grado di imporre dei salari inferiori al valore effett
 Il plus lavoro viene incamerato dal capitalista, nonostante sia prodotto dal lavoratore.
 
 David Ricardo idea la **legge plumbea dei salari**: i salari tendono asintoticamente a raggiungere il livello più basso possibile.
+
+Socialismo utopistico e scientificoç il socialismo utopistico 

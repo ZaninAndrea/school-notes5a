@@ -402,3 +402,34 @@ ne + congiuntivo esortativo: tradurre con imperativo negativo
 Occorre [oportet] che la virtù stessa trascini [ipsa virtus trahat] con le sue lusinghe [suis illecebris] verso il vero decoro [ad verum decus]; che cosa dicano gli altri su di te [quid de te alii loquantur], loro lo vedano [ipsi videant]! Ma ne parleanno comunque [sed loquentur tamen]
 
 *ipsi videant* si può tradurre liberamente lascia che parlino
+
+## Capitolo 19
+> Principio autem nulla est origo; nam ex principio oriuntur omnia, ipsum autem nulla ex re alia nasci potest; nec enim esset id principium, quod gigneretur aliunde. Quodsi numquam oritur, ne occidit quidem umquam. 
+
+Per il principio dunque non c'è nessuna origine.
+
+origo --> nominativo
+
+Infatti tutte le cose [nam omnia] hanno origine [oriuntur] da un principio [ex principio], ma esso stesso [autem ipsum] non può nascere da nessuna altra cosa [nasci potest ex nulla alia re], infatti non sarebbe un principio [nec enim esset principium] ciò che [id quod] venisse generato [gigneretur] dall'esterno [aliunde]; che se non nasce mai, nemmeno mai muore.
+
+>  Id autem nec nasci potest nec mori; vel concidat omne caelum omnisque natura et consistat necesse est nec vim ullam nanciscatur, qua a primo impulsa moveatur.
+
+Infatti il principio estinto (una volta estinto) né esso stesso rinascerà da un altro, né creerà da sé un'altra cosa, se è vero che è necessario che tutte le cose nascano da un principio.
+
+Ne consegue che il principio del moto sia da quello che si muove da sé.
+
+> vel concidat omne caelum omnisque natura et consistat necesse est nec vim ullam nanciscatur, qua a primo impulsa moveatur.
+
+Questo d'altra parte non può né nascere ne morire, altrimenti è necessario che tutto il cielo e tutta la natura crolli e si fermi e non trovino alcuna forza dalla quale inizialmente [a primo] si è mossa una volta spinta [impulsa].
+
+Di nuovo necesse *est + congiuntivo* invece che *+ ut congiuntivo* o *+ infinito*.
+I verbi sono tutti riferiti all'ultimo elemento: la terra.
+
+## Capitolo 20
+> Cum pateat igitur aeternum id esse, quod a se ipso moveatur, quis est, qui hanc naturam animis esse tributam neget?
+
+Dunque poiché è evidente che è eterno ciò che si muove da sé stesso, chi è, che negherebbe che questa natura sia attribuita agli animi
+
+> Inanimum est enim omne, quod pulsu agitatur externo; quod autem est animal, id motu cietur interno et suo; nam haec est propria natura animi atque vis.
+
+Infatti è inanimato tutto ciò che viene agitato dall'esterno,

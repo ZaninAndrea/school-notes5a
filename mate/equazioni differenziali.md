@@ -81,6 +81,11 @@ $$
 ay'' + by' + cy = 0
 $$
 
+Partiamo risolvendo l'equazione associata:
+$$
+at^2 +bt +c=0
+$$
+
 I vari casi dipendono da $a,b,c$:
 - $\Delta \gt 0$: 2 soluzioni distinte $r_1,r_2$ e la soluzione dell'equazione caratteristica è:
 $$
@@ -88,9 +93,17 @@ y=c_1 e^{r_1 x} + c_2 e^{r_2 x}
 $$
 - $\Delta = 0$: 2 soluzioni coincidenti $r$, la soluzione dell'equazione caratteristica è:
 $$
-y=e^{rx}(c_1+c_2)
+y=e^{rx}(c_1+c_2 x)
 $$
 - $\Delta \lt 0$: 2 soluzioni complesse $\alpha \pm i\beta$
 $$
 y=e^{\alpha x}(c_1 \cos{\beta x} + c_2 \sin{\beta x})
 $$
+
+### Caso particolare polinomiale
+Se $f(x)$ è un polinomio di grado $n$ allora la soluzione particolare $y=g(x)$ sarà:
+- $g(x)=P_n(x)$ se 0 non è soluzione dell'equazione caratteristica associata.
+- $g(x)=x\cdot P_n(x)$ se 0 è soluzione dell'equazione caratteristica associata con molteplicità 1
+- $g(x)=x^2\cdot P_n(x)$ se 0 è soluzione con molteplicità 2
+
+La soluzione dell'equazione differenziale è la somma di soluzione caratteristica e soluzione particolare.
