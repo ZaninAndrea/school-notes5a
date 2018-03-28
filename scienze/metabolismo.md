@@ -191,4 +191,30 @@ $$
 L'ossigeno prodotto viene espulso come scarto, la $CO_2$ invece entra attraverso lo **stoma** e trova la superficie delle cellule idratata, quindi la $CO_2$ reagendo con l'acqua e produce $H_2CO_3$, solubile in acqua e successivamente entra nelle cellule sotto forma di $HCO_3^-$.
 
 Una parte dell'acqua presenta all'interno della cellula evapora e fuorisce dagli stomi.
-In inverno le foglie vengono perseper evitare la fuoriuscita di acqua.
+In inverno le foglie vengono perse per evitare la fuoriuscita di acqua.
+
+I cloroplasti sono composti daç
+- tilacoidi, hanno una struttura a doppia membrana
+- stoma, simile alla matrice dei mitocondri
+
+Anche i cloroplasti hanno origine endosimbiontica.
+
+L'energia solare della frazione visibile dello spettro viene catturata sotto forma di salto di guscio degli elettroni.
+
+Esistono vari tipi di clorofilla, i principali sono a e b.
+
+La fotosintesi si divide in fase luminosa e fase indipendente dalla luce.
+
+## Fase luminosa
+Il fotosistema I e II sono composti da pigmenti e varie molecole reattive di clorofilla ($P_{680}$ e $P_{700}$, in base al picco di assorbimento).
+
+I pigmenti ricevono energia dal sole e la trasferiscono tra loro, finchè non raggiunge le molecole di clorofilla, che ricevendo questa energia **si ossidano** cedendo una coppia di elettroni all'accettore primario.
+
+La clorifilla si riduce nuovamente grazie all'ossidazione dell'acqua.
+
+Dall'accettore primario gli elettroni iniziano ad essere trasferiti perdendendo energia, che viene utilizzata per ==creare un gradiente di protoni== (come nel metabolismo degli zuccheri).
+
+Il fotosistema I funziona come il II, ma la fonte di elettroni è la catena di trasporto non l'ossidazione dell'acqua.
+
+Dal fotosistema I parte una corta catena di trasporto degli elettroni, che ha lo scopo di ridurre il NADP, che poi permetterà la riduzione della $CO_2$ in $C_6H_{12}O_6$
+
