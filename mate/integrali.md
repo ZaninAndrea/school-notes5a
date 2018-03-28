@@ -177,6 +177,45 @@ $$
 t=\tg{\frac{x}{2}}
 $$
 
+
+**Caso strano**
+$$
+\int \Big(\frac{1}{1+x^2}\Big)^2\: dx
+$$
+
+Uso la sostituzione 
+$$
+\begin{aligned}
+x&=\tg{t}\\
+x^2&=\tg^2{t}\\
+dx&=\frac{1}{\cos^2{t}}\:dt
+\end{aligned}
+$$
+
+E ottengo
+
+$$
+\begin{aligned}
+\int \frac{1}{(1+\frac{\sin^2{t}}{\cos^2{t}})^2} \cdot \frac{1}{\cos^2{t}} \: dt &=\\
+\int \cos^2{t} \: dt &=\\
+\frac{1}{2}t+\frac{\sin{2t}}{4}&=\\
+\frac{1}{2}\arctg{x}+\frac{\sin{2\arctg{x}}}{4}&=
+\end{aligned}
+$$
+
+Per semplificare l'espressione ricordiamo le formule parametriche:
+$$
+\begin{aligned}
+\sin{2t}&=\frac{2\tg{t}}{1+\tg^2{t}}
+\end{aligned}
+$$
+
+Quindi sostituendo $t$ con $\arctg{x}$ ottengo
+
+$$
+\frac{1}{2}\arctg{x}+\frac{x}{2(1+x^2)}
+$$
+
 #### Integrazione per parti
 L'integrazione per parti sfrutta la **derivata del prodotto**
 
