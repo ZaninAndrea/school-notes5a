@@ -155,3 +155,40 @@ La **riduzione dell'ossigeno** origina molecole di acqua.
 ## Produzione di ATP
 Il **gradiente elttrochimico** formato dall'accumulo di protoni li fa fluire attraverso l'ATP sintasi e nel farlo forniscono all'**ATP sintasi** l'energia per caricare l'ADP di un gruppo fosfato producendo ATP.
 
+## Via dei pentoso fosfati
+Una **vita metabolica alternativa** per il glucosio è la via dei pentoso fosfati che trasforma glucosio in **ribosio 5-fosfato**.
+
+In questa via viene ridotto un NADP in NADPH, importante nelle vie dei lipidi, e vengono prodotti degli antiossidanti.
+
+## Via del glicogeno
+### Glicogenosintesi
+Nel fegato avviene la glicogenosintesi, ossia la sintesi del glicogeno da glucosio.
+Ricordiamo che ==il glicogeno non è solubile== e pertanto adatto ad essere immagazzinato senza provocare shock osmotico.
+
+La crescita del glicogeno necessita della glicogenina che fornisce supporto meccanico.
+
+Si parte dal **glucosio 6-fosfato**, intermedio anche della glicolisi, che viene isomerizzato in glucosio 1-fosfato.
+
+Il glucosio 1-fosfato si aggancia all'UTP liberandone l'acido pirofosforico e quindi rilasciando energia.
+
+L'UDP-glucosio ottenuto si aggancia all'**estremità non riducente** (ossia il carbonio 4, rivedi saggio di Tollens) di una catena di glicogeno in crescita. Nella reazione l'UDP si stacca.
+
+L'**enzima ramificante** rompe un legame in posizione 4 sulla catena in allungamento e attacca la catena tagliata ad un glucosio in posizione 6 formando una ramificazione.
+
+### Glicogenolisi
+L'enzima glicogenofosforilasi stacca un glucosio dall'estremità 4 e sfrutta l'energia liberata per agganciarvi un gruppo fosfato.
+
+L'enzima deramificante rompe il legame tra il primo glucosio della ramificazione e gli altri che vengono trasferiti sulla catena principale (**attività transferasica**).
+Successivamente rompe il legame 1-6 e libera il glucosio (**attività glicosidasica**).
+
+# La fotosintesi
+La fotosintesi ha il bilancio di reagenti e prodotti opposto al metabolismo del glucosio.
+
+$$
+6CO_2 + 6H_2O + E \rightarrow C_6H_{12}O_6 +  6O^2
+$$
+
+L'ossigeno prodotto viene espulso come scarto, la $CO_2$ invece entra attraverso lo **stoma** e trova la superficie delle cellule idratata, quindi la $CO_2$ reagendo con l'acqua e produce $H_2CO_3$, solubile in acqua e successivamente entra nelle cellule sotto forma di $HCO_3^-$.
+
+Una parte dell'acqua presenta all'interno della cellula evapora e fuorisce dagli stomi.
+In inverno le foglie vengono perseper evitare la fuoriuscita di acqua.

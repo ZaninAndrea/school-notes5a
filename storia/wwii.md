@@ -110,3 +110,4 @@ Togliatti era in contatto con Mosca, quindi è possibile che abbia ricevuto dire
 A Marzo viene organizzato uno sciopero generale in tutto il Nord Italia, che però è difficile interpretare dal punto di vista politico.
 
 La guerra partigiana fu effettivamente efficacie nel liberare il Nord, il contributo della resistenza fu essenziale alla vittoria americana.
+
