@@ -16,6 +16,8 @@ Nel 1944 lascia Firenze e scrive un **trattato antifascista**. Descrive Mussolin
 
 Lavora un anno alla rai ma poi smette per concentrarsi sul pasticciaccio.
 
+Nel momento del successo Gadda ==inizia ad avere manie di persecuzione e smette di scrivere per sempre== (link a manzoni), sistema invece editorialmente i suoi vecchi scritti.
+
 # Temi e stile
 ==L'opera di Gadda tende a concentrarsi su pochi temi fondamentali==, è ossessionato dalla morte, dal male, dalla famiglia, dalla guerra, dal rapporto con la madre, ma anche da molte piccole cose che risalgono alla sua vita privata e sociale.
 
@@ -40,70 +42,30 @@ In 2 mesi scarsi Gadda riempie tre quaderni di riflessioni filosofiche, un testo
 Inizia ad essere scrittore a tempo pieno nel 1940
 
 ## La Cognizione del Dolore
-Nel 1937 inizia a scrivere La cognizione del Dolore. Fu molto piu che un romanzo, fu un processo interamente interpretato da Gadda.
+Nel 1937 inizia a scrivere _La cognizione del Dolore_. Fu molto piu che un romanzo, fu un processo interamente interpretato da Gadda.
 
 Il romanzo esce in 7 puntate su una rivista fiorentina ed è ambientato in un villaggio sudamericano.
 
 Il fratello è un personaggio ripreso più volte nel romanzo.
 
-Utilizza la metafora dei Maiali per i contadini. Gadda ama la pace, la tranquillità, non vuole avere in torno maiali (contadini).
+Utilizza la metafora dei Maiali per i contadini. Gadda ama la pace, la tranquillità, non vuole avere attorno maiali (contadini).
 
 La narrazione è vista come strumento per scoprire la sia verità, riscattare la sua inesistita giovinezza.
 
 ## Quer pasticciaccio brutto de via Merulana
-
-=============
-APPUNTI MIEI
-============
-# Vita
-
-Gadda si trasferisce a Trieste e diventa scrittore a tempo pieno. Qui scrive l'Adalgisa
-
-## Quer pasticciaccio brutto de via merulana
 La stesura del pasticciaccio dura molti anni e si ispira ad un fatto di cronaca.
 
-Don Ciccio deve indagare su un furto e omicidio, la donna uccisa era una conoscenza di Don Ciccio
+Il romanzo parla di Don Ciccio, che indaga su un **furto di gioielli e omicidio** ai danni di una donna di sua conoscenza, il tutto svelanto gli intrighi e i misteriosi sobborghi della Roma fascista.
 
-Il romanzo poliziesco classici è consolatorio, alla fine si scopre il colpevole, ma la vita non lo è. Per questo, non per le condizioni di salute, il pasticciaccio è incompleto
 
-Gadda si è arreso al caos del mondo.
+Il romanzo poliziesco classico è consolatorio, alla fine si scopre il colpevole, ma la vita non lo è. Per questo, non per le condizioni di salute, il pasticciaccio è incompleto.
+==Gadda si è arreso al caos del mondo==.
 
-Nel momento del successo di Gadda, lui inizia ad avere manie di persecuzione e smette di scrivere per sempre (link a manzoni), sistema invece editorialmente i suoi vecchi scritti.
+# Letture pasticciaccio
+## Capitolo 6
+**ekfrasis** --> descrizione di opere d'arte. In relazione al *visibile parlare* della cornici intarsiate del purgatorio
 
-gadda vuole comunicare stando dentro questa poltiglia della lingua. Gadda scrive in una lingua barocca mai sentita
-
-### Capitol 6
-ekfrasis --> descrizione di opere d'arte. In relazione al *visibile parlare* della cornici intarsiate del purgatorio
-
-L'ekfrasis interpreta erroneamente il quadro dicendo che il personaggio sia un dottore, mentre è un pittore.
+==L'ekfrasis di Gadda interpreta erroneamente il quadro== dicendo che il personaggio sia un dottore, mentre è un pittore; questo errore è voluto, Gadda conosceva infatti molto bene il dipinto.
 L'immagine ritratta è in realtà Zeusi che per ritrarre la bellezza utilizza una **docta varietas**: utilizza più modelle prendendo le parti migliori di ognuna.
 
-La docta varietas di Gadda passa attraverso il fraintendimento.
-
-==============
-Appunti resolo
-==============
-
-GADDA
-Pubblica la cognizione del dolore a puntate
-Si trasferisce a Firenze, frequenta poeti
-
-Tutto Gadda può essere trovato in un brano del suo diario di guerra, scritto a 23 anni.
-
-Giancarlo Roscioni scrive che Gadda gode fama di scrittore dalle inesauribili risorse espressive.
-
-LA FILOSOFIA
-
-Il novecento guarda il mondo precipitando, l'800 da un balcone.
-
-1937, inizia a scrivere la cognizione del dolore. 
-
-QUER PASTICCIACCIO BRUTTO DE VIA MERULANA
-
-Continua a lavorare al pasticciaccio. In ogni Giallo c'è una matassa che va sbrogliato.
-Don Ciccio Ingravati, poliziotto filosofo. Ha il compito di mettere ordine nel disordine.
-Si svolge a Roma durante il fascismo, si deve indagare sull'omicidio di una donna e su un furto di gioielli.
-Gadda Milanese/Fiorentino si immerge nel dopoguerra romanesco. 
-
-Gadda non finisce il Pasticciaccio. Il romanzo poliziesco è consolatorio. Gadda ha tentato di misurare la realtà e si arreso al caos dell'uomo.
-1963 la cognizione del dolore, vince un premio che gli dà una risonanza internazionale
+==La docta varietas di Gadda passa attraverso il fraintendimento==.

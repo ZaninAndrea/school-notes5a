@@ -179,7 +179,7 @@ Invece nei mortali la volontà e la capacità sono diverse, quindi non può espr
 che questa gioia prezïosa ingemmi,
 perché mi facci del tuo nome sazio». 87
 > 
-«O fronda mia in che io compiacemmi
+> «O fronda mia in che io compiacemmi
 pur aspettando, io fui la tua radice»:
 cotal principio, rispondendo, femmi. 90
 > 
