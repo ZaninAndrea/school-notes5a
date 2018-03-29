@@ -69,3 +69,75 @@ Il romanzo poliziesco classico è consolatorio, alla fine si scopre il colpevole
 L'immagine ritratta è in realtà Zeusi che per ritrarre la bellezza utilizza una **docta varietas**: utilizza più modelle prendendo le parti migliori di ognuna.
 
 ==La docta varietas di Gadda passa attraverso il fraintendimento==.
+
+==============
+Appunti resolo
+==============
+
+GADDA
+Pubblica la cognizione del dolore a puntate
+Si trasferisce a Firenze, frequenta poeti
+
+Tutto Gadda può essere trovato in un brano del suo diario di guerra, scritto a 23 anni.
+
+Giancarlo Roscioni scrive che Gadda gode fama di scrittore dalle inesauribili risorse espressive.
+
+LA FILOSOFIA
+
+Il novecento guarda il mondo precipitando, l'800 da un balcone.
+
+1937, inizia a scrivere la cognizione del dolore. 
+
+QUER PASTICCIACCIO BRUTTO DE VIA MERULANA
+
+Continua a lavorare al pasticciaccio. In ogni Giallo c'è una matassa che va sbrogliato.
+Don Ciccio Ingravati, poliziotto filosofo. Ha il compito di mettere ordine nel disordine.
+Si svolge a Roma durante il fascismo, si deve indagare sull'omicidio di una donna e su un furto di gioielli.
+Gadda Milanese/Fiorentino si immerge nel dopoguerra romanesco. 
+
+Gadda non finisce il Pasticciaccio. Il romanzo poliziesco è consolatorio. Gadda ha tentato di misurare la realtà e si arreso al caos dell'uomo.
+1963 la cognizione del dolore, vince un premio che gli dà una risonanza internazionale
+
+
+Appunti non sistemati
+=====================
+
+## Capitolo 1
+
+## Capitolo 6 - Garbuglio telefonico
+La telefonata viene riferita come un garbuglio di telefonate che si sovrappongono, inoltre ==la narrazione entra nella telefonata senza soluzione di continuità==.
+
+Fa un **riferimento all'Eneide** con il personaggio di Enea Retalli, figlio di Anchise e Venere Procacci.
+
+Il testo in questo brano naufraga: si sovrappongono le informazioni relative all'indagine, alla spedizione di parmigiano e all'operazione dell'ammiraglio.
+
+Questo testo riflette l'essenza del pasticciaccio: il mondo è un enorme guazzabuglio, che passa attraverso il plurilinguismo, il miscuglio di fonti e il fraintendimento.
+
+## Capitolo 5 - Il pediatra
+Virginia sente dire che ci sia un **pediatra** nel palazzo, però la parola viene storpiata in _**piedatra**_, quindi lei lo associa a don Lorenzo, che aveva piedi grandi.
+
+| Focus | Descrizione |
+| ----- | ----------- |
+| garbuglio linguistico | la storpiatura della parola pediatra porta ad un fraintendimento |
+
+Questo passo mostra un chiaro esempio di caos, in quanto il fraintedimento è centrale allo svolgimento della storia e perché vengono fornite informazioni superflue 
+
+## Capitolo 8 - I due santi. Gli alluci e la luce
+Il brigadiere Pestalozzi ha un guasto al motore della moto e nota un affresco di Due Santi. Inizia una descrizione che poi si concentra sugli **alluci** e sfocia in una digressione sugli alluci nella storia dell'arte e sull'**importanza della luce**.
+
+| Focus | Descrizione |
+| ----- | ----------- |
+| alluci | è un'analisi satirica della storia dell'arte raffigurativa dei santi. *Essi ebbero anche  nei piedi, lo strumento fisico del loro itinerante apostolato* |
+| luce | La luce assieme agli alluci è un elemento essenziale dell'arte. Accoppia un elemento artisticamente rilevante ad uno che non lo è: *«Fiat lux!» E gli alluci furono* | 
+
+Un'analisi satirica e fuorviante della storia dell'arte si unisce a tratti di analisi accurata, non si riesce più a distinguere il vero dal falso, è quindi un esempi di Caos.
+
+## Capitolo 9 - I gioielli
+Trovano una borsa, dopo aver ipotizzato il contenuto, "*nocciuole, forse? o un gruzzolo di bottoni? o un rosario?*", lo aprono e vi trovano molti gioelli, che vengono descritti con minuzia in particolare per quanto concerne il colore e la forma.
+
+| Focus | Descrizione |
+| ----- | ----------- |
+| fraintendimento | I gioeilli nel sacchetto vengono fraintesi per nocciole, bottoni o un rosario |
+| forme e colori | i gioeilli hanno forme spigolose o sinuose: *serpere o il poligonare degli ori* e vari colori: *o verde splendido o rosso splendido, o azzurro notte* | 
+
+Gadda contrappone il caos del fraintendimento e della lingua al cosmo dell'accurata descrizione e della natura geometrica e mineralogica della descrizione.
