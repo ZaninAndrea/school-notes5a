@@ -218,3 +218,16 @@ Il fotosistema I funziona come il II, ma la fonte di elettroni è la catena di t
 
 Dal fotosistema I parte una corta catena di trasporto degli elettroni, che ha lo scopo di ridurre il NADP, che poi permetterà la riduzione della $CO_2$ in $C_6H_{12}O_6$
 
+## Fase indipendente dalla luce
+L'enzima chiave è il **RuBisCo**, che **organica** la $\text{CO}_2$ inserendola sul ribulosio 1,5-difosfato, il prodotto si idrolizza naturalmente in 3-fosfoglicerato.
+
+Il **ciclo di Calvin** inizia con l'inserimento di $6\text{CO}_2$, utilizzando energia sotto forma di ATP e potere ossidante sotto forma di NADPH, otteniamo 12 **gliceraldeide 3-fosfato**, 2 di queste escono dal ciclo e formano un glucosio. Le aaltre invece vengono riconvertite in ribulosio 1,5-difosfato.
+
+Quando la pianta chiude gli stomi per evitare dispersione di acqua e quindi manca la $\text{CO}_2$ necessaria per il ciclo di Calvin, allora la pianta fa la **fotorespirazione** per produrre $\text{CO}_2$ ossidando gli zuccheri prodotti dalla fase luminosa.
+
+Per evitare questo spreco energetico le **cellule della guaina del fascio** (che circondano i vasi conduttori della foglia) fanno il ciclo di Calvin e le altre cellule invece utilizzano un meccanismo alternativo.
+
+Questo meccanismo alternativo utilizza la PEP carbossilasi invece che il RuBisCo, inoltre la $\text{CO}_2$ viene catturata, ma poi rilasciata. L'intero ciclo consuma ATP e NADPH senza produrre nulla.
+
+Questo meccanismo è molto efficiente nel catturare la $\text{CO}_2$, crea un forte gradiente di concentrazione.
+In questo modo lo stoma può stare aperto per poco tempo e dopo la $\text{CO}_2$ verrà rilasciata progressivamente e messa a disposizione del ciclo di Calvin.

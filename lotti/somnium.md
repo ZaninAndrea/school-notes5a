@@ -432,4 +432,36 @@ Dunque poiché è evidente che è eterno ciò che si muove da sé stesso, chi è
 
 > Inanimum est enim omne, quod pulsu agitatur externo; quod autem est animal, id motu cietur interno et suo; nam haec est propria natura animi atque vis.
 
-Infatti è inanimato tutto ciò che viene agitato dall'esterno,
+Infatti è inanimato tutto ciò che viene agitato dall'esterno, ciò che invece è animato [animal], si muove [cietur] con un moto interno e proprio; infatti questa è la natura propria e forza dell'animo.
+
+> quae si est una ex omnibus, quae sese moveat, neque nata certe est et aeterna est
+
+Se questa è l'unica tra tutti, che si muove da se, certamente non è nata ed è eterna
+
+sese è rafforzativo
+
+## Capitolo 21
+> Hanc tu exerce optumis in rebus
+
+Tu esercita questa (la natura dell'animo) nelle più nobili [optumis] attività 
+
+exerce: imperativo presente
+optumis: arcaismo
+
+> Sunt autem optumae curae de salute patriae, quibus agitatus et exercitatus animus velocius in hanc sedem et domum suam pervolabit
+
+D'altra parte sono ottime occupazioni relative alla salvezza della patria, l'animo mosso e esercitato da queste [quibus] volerà più velocemente in questa sua sede e casa.
+
+> idque ocius faciet, si iam tum, cum erit inclusus in corpore, eminebit foras et ea, quae extra erunt, contemplans quam maxime se a corpore abstrahet.
+
+e farà ciò più velocemente, se già allora, quando sarà rinchiusa nel corpo, si eleverà fuori e contemplando quelle cose, che saranno fuori, si distaccherà quanto più possibile dal corpo.
+
+> Namque eorum animi, qui se corporis voluptatibus dediderunt earumque se quasi ministros praebuerunt impulsuque libidinum voluptatibus oboedientium deorum et hominum iura violaverunt, corporibus elapsi circum terram ipsam volutantur nec hunc in locum nisi multis exagitati saeculis revertuntur.'
+> 
+> Ille discessit; ego somno solutus sum.
+
+Infatti le anime di coloro, che si sono dedicati alle passioni [voluptatibus] del corpo e si sono offerti [se praebuerunt] per così dire come servi [ministros] di quelle [earum] e per impulso delle libidini obbedienti alle passioni hanno violato le leggi degli dei e degli uomini, abbandonati i corpi [corporibus elapsi] sono fatte girare [volutantur] intorno alla stessa terra [circum terram ipsam] e non tornano indietro in questo luogo se non tormentate per molti secoli.
+Quello se ne andò e io fui liberato dal sogno.
+
+
+corporibus elapsi: participio congiunto
