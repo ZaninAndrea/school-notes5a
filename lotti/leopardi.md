@@ -71,3 +71,12 @@ Leopardi era in anticipo sui tempi
 
 Nel secondo dopoguerra ci fu una grande attenzione per lo Zibaldone.
 
+Infinito:
+- insistenza nell'utilizzo di *questo* e *quello*
+- *io nel pensier mi fingo*: il fingo è un latinismo per mi costruisco
+- endecasillabi sciolti
+- inizia con *sempre*: in medias res
+- l'impedimento della siepe consente la creazione di una propria natura, come notiamo con l'avversativa *ma*
+- l'utilizzo del gerundio (sedendo e mirando) toglie l'azione dal tempo
+- dopo *sovraumani* si deve fare una pausa nella lettura
+- smarrimento del poeta *per poco il cor non si spaura*
