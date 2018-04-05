@@ -111,3 +111,25 @@ A Marzo viene organizzato uno sciopero generale in tutto il Nord Italia, che per
 
 La guerra partigiana fu effettivamente efficacie nel liberare il Nord, il contributo della resistenza fu essenziale alla vittoria americana.
 
+Ci furono violenze slave contro gli italiani, come le foibe.
+
+Conferenza di Casablanca, tenutasi all'inizio del '43, decise:
+- l'imposizione della resa incondizionata
+- la campagna d'Italia
+
+Conferenza di Teheran (fine del '43):
+- appoggio ai partigiani di tito
+- sbarco in normandia
+- dichiarazione di guerra dell'URSS al Giappone
+- nasce l'idea della Germania divisa in più stati
+
+Conferenza di Yalta (inizio del '45):
+- è palese che la guerra sarà vinta
+- inizio della guerra fredda
+- nasce l'ONU
+- divisione della Germania, che però era immaginata provvisoria
+- nasce la Polonia
+
+Conferenza di Potsdam:
+- si svolge in un clima di guerra fredda
+- ultimatum al giappone che prefigura la bomba atomica
