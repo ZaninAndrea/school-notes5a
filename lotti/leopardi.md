@@ -72,7 +72,7 @@ Leopardi era in anticipo sui tempi
 Nel secondo dopoguerra ci fu una grande attenzione per lo Zibaldone.
 
 Infinito:
-- insistenza nell'utilizzo di *questo* e *quello*
+- insistenza nell'utilizzo di *questo* e *quello*, utilizzati per dividere la realtà dalla realtà immaginata
 - *io nel pensier mi fingo*: il fingo è un latinismo per mi costruisco
 - endecasillabi sciolti
 - inizia con *sempre*: in medias res
@@ -80,3 +80,26 @@ Infinito:
 - l'utilizzo del gerundio (sedendo e mirando) toglie l'azione dal tempo
 - dopo *sovraumani* si deve fare una pausa nella lettura
 - smarrimento del poeta *per poco il cor non si spaura*
+- descrizione di un'esperienza stra-ordinaria, di nuovo utilizza il gerundio *comparando*
+- *mi sovviene*
+- l'infinito è un viaggio
+- *immensità* riassume *gli interminati spazi, sovraumani silenzi, profondissima quiete*
+- usa parole negative (*annega, naufragar*), ma in questo caso hanno un'accezione positiva
+- nel finale il *questa* non si riferisce più alla realtà, ma alla realtà immaginata
+
+Dialogo della Natura e di un Isalndese:
+- il dialogo è utilizzato per rendere il contrasto tra le 2 posizioni
+- l'obiettivo dell'islandese è evitare la sofferenza
+- l'islandese prima elimina i piaceri, ma poi soffre per il clima dell'Islanda e quindi inizia a viaggiare cercando un posto in cui non recando offesa potesse non essere offeso e non godendo non patire. Però non lo trova
+- l'islandese accusa la natura di aver dato all'uomo il desiderio del piacere, ma poi aver reso questo piacere la cosa più nociva all'uomo
+- Io non mi ricordo di aver passato un giorno solo della mia vita senza qualche pena
+- l'Islandese accusa quindi la Natura di tutto il male del mondo, ma lei risponde che il suo scopo non era certamente l'uomo
+- l'Islandese allora risponde che la Natura ha posto l'uomo nel mondo e quindi ha una responsabilità verso l'umanità
+- la Natura risponde che il mondo funziona così: alcuni creano altri distruggono. L'Islandese però chiede "Chi giova da questa vita?"
+- il finale ha un tono molto satirico e ci racconta 2 morti diverse dell'islandese:
+    -  2 leoni magrissimi mangiano l'islandese e sopravvivono solo un giorno in più grazie a questo. Índica la riduzione della vita umano al nulla
+    -  il ventro lo seppelisce sotto un mausoleo di sabbia. 
+-  la Natura non controargomenta, perché non è ha motivo, è già in una situazione di forza
+
+Canto notturno di un pastore errante dell'Asia:
+- Il pastore chiede perché esiste, perché prova noia nell'ozio al contrario degli animali
