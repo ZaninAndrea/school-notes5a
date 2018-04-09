@@ -83,3 +83,22 @@ Il plus lavoro viene incamerato dal capitalista, nonostante sia prodotto dal lav
 David Ricardo idea la **legge plumbea dei salari**: i salari tendono asintoticamente a raggiungere il livello più basso possibile.
 
 Socialismo utopistico e scientificoç il socialismo utopistico 
+
+# Scuola di Francoforte
+La scuola di Francoforte riprende la scuola del sospetto di Marx, nonostante il capitalismo non sia collassato.
+
+Sviluppano un pensiero critico in relazione al crollo di stati come la Germania: un tempo leader culturale, adesso nazista.
+
+Le personalità più importanti della Scuola sono Adorno, Horkheimer, Marcuse e Fromm.
+
+Fromm scrive _Avere ed Essere_, in cui tratta il tema di cosa ci definisce, ciò che siamo o ciò che abbiamo?
+
+Marcuse scrive _l'uomo a una dimensione_, in cui sostiene che oggigiorno non ci realizziamo come individui
+
+Adorno e Horkheimer scrivono congiuntamente _Dialettica dell'illuminismo_ in cui sostengono che lo sviluppo completo della ragione riporta alla barbarie, perchè la razionalità occidentale è una razionalità strumentale, ossia non si pone mai la questione dei fini di un'azione.
+
+Nasce nel 1923.
+
+Sostiene che giustizia e libertà non sono compatibili.
+
+Il vero scopo dei libri è asservire le persone
