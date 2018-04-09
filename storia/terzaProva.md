@@ -1,3 +1,12 @@
+- quali effetti ebbe la crisi del 29 sulle economie europee? in particolare la Germania
+- che cos'è l'Aventino?
+- illustra il discorso del bivacco e il suo contesto.
+- parla delle leggi fascistissime
+- come prende il potere Hitler?
+- parla della notte dei lunghi coltelli
+- come si comporta la delegazione italiana a Versailles?
+
+
 # Germania
 ## Crollo economico
 Tra il '21 e il '24 il marco viene svalutato fino ad avere un cambio con il dollaro di 1:4 miliardi, questa svalutazione era dovuta alla crisi dell'economia tedesca.
