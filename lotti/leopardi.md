@@ -103,3 +103,28 @@ Dialogo della Natura e di un Isalndese:
 
 Canto notturno di un pastore errante dell'Asia:
 - Il pastore chiede perché esiste, perché prova noia nell'ozio al contrario degli animali
+- in analogia con l'islandese potremmo dire luna=Natura, pastore=Islandese, gregge=non presente nell'islandese, è il non-umano e quindi non è consapevole del fastidio
+- dal dialogo dell'islandese si passa ad una serie di domande del pastore
+- Qual'è lo scopo della vita?
+- il vecchierel viene descritto con un climax di difficoltà, che però non viene ricompensato, ma anzi trova un abisso
+- il pastore afferma che la luna sappia la ragione della sofferenza
+- _**a me la vita è male**_
+- i forse nella conclusione riducono lo slancio poetico e la speranza
+
+A se stesso (dal ciclo di aspasia):
+- se l'infinito è il ritiro nell'immaginazione, in a se stesso c'è la **disillusione**
+- la poesia è un richiamo a se stesso, dei comandi dati a se stesso
+
+Ginestra:
+- come testimone dell'eruzione del Vesuvio sceglie la ginestra, un esile fiore che resiste anche in condizioni estreme
+- prima dell'eruzione quelle terre erano molto prospere ed è stata distrutta
+- sfida gli ottimisti e i teorici del progresso a vedere qual'è stata la fine di quelle terre. L'atteggiamento verso questi è sprezzante
+- quest'enorme distruzione è stata causata da un *lieve moto* della natura
+- Lucrezio nel De Rerum Natura propone il modello epicureo, come colui che ha sollevato gli occhi al cielo ed è riuscito a capire come sollevarsi dall'oppressione. La Ginestra propone un modello simile
+- la solidarietà tra gli uomini è la soluzione per combattere la natura (v130), l'ostilità invece aiuta la natura
+- il poeta è sul Vesuvio e riflette sulla vastità dell'universo confrontata con la piccolezza dell'uomo
+- profonda disillusione di Leopardi, infatti mancano le domande che invece sono presenti nell'islandese
+- il grandissimo lavoro delle formiche viene distrutto da una mela che cade perché quasi marcia, incurante delle formiche. Ugualmente la natura distrugge l'uomo durante l'eruzione. L'unica differenza è che le formiche sono di più
+- pompei come monito della potenza distruttiva della natura
+- leopardi si pone in un atteggiamento di superiorità rispetto a coloro che arrogano all'umanità l'eternità
+- parla direttamente alla ginestra preannunciandole la morte, ma almeno questa è consapevole della sua piccolezza

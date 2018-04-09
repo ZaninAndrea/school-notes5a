@@ -133,3 +133,32 @@ Conferenza di Yalta (inizio del '45):
 Conferenza di Potsdam:
 - si svolge in un clima di guerra fredda
 - ultimatum al giappone che prefigura la bomba atomica
+
+# Nazismo
+Il nazismo identificando un nemico, gli ebrei, aveva coeso la popolazione.
+
+Viene data una forte rilevanza alla nazione tedesca e si vuole ottenere un Lebensraum.
+
+Alcuni, gli **intenzionalisti**, ritengono che Hitler avesse un progetto ben definito fin dall'inizio.
+I **funzionalisti** invece ritengono che il nazismo sia il risultato dei rapporti di forza interni. E.g. la caotica organizzazione delle SS.
+
+Gli intenzionalisti criticano i funzionalisti, perché rinuncia ad un giudizio morale.
+I funzionalisti criticano gli intenzionalisti per aver addossato tutta la colpa a Hitler.
+
+I **revisionisti** invece comparo Germania e Unione Sovietica, sostenendo che i campi di concentramento sono ispirati dai gulag
+
+I capi carismatici e l'ideologia di partito nascono 
+
+Goldhagen pubblica "I volenterosi carnefici di hitler" in cui sostiene che l'eliminazionismo antisemita esisteva in Germania già da molto prima di Hitler.
+
+# Guerra Fredda
+USA e URSS sono in costante stato di tensione, ma non combattono direttamente per evitare una distruzione totale.
+
+Dottrina Truman: gli USA non cederanno un centimetro (di terreno anche non statunitense) a potenze della sfera di influenza sovietica.
+
+Il mondo viene diviso in 2 sfere di influenza
+
+> Da Stettino sul Baltico a Trieste sull'Adriatico una **cortina di ferro** è scesa sul vecchio continente
+> 
+> Churchill
+
