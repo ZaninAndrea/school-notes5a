@@ -21,7 +21,7 @@ Speravano di colpire duramente la marina statunitense e ==costringerli a ritratt
 > 
 > Ammiraglio Yamamoto
 
-Nel giugno del 1942 si tiene la battaglia delle Midway, sconfitta devastante per il Giappone, che non si riprese più.
+Nel giugno del 1942 si tiene la **battaglia delle Midway*, sconfitta devastante per il Giappone, che non si riprese più.
 
 Nel 1945 ==il Giappone si preparava a combattere all'ultimo uomo== senza più alleati, per via del *bushido*, il codice del guerriero, che imponeva di combattere fino alla morte.
 
