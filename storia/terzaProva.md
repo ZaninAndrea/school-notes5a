@@ -28,3 +28,16 @@ Nel 1945 ==il Giappone si preparava a combattere all'ultimo uomo== senza più al
 Gli americani decidono di usare la bomba atomica per evitare un'invasione via terra.
 Il 4 agosto 1945 venne sganciata su Hiroshima  **Little Boy** e il 7 agosto venne sganciata su Nagasaki **Fat Man**.
 Il 15 agosto 1945 il giappone si arrese senza condizioni.
+
+# scienze
+il ciclopropano e il ciclobutano hanno tensioni che rendono facile l'idrogenazione, ossia l'apertura dell'anello
+
+la regola nell'alogenazione è dovuta all'effetto induttivo, che stabilizza il radicale
+
+addizione di acqua ad un alchene
+
+polimeri di condensazione: polisaccaridi, proteine, ...
+
+gli alcani si ottengono anche per distillazione frazionata del petrolio
+
+idrogenazione di alcheni e alchini danno alcani (addizione elettrofila)

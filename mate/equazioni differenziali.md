@@ -107,3 +107,5 @@ Se $f(x)$ è un polinomio di grado $n$ allora la soluzione particolare $y=g(x)$ 
 - $g(x)=x^2\cdot P_n(x)$ se 0 è soluzione con molteplicità 2
 
 La soluzione dell'equazione differenziale è la somma di soluzione caratteristica e soluzione particolare.
+
+### Caso particolare 
