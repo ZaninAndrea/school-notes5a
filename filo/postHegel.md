@@ -102,3 +102,35 @@ Nasce nel 1923.
 Sostiene che giustizia e libertà non sono compatibili.
 
 Il vero scopo dei libri è asservire le persone
+
+Ritengono che la società contemporanea sia frutto di un sistema intellettuale ed economico contraddittorio.
+Il libero pensiero viene ostacolato da un'ideologia prevalente che si impone
+
+La società consumistica persegue un obiettivo di conformismo sociale analogo a quello dei totalitarismi.
+
+Nel testo dialettica dell'illuminismo la tesi fondamentale è che la civiltà occidentale ha propugnato, ha prediletto, la ragione, auspicando che essa avrebbe portato ad una società utopistica.
+L'affidamento alla razionalità è però fallimentare e crea anzi dei nuovi problemi.
+
+Criticano un po' tutto.
+
+Nella dialettia negativa Adorno prova a non assumere nessun punto di vista, ma far semplicemente vedere come la razionalità si rovesci nel suo opposto.
+
+L'illuminismo ha sempre avuto come obiettivo eliminare la paura in modo da poter vivere in pace e di controllare la natura.
+
+La natura per la razionalità è quindi solo un oggetto da controllare, l'uomo se ne è estraneato.
+
+I proletari lavorano senza avere una speranza e i capitalisti invece non possono fruire della felicità, perché si impediscono di smettere di proseguire in questo lavoro alienato.
+
+Nel racconto delle sirene c'è il mito, la felicità promessa dalle sirene, il dominio, i vogatori con le orecchie tappate, e il lavoro, Odisseo che potrebbe fruire del suo lavoro ma se lo impedisce.
+
+La razionalità ha prodotto ad esempio Auschwitz
+
+> *Dopo Auschwitz non si può più fare poesia*
+> 
+> Adorno
+
+Dopo aver dimostrato gli effetti nefasti della ragione non ha più senso fare poesia.
+
+La cultura è diventata industria culturale, che è un ossimoro: la cultura è spontanea, mentre l'industria è produzione di massa. La cultura è quindi diventata un mezzo per tenere gli uomini distratti e omologati.
+
+Da soggetti della cultura siamo diventati oggetti della cultura, siamo il prodotto non il compratore.
