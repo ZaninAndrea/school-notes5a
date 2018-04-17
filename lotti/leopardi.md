@@ -151,3 +151,14 @@ Le ricordanze:
 - viene ancora una volta riproposto l'ostacolo che ci impedisce di vedere  perfettamente le stelle: sono vaghe
 - parallelismo con l'infinito "Mirando il cielo, ed ascoltando il canto"
 - appo = apud, presso le siepi
+- ricordanza = ricordo
+- la prima strofa è facilmente sovrapponibile all'infinito
+- ostilità nei confronti dell'ambiente
+- persino un ricordo negativo, dato che passa attraverso il filtro della lontananza, assume un carattere più indefinito e quindi positivo
+
+> [...] *Qui non è cosa
+Ch'io vegga o senta, onde un'immagin dentro
+Non torni, e un dolce rimembrar non sorga*
+
+- la strofa "o speranze, speranze" ci porta ad una disillusione: la vita è un'inutile sofferenza. Leopardi è ancora in una fase di domande, dubbio, incapace di consolarsi
+- 
