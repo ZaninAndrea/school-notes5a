@@ -162,3 +162,17 @@ Il mondo viene diviso in 2 sfere di influenza
 > 
 > Churchill
 
+L'ONU ha a disposizione un esercito composto da truppe dei paesi aderenti.
+I membri permanenti del consiglio dell'ONU sono i vincitori ddella WWII.
+
+Nella guerra di Corea l'ONU riesce a schierarsi perché il rappresentate della Russia è assente per protesta.
+
+La Russia si smette le operazioni militari in korea del sud e vengono divise corea del nord e del sud.
+
+I francesi vengono cacciati dall'indocina.
+
+Nella guerra del vietnam ci sono forze filocomuniste al nord e forze anticomuniste al sud. Gli americani vengono coinvolti gradualmente nella guerra, prima fornendo armi, addrestrando le truppe, poi mandando truppe americane.
+
+Altri 2 passaggi chiave furono l'invasione dell'ungheria e la crisi di suez.
+
+In Ungheria vinse alle elezioni un candidato socialista che vorrebbe introdurre minime forme di libero mercato e distaccarsi da Mosca. Mosca quindi invia i carroarmati a destituire il governo, sostituendolo con uno dipendente dda Mosca. Il partito comunista italiano appoggia mosca, di conseguenza molti intellettuali si dissociano.
