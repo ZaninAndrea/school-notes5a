@@ -161,4 +161,11 @@ Ch'io vegga o senta, onde un'immagin dentro
 Non torni, e un dolce rimembrar non sorga*
 
 - la strofa "o speranze, speranze" ci porta ad una disillusione: la vita è un'inutile sofferenza. Leopardi è ancora in una fase di domande, dubbio, incapace di consolarsi
-- 
+- anche il ricordo di un momento tragico della sua vita è reso piacevole in quanto ricordo
+- le strofe dispari esprimono i ricordi, mentre quelle pari riportano al presente
+- leopardi vede nella giovinezza solo il fugace momento che precede la realizzazione della durezza della vita, il piacere poteva essere semmai l'attesa della giovinezza
+- Leopardi rievoca il passato, rimpiange la mancanza
+- i passati remoti danno il senso della fine
+- lo spegnimento di Nerina è analogo allo spegnimento della giovinezza di Leopardi
+- feste radunanze radunanze feste, chiasmo
+- alla fine Nerina è sovrapposta alla giovinezza e alla capacità di immaginare di Leopardi

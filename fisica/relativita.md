@@ -16,3 +16,9 @@ $$
 $$
 
 Una seconda definizione di **tempo proprio** è l'intervallo di tempo che separa 2 eventi che avvengono nello stesso punto dello spazio.
+
+La **lunghezza propria** è la distanza tra 2 punti misurata da un osservatore in quiete rispetto as essi.
+
+$$
+L=L_0\sqrt{1-\frac{v^2}{c^2}}
+$$
