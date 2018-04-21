@@ -33,4 +33,6 @@ Mattia Pascal --> Pascal l'idea della razionalità, Mattia (matto) idea della pa
 
 Il contrasto tra vita e forma, Mattia Pascal si libera di quella forma.
 
-Mattia Pascal è una marionetta che scopre che il cielo è fatto di carta
+Mattia Pascal è una marionetta che scopre che il cielo è fatto di carta.
+
+Lo strappo nel cielo di carta è la crisi delle certezze, è il momento di realizzazione in cui Oreste realizza che la maschera che stava indossando era una maschera.
