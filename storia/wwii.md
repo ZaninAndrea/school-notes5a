@@ -176,3 +176,11 @@ Nella guerra del vietnam ci sono forze filocomuniste al nord e forze anticomunis
 Altri 2 passaggi chiave furono l'invasione dell'ungheria e la crisi di suez.
 
 In Ungheria vinse alle elezioni un candidato socialista che vorrebbe introdurre minime forme di libero mercato e distaccarsi da Mosca. Mosca quindi invia i carroarmati a destituire il governo, sostituendolo con uno dipendente dda Mosca. Il partito comunista italiano appoggia mosca, di conseguenza molti intellettuali si dissociano.
+
+Il canale di Suez era un passaggio economico estremamente importante. Nel 1953 il generale Nasser aveva fatto un colpo di stato in egitto abbattendo il re Faruq. Nasser crea un sistema di dighe sul Nilo, le dighe si Assuan. Successivamente decide di prendere il controllo del canale di Suez. Inghilterra e Francia agiscono senza l'appoggio americano per l'ultima volta. USA e URSS si accordano per garantire la pace. L'URSS appoggio Nasser, gli USa invece vogliono riaffermare la loro predominanza sulle potenze europee. Francia e Inghilterra si ritirano con nulla di fatto.
+
+Fulgenzo Batista è il dittatore di cuba, ma avvengono delle sommosse guidate principalmente da CHe Guevara, un medico che aveva deciso di lottare per i diritti dei più deboli. A cuba trova Fidel Castro. Batista viene cacciato e questo non piaceva agli USA. Castro e Che sono visti bene dall'URSS. Per alcuni anni Fidel prova a riconfigurare Cuba. 
+
+Cuba per resistere agli USA si allea sempre più con l'URSS. La CIA tenta di riprendere il controllo di cuba con lo sbarco nella baia dei porci. 
+
+Nel 1953 a Stalin era succeduto Krusciov
