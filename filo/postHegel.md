@@ -134,3 +134,22 @@ Dopo aver dimostrato gli effetti nefasti della ragione non ha più senso fare po
 La cultura è diventata industria culturale, che è un ossimoro: la cultura è spontanea, mentre l'industria è produzione di massa. La cultura è quindi diventata un mezzo per tenere gli uomini distratti e omologati.
 
 Da soggetti della cultura siamo diventati oggetti della cultura, siamo il prodotto non il compratore.
+
+La società ha sfruttato la repressione delle pulsioni per asservire le pulsioni alla produzione.
+
+Una speranza viene dai paesi del terzo mondo, che non essendosi ancora sviluppato potrebbe svilupparsi in maniera positiva.
+
+Fromm dice che l'obiettivo della nostra esistenza l'obiettivo dovrebbe essere "essere molto" non "avere molto". 
+
+# Positivismo
+Ritengono che l'unica fonte di conoscenza siano le scienze. La fiducia nella scienza è tipica delle società più avanzate.
+
+Nell'evoluzione delle civiltà si parte dalla religione, poi la metafisica ed infine la scienza (stadio positivo).
+
+Positivo indica ciò che è concreto.
+
+Il governo dovrebbe essere tecnico e scelto su base meritocratica.
+
+Comte per questa analisi della società è ritenuto il padre della sociologia.
+
+Spencer parte dalle teorie di darwin, che furono sconvolgenti perché eliminarono l'idea di un piano divino e che la vita sia un meccanismo cieco.

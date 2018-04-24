@@ -15,3 +15,32 @@ Fu un paziente ricercatore, le sue opere principali furono il ** De viris illust
 
 Cerca anche una letterarietà nella storiografia.
 
+Svetonio non parla della vita degli imperatori in ordine cronologico, ma per tematiche.
+
+Nero,23 ci mostra il metodo di Svetonio: interessato anche a vicende di minore rilevanza,ma che diano un ritratto della personalità, sempre mantenendosi imparziale.
+
+Nel parlare di Nerone ha un nuovo punto di vista: il rapporto conflittuale della madre viene dalla sua sete di potere.
+
+Si astiene sempre dall'interpetazione e si limita alla narrazione
+
+# Tacito
+Ha un'illustre carriera, anche se sotto cattivi imperatori.
+
+Opere:
+- agricola, biografia del suocero
+- germania: etnografia
+- dialogus de oratoribus: tratta della decadenza dell'oratoria, dovuta al passaggio da repubblica ad impero
+- historiae
+- annales
+
+## Annales
+Ci sono arrivati solo i primi 4 libri su 14. Narra la storia del periodo dei Flavi, a noi è pervenuto il periodo dei 4 imperatori.
+
+Tacito giudica con severità, ma non propone soluzioni.
+
+La narrazione inizia dalla morte di Augusto.
+
+Parallelismo tra gli Annales Lber I,I e "vergin di servo encomio e vil oltraggio" di Manzoni (5 Maggio).
+
+Tacito si concentra  su un ritratto qualitativo più che fisico
+
