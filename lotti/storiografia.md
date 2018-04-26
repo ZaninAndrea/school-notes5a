@@ -42,5 +42,8 @@ La narrazione inizia dalla morte di Augusto.
 
 Parallelismo tra gli Annales Lber I,I e "vergin di servo encomio e vil oltraggio" di Manzoni (5 Maggio).
 
-Tacito si concentra  su un ritratto qualitativo più che fisico
+Tacito si concentra su un ritratto qualitativo più che fisico
 
+Per non entrare nel biografismo omette i dettagli meno rilevanti.
+
+Tacito ha un gusto per la drammaticità.
