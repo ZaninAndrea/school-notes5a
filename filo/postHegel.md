@@ -151,5 +151,9 @@ Positivo indica ciò che è concreto.
 Il governo dovrebbe essere tecnico e scelto su base meritocratica.
 
 Comte per questa analisi della società è ritenuto il padre della sociologia.
+Comte sostiene che si avranno governi tecnici, che sono i più adatti a guidare la società verso la felicità.
 
-Spencer parte dalle teorie di darwin, che furono sconvolgenti perché eliminarono l'idea di un piano divino e che la vita sia un meccanismo cieco.
+Spencer parte dalle teorie di darwin, che furono sconvolgenti perché eliminarono l'idea di un piano divino e che la vita sia un meccanismo cieco. Secondo Spencer i risultati di Darwin rispecchiano ciò che a vari livelli era stato scoperto in quel periodo: la tendenza della natura ad evolversi.
+La filosofia per Spencer è un'interpretazione generale dei risultati scientifici.
+
+Applica i principi darwiniani anche al complesso sociale.

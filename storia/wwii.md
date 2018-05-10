@@ -201,3 +201,15 @@ In Afghanistan gli USA armano i talebani perché combattano i sovietici.
 Nel 1989 cade  il muro di Berlino, l'URSS cade nel 1991
 
 Gli USA iniziano ad intervenire nei vari conflitti mondiali, proponendosi come mediatori di pace, e.g. Guerra del GOldo, Ruanda, Kosovo, Israele-Palestina
+
+
+
+
+
+Dopo la WWII le potenze europee si ritirano dalle colonie e questo produce quasi sempre dei contraccolpi.
+
+Vi è la questione della costituzione di uno stato ebraico in palestina, come soluzione alle persecuzioni storiche degli ebrei.
+
+Nel 1917 il ministro inglese Balfur aveva dichiarato la necessità di dare agli ebrei un focolare nazionale.
+
+Si inizia a pensare che sia necessariauna struttura politica che rispecchi quella sociale.
