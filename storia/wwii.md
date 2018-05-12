@@ -213,3 +213,10 @@ Vi è la questione della costituzione di uno stato ebraico in palestina, come so
 Nel 1917 il ministro inglese Balfur aveva dichiarato la necessità di dare agli ebrei un focolare nazionale.
 
 Si inizia a pensare che sia necessariauna struttura politica che rispecchi quella sociale.
+
+Gli USA hanno uomini di fiducia al potere nell'America del Sud
+Nel 1970 Salvador Allende viene eletto presidente della Repubblica Cilena e lui nazionalizza le miniere di rame e le telecomunicazioni. Stabilisce inoltre un salario minimo.
+Gli USA sovvenzionano quindi le forze di destra fino a che Pinochet prende il potere con la forza.
+
+In Argentina Videla fa sparire gli oppositori politici. L'argentina dopo la caduta di Videla elegge Peronne.
+Il MOnsignor Oscar Romeo venne assassinato in chiesa per essersi opposto alla dittatura in El Salvador.
