@@ -26,4 +26,39 @@ Le anomalie magnetiche sono il risultato dell'espansione del fondale oceanico ab
 
 I fondali marini sono vecchi al massimo di 200 milioni di anni.
 
-Le dorsali sono attraversate dalle faglie trasformi, che la disassano. Le faglie trasformi si formano a causa di forti tensioni tra 2 blocchi, che vengon rilasciate provocando uno spostamento sul piano di faglia. In un sisma la faglia può spostarsi di qualche centimentro o qualche metro.
+### Le faglie
+Quando la faglia è possoposta a forze divergenti (dirette) o convergenti (inverse) i 2 blocchi possono spezzarsi o piegarsi. Le rocce stratificate tendono a piegarsi, quelle rigide a spezzarsi.
+
+Se invece i 2 blocchi subiscono forze nella direzione della faglia, la faglia è detta **trascorrente**.
+
+Le **fosse tettoniche** (o rift valley) nascono quando i moti convettivi generano uno stiramento ed un rialzamento della crosta. Il rialzamento si spacca formando la rift valley.
+
+Le dorsali sono attraversate dalle **faglie trasformi**, che la disassano. Le faglie trasformi si formano a causa di forti tensioni tra 2 blocchi, che vengono rilasciate provocando uno spostamento sul piano di faglia. In un sisma la faglia può spostarsi di qualche centimentro o qualche metro.
+La faglia trasforme è quindi un tipo particolare di faglia trascorrente, nella quale i 2 blocchi scorrono in direzioni opposte solo nella zona compresa tra 2 pezzi di dorsale.
+
+## Tettonica delle placche
+Una **placca** è una porzione di litosfera. Se i continenti andavano alla deriva, le placche interagiscono.
+
+### Margini divergenti o costruttivi
+Corrispondono con le dorsali oceaniche. 
+
+Dorsali oceaniche: Il materiale magnamtico risale scaldando la crosta, che quindi si alza per compensazione isostatica.
+
+In queste zone abbiamo attività sismica superficiale (perché la crosta è sottile) e attività vulcanica effusiva (tipicamente lava a cuscino).
+
+L'attività vulcanica sarà esplosiva inpresenza di magma viscoso e gas, sarà invece esplosiva se il magma è fluido.
+
+## Formazione degli oceani
+Per convezione la crosta si solleva e si distende creando una rift valley. La rifvalley espandendosi viene poi allagata ed in questo modo l'oceano si espande.
+
+Quando 2 margini continentali si allontano in maniera significativa, la zona centrale è occupata stabilmente da una dorsale, abbiamo lo stadio maturo della formazione dell'oceano, nel quale esso si espande continuamente.
+
+È detto passivo, perché siamo lontani dalle zone di compressione e di attività sismica e vulcanica. Il margine atlantico è un margine che non è soggetto ad attività dinamiche, i sedimenti si accumulano gradualmente, creando imponenti spessori di roccia sedimentaria. Le zone attive sono dalla parte opposta rispetto al margine passivo.
+
+Se la dorsale è spezzata da faglie trasformi, in queste zone l'allontanamento avviene trasversalmente, quindi l'accumulo sedimentario è meno accentuato.
+
+Sistema arco-fossa
+ofioliti (sedimento, basalto, gabbro, peridotite)
+
+Il frazionamento produce magmi più viscosi.
+

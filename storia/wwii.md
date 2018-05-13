@@ -184,3 +184,39 @@ Fulgenzo Batista è il dittatore di cuba, ma avvengono delle sommosse guidate pr
 Cuba per resistere agli USA si allea sempre più con l'URSS. La CIA tenta di riprendere il controllo di cuba con lo sbarco nella baia dei porci. 
 
 Nel 1953 a Stalin era succeduto Krusciov
+
+Blocco navale impedisce le navi sovietiche che trasportavano missili per Cuba. La tensione si allenta grazie ad un accordo personale tra Kennedy e Krusciov.
+
+Krusciov dopo la sua elezione denuncia il culto di Stalin e i suoi crimini, tra cui le purghe. Sembra quindi iniziare una nuova fase. Krusciov arriva a fare un viaggio negli stati uniti e Nixon ne farà uno nell'URSS.
+
+Gli USA si ritirano dal Vietnam per via della forte pressione interna e gli scarsi risultati.
+
+I movimenti geopolitici degli anni '70 sembrano favorire l'unione sovietica in quanto più capace di proteggere le economie deboli.
+Negli anni '80 l'URSS entra in crisi, non riesce a sostenere il ritmo economico e militare degli stati uniti.
+
+Scudo spaziale di Raegan
+
+In Afghanistan gli USA armano i talebani perché combattano i sovietici.
+
+Nel 1989 cade  il muro di Berlino, l'URSS cade nel 1991
+
+Gli USA iniziano ad intervenire nei vari conflitti mondiali, proponendosi come mediatori di pace, e.g. Guerra del GOldo, Ruanda, Kosovo, Israele-Palestina
+
+
+
+
+
+Dopo la WWII le potenze europee si ritirano dalle colonie e questo produce quasi sempre dei contraccolpi.
+
+Vi è la questione della costituzione di uno stato ebraico in palestina, come soluzione alle persecuzioni storiche degli ebrei.
+
+Nel 1917 il ministro inglese Balfur aveva dichiarato la necessità di dare agli ebrei un focolare nazionale.
+
+Si inizia a pensare che sia necessariauna struttura politica che rispecchi quella sociale.
+
+Gli USA hanno uomini di fiducia al potere nell'America del Sud
+Nel 1970 Salvador Allende viene eletto presidente della Repubblica Cilena e lui nazionalizza le miniere di rame e le telecomunicazioni. Stabilisce inoltre un salario minimo.
+Gli USA sovvenzionano quindi le forze di destra fino a che Pinochet prende il potere con la forza.
+
+In Argentina Videla fa sparire gli oppositori politici. L'argentina dopo la caduta di Videla elegge Peronne.
+Il MOnsignor Oscar Romeo venne assassinato in chiesa per essersi opposto alla dittatura in El Salvador.
