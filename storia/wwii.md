@@ -220,3 +220,15 @@ Gli USA sovvenzionano quindi le forze di destra fino a che Pinochet prende il po
 
 In Argentina Videla fa sparire gli oppositori politici. L'argentina dopo la caduta di Videla elegge Peronne.
 Il MOnsignor Oscar Romeo venne assassinato in chiesa per essersi opposto alla dittatura in El Salvador.
+
+La carriera politica di De Gasperi si interrepompe nel 1953, quando approvò una legge elettorale detta "legge truffa", che introduceva il premio di maggioranza per chi avesse la maggioranza effettiva.
+
+Nascono vari sindacati, che fanno riferimento a vari partiti: CGIL -> PCI, CISL -> DC, UIL -> PSI.
+
+Il PIL sale del 6,3% annuo, i beni di consumo iniziano a crescere molto rapidamente.
+
+La fruizione televisiva è inzialmente una fruizione di gruppo nei bar, nel 1960 il 20% delle famiglie hano un televisore
+
+Cala la percentuale di persone impiegate nell'agricoltura. Le città si espandono in maniera caotica.
+
+Aldo Moro apre la DC a sinistra, sebbene non ben vista dalle gerarchie ecclesiastiche. Papa Giovanni XXIII si mostra al popolo non più come il rappresentante divino in tera, si rivolge direttamente alla gente, decide la messa in italiano.
