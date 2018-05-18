@@ -157,3 +157,16 @@ Spencer parte dalle teorie di darwin, che furono sconvolgenti perché eliminaron
 La filosofia per Spencer è un'interpretazione generale dei risultati scientifici.
 
 Applica i principi darwiniani anche al complesso sociale.
+
+# Mill
+Mill è soddisfatto con il sistema politico, ma ritiene che vada limitato il potere della società.
+
+Nelle civiltà antiche si era posto il problema dello scontro tra libertà e autorità, inizialmente era un problema di sudditi vs signori e quindi la libertà era protezione dalla tirannia. Il potere dei signori era considerato necessario, ma anche pericoloso, vengono quindi posti dei limiti al signore (e.g. Magna Charta), ossia dei diritti. Successivamente vengono introdotti dei controlli costituzionali.
+Ad un certo punto gli uomini hanno iniziato a ritenere che sarebbe meglio essere governati da un potere non indipendente, bensì scelto dal popolo.
+
+In Europa si è iniziato a pensare che non fossero più necessarie delle limitazioni per il potere, dato che gli interessi del potere adesso coincidono con quelli dei cittadini.
+Questa idea viene confutata dalla diffusione delle democrazie in europa, perché si inizia a vedere come anche nella democrazia il potere politico sia esercitato da una maggioranza su tutti, quindi non sempre gli interessi di chi governa coincidono con coloro che subiscono il governo.
+È quindi necessario difendere le minoranze dalla maggioranza, come prima ci si difendeva dai tiranni.
+
+La società tende ad avere un'azione conformatrice anche senza attività politica. La tirannia della società è quindi più difficile da contrastare, perché è più pervasiva.
+Secondo Mill è necessario proteggersi dalla società.

@@ -62,3 +62,27 @@ ofioliti (sedimento, basalto, gabbro, peridotite)
 
 Il frazionamento produce magmi più viscosi.
 
+Le eruzioni di tipo pelèeano: il cratere si riempie con un tappo di materiale magmatico, che viene spinto dai pochi gas presenti che durante le eruzioni si liberano in nubi tossiche discendenti.
+
+La lava è magma fuoriuscito e degassato. I tipi di lava sono:
+- pahoheoe, superficie liscia, lo scorrimento della lava interna dopo la formazione della crosta superficiale la deforma creando forme carateristiche, come la lava a corda
+- superficie scoriacea
+
+Il materiale solido di eruzione è invece classificato in:
+- cenere
+- lapilli
+- bombe vulcaniche
+
+Un'ulteriore attività vulcanica sono le colate di fango successive all'eruzione: in caso di precipitazioni intense rendano fango le ceneri. In alternativa l'acqua può essere fornita da depositi nevosi sul vulcano.
+
+Fenomeni secondari quando non ci sono vulcani attivi sono i geyser, le solfatare, mofete, bradisismi (lenti movimenti del suolo legati a cambiamenti di densità di una sacca magmatica sottostante)
+
+Il sisma parte da un punto detto ipocentro, il primo punto in superficie raggiunto dal sisma è l'epicentro, esso non è necessariamente sulla verticale dall'ipocentro, dipende dalla trasmissione delle rocce.
+
+Le onde possono essere di compressione e si propagano anche in mezzi liquidi (magma), oppure di taglio, non si propagano nei liquidi.
+Le onde di compressione (P) sono più veloci di quelle di taglio (S).
+
+Tra le onde superficiali invece abbiamo le onde di Rayleigh e di Love
+
+Scala mercalli: intensità di un terremoto, è una misura dei danni
+Scala richter: magnitudo di un terremoto, è una misura strumentale
