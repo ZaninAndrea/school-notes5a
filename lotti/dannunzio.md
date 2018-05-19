@@ -48,4 +48,18 @@ Pascoli aveva fossilizzato la cultura italiana, D'Annunzio la ssblocca, ma costr
 
 Il regime sfrutta l'immagine di D'Annunzio, ma lo isola perché è troppo ingobrante come figura.
 
-# Focus
+# Testi
+## Il Piacere
+> corrotto dall'alta cultura 
+
+Andrea Sperelli è stato cresciuto in un ambiente acculturato e raffinato, ma tanto più la sua cultura si accresceva, tanto più avvizziva il suo senso morale e si riduceva la sua azione.
+Era quindi stato corrotto dalla cultura.
+
+## Prefazione a Dorian Gray
+In questo passo vediamo chiaramente lo spirito di esteta di Wilde: egli ritiene che l'arte abbia senso e scopo in se stessa e debba essere scevra di moralità.
+Nessun argomento è vietato in quanto tutto è materiale per l'artista, il bello è l'unico fine.
+
+> Tutta l'arte è completamente inutile
+
+## Huysmans
+Viene descritta un quadro con una danzatrice, la cui 
