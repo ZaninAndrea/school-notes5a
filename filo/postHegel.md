@@ -183,3 +183,13 @@ L'unico scopo del potere (costringere qualcuno contro la sua volontà) è evitar
 Mill vuole avere un approcio puramente utilitarista abbandonando ogni idea della libertà come diritto astratto.
 
 Mill ritiene che la libertà che si deve conservare è quella nelle azioni che riguardano solo l'individuo stesso oppure se riguarda gli altri questi devono dare il loro consenso volontario e incondizionato.
+
+La prima libertà dell'individuo è l'ambito interiore della coscienza, ossia libertà di pensiero e di sentimento.
+La seconda libertà è quella di gusti e di intenti.
+La terza libertà è la libertà di associazione.
+
+Nessuna società è libera se non rispetta queste 3 libertà, nemmeno quella democratica
+
+La libertà è poter perseguire il proprio bene alla propria maniera, ognuno è il custode della sua salute.
+
+Nessuno è infallibile, quindi non si può sopprimere nessuna idea. La completa libertà di contraddizione è necessaria per assicurarsi che la mia idea sia vera.
