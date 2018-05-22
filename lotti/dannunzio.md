@@ -62,4 +62,10 @@ Nessun argomento è vietato in quanto tutto è materiale per l'artista, il bello
 > Tutta l'arte è completamente inutile
 
 ## Huysmans
-Viene descritta un quadro con una danzatrice, la cui 
+Viene descritto il quadro di una danzatrice, la raffigurazione però si separa dall'iconografia tradizionale e si abbandona ad emozioni selvagge, viscerali, ataviche.
+
+## Pioggia nel pineto
+La prima strofa introduce la pioggia attraverso forti ripetizioni. Successivamente viene presentata una descrizione fortemente sonora del bosco, viene esaltata la musicalità e l'armonia delle piante. Nella terza strofa il "pianto" della pioggia si intensifica coprendo tutti gli altri suoni. Alla fine Ermione e il poeta vengono descritti come in simbiosi con la natura, come parte della natura stessa.
+
+## La sera fiesolana
+Viene descritta la sera come personificazione in una figura femminile idealizzata. C'è una forte mescolanza di sensi (anche in forma di sinestesia) e una sovrabbondanza di elenchi, di esemplificazioni, di descrizioni.
