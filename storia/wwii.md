@@ -232,3 +232,4 @@ La fruizione televisiva è inzialmente una fruizione di gruppo nei bar, nel 1960
 Cala la percentuale di persone impiegate nell'agricoltura. Le città si espandono in maniera caotica.
 
 Aldo Moro apre la DC a sinistra, sebbene non ben vista dalle gerarchie ecclesiastiche. Papa Giovanni XXIII si mostra al popolo non più come il rappresentante divino in tera, si rivolge direttamente alla gente, decide la messa in italiano.
+
