@@ -166,5 +166,4 @@ he thinks that the middleclass rural england is inferior to him.
 ## Essay
 In a cold day in April Winston Smith entered the Victory Mansions escaping the rough wind, the entrance had a foul smell. At the end of the hallway a poster depicted the handsome face of the Big Brother.
 He chose the stairs, although it wasn't easy for him to walk, because the lift wasn't working. On each floor another poster awaited him, following him with its eyes. Entering the flat he found the voice of the telescreen, which couldn't be turned off; almost any sound and movement he made was detected by the instrument.
-Moving towards the window his skinny figure, his pale aspect, his rough skin were clearly visible.
-He tried to remember how London looked during his childhood, but his only memories were without a setting, all the while he gazed at the postwar decaying city around him.
+Moving towards the window his skinny figure, his pale aspect, his rough skin were clearly visible. He tried to remember how London looked during his childhood, but his only memories were without a setting, all the while he gazed at the postwar decaying city around him.
