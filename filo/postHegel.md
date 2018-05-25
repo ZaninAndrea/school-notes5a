@@ -158,7 +158,10 @@ La filosofia per Spencer è un'interpretazione generale dei risultati scientific
 
 Applica i principi darwiniani anche al complesso sociale.
 
-# Mill
+# Mill - On liberty
+## Introduction
+Mill si concentra sulla libertà socio-politica non su quella metafisica, quest'ultima infatti non è dimostrabile in maniera positiva.
+
 Mill è soddisfatto con il sistema politico, ma ritiene che vada limitato il potere della società.
 
 Nelle civiltà antiche si era posto il problema dello scontro tra libertà e autorità, inizialmente era un problema di sudditi vs signori e quindi la libertà era protezione dalla tirannia. Il potere dei signori era considerato necessario, ma anche pericoloso, vengono quindi posti dei limiti al signore (e.g. Magna Charta), ossia dei diritti. Successivamente vengono introdotti dei controlli costituzionali.
@@ -168,5 +171,25 @@ In Europa si è iniziato a pensare che non fossero più necessarie delle limitaz
 Questa idea viene confutata dalla diffusione delle democrazie in europa, perché si inizia a vedere come anche nella democrazia il potere politico sia esercitato da una maggioranza su tutti, quindi non sempre gli interessi di chi governa coincidono con coloro che subiscono il governo.
 È quindi necessario difendere le minoranze dalla maggioranza, come prima ci si difendeva dai tiranni.
 
+La tirannia della maggioranza si ha anche per azione della società e non solo della politica.
 La società tende ad avere un'azione conformatrice anche senza attività politica. La tirannia della società è quindi più difficile da contrastare, perché è più pervasiva.
 Secondo Mill è necessario proteggersi dalla società.
+
+## Powerpoint Cassisa
+Mill ritiene che la libertà sia utile.
+
+L'unico scopo del potere (costringere qualcuno contro la sua volontà) è evitare che una persona causi danno ad altri. Impedire di causare danno a se stesso non è sufficiente.
+
+Mill vuole avere un approcio puramente utilitarista abbandonando ogni idea della libertà come diritto astratto.
+
+Mill ritiene che la libertà che si deve conservare è quella nelle azioni che riguardano solo l'individuo stesso oppure se riguarda gli altri questi devono dare il loro consenso volontario e incondizionato.
+
+La prima libertà dell'individuo è l'ambito interiore della coscienza, ossia libertà di pensiero e di sentimento.
+La seconda libertà è quella di gusti e di intenti.
+La terza libertà è la libertà di associazione.
+
+Nessuna società è libera se non rispetta queste 3 libertà, nemmeno quella democratica
+
+La libertà è poter perseguire il proprio bene alla propria maniera, ognuno è il custode della sua salute.
+
+Nessuno è infallibile, quindi non si può sopprimere nessuna idea. La completa libertà di contraddizione è necessaria per assicurarsi che la mia idea sia vera.
