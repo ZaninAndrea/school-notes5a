@@ -9,3 +9,14 @@ Un uomo ha lasciato il suo paese abbandonando la donna che sta parlando. La sens
 
 ## Novembre
 La poesia inizia con una descrizione gioviale dell'estate, che però viene interrotta bruscamente. La natura attorno al poeta è morta.
+
+## Temporale
+
+
+## Lampo
+Pascoli descrive il momento in cui la notte viene illuminata da un lampo rivelando il cielo e la terra scossi dal temporale. A questo caos si contrappone la placida casa bianca.
+Ci trasmette la rapidità dell'evento facendo succedere i verbi "apparì sparì" e "s'aprì si chiuse" senza interpunzione, quasi fossero un'unica azione.
+
+
+## Il gelsomino notturno
+Viene descritta l'operosità della notte, 

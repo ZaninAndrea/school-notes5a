@@ -193,3 +193,7 @@ Nessuna società è libera se non rispetta queste 3 libertà, nemmeno quella dem
 La libertà è poter perseguire il proprio bene alla propria maniera, ognuno è il custode della sua salute.
 
 Nessuno è infallibile, quindi non si può sopprimere nessuna idea. La completa libertà di contraddizione è necessaria per assicurarsi che la mia idea sia vera.
+
+Anche se lo Stato ha posto tasse e leggi sbagliate, ma non per questo non deve più imporre tasse o promulgare leggi.
+
+La verità non osteggiata diventerebbe un dogma.
