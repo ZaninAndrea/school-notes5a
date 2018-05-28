@@ -196,4 +196,16 @@ Nessuno è infallibile, quindi non si può sopprimere nessuna idea. La completa 
 
 Anche se lo Stato ha posto tasse e leggi sbagliate, ma non per questo non deve più imporre tasse o promulgare leggi.
 
-La verità non osteggiata diventerebbe un dogma.
+La verità non osteggiata diventerebbe un dogma. Una verità senza idea contrastanti è come un amore senza tentazioni, la verità perdere quindi il suo effetto vitale sul carattere della persona e sulla condotta.
+Se silenziamo una qualsiasi opinione stiamo supponendo la nostra infallibilità e ciò non possiamo farlo.
+Ogni opinione potrebbe contenere un frammento di verità.
+
+Per le azioni la libertà dovrà essere meno ampia e anche le opinioni che incitano direttamente a compiere un atto dannoso perdono la loro immunità.
+
+Sono permesse le azioni che non danneggiano gli altri. Le tradizioni derivano da esperienze passate, queste però potrebbero essere state troppo ridotte, mal interpretate o la conclusione potrebbe non essere adatta ad una persona. Non si può imporre una tradizione.
+
+È sempre utile avere persone che agiscano in maniera originale, dando quindi l'esempio per un nuovo modo di vivere.
+
+Gli umani sono molto diversi tra loro, non possiamo quindi dare a tutti la stessa forma, persone diverse richiedono condizioni diverse.
+
+Il diritto di una persona ad avere un'opinione diversa è maggiore dell'indignazione di un altro verso questa opinione.
