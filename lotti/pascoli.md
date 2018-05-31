@@ -20,3 +20,21 @@ Ci trasmette la rapidità dell'evento facendo succedere i verbi "apparì sparì"
 
 ## Il gelsomino notturno
 Viene descritta l'operosità della notte, 
+
+## Grandi della Letteratura
+Pascoli è a cavallo tra 800 e 900, non è ancora un ermetico, è un rumorista, ma non un futurista. 
+La rivoluzione di Pascoli è inconsapevole, soprattutto nei temi, dopo Pascoli non ci saranno più termini aulici in poesia.
+Pascoli con la poesia "cerca di riscattare la vita".
+
+Pascoli è nazionalista, lo vediamo nel "la grande proletaria si è mossa" per la Guerra in Libia.
+
+Concetti chiave per Pascoli sono la famiglia, l'aspetto politico (che si evolve da totalmente rivoluzionario a totalmente integrato), l'aspetto accademico.
+
+Pascoli scrive in latino moderno quanto in italiano.
+
+La poetica di Pascoli è la poetica del fanciullino e la poetica di myricae (ossia la poesia piccola).
+
+La poesia di Pascoli è fortemente legata ai simboli ed ha un'attenzione nei confronti della lingua in 3 aspetti:
+- pregrammaticale: lingua legata al fonosimbolismo
+- grammaticale: la lingua normale
+- postgrammaticale: frutto di una contaminazione lessicale tra varie lingue e dialetti
